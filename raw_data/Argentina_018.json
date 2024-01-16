@@ -1,0 +1,25 @@
+{
+    "danceability": 0.658,
+    "energy": 0.798,
+    "key": 0,
+    "loudness": -4.108,
+    "mode": 1,
+    "speechiness": 0.138,
+    "acousticness": 0.0341,
+    "instrumentalness": 0,
+    "liveness": 0.175,
+    "valence": 0.568,
+    "tempo": 135.515,
+    "type": "audio_features",
+    "id": "2raFBS5ysJMxhd755bvAcf",
+    "uri": "spotify:track:2raFBS5ysJMxhd755bvAcf",
+    "track_href": "https://api.spotify.com/v1/tracks/2raFBS5ysJMxhd755bvAcf",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2raFBS5ysJMxhd755bvAcf",
+    "duration_ms": 145920,
+    "time_signature": 5,
+    "song_name": "JET_Set.mp3",
+    "artists": [
+        "Emilia",
+        "NATHY PELUSO"
+    ]
+}

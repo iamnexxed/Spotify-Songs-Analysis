@@ -1,0 +1,25 @@
+{
+    "danceability": 0.949,
+    "energy": 0.751,
+    "key": 2,
+    "loudness": -3.541,
+    "mode": 1,
+    "speechiness": 0.166,
+    "acousticness": 0.0366,
+    "instrumentalness": 9.32e-05,
+    "liveness": 0.065,
+    "valence": 0.691,
+    "tempo": 129.994,
+    "type": "audio_features",
+    "id": "2CHUSuvnHXjLTGdX6Bz6fv",
+    "uri": "spotify:track:2CHUSuvnHXjLTGdX6Bz6fv",
+    "track_href": "https://api.spotify.com/v1/tracks/2CHUSuvnHXjLTGdX6Bz6fv",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2CHUSuvnHXjLTGdX6Bz6fv",
+    "duration_ms": 113738,
+    "time_signature": 4,
+    "song_name": "Petit Fou Fou (feat. ANNA)",
+    "artists": [
+        "Rhove",
+        "ANNA"
+    ]
+}

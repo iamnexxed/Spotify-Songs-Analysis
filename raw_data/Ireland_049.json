@@ -1,0 +1,25 @@
+{
+    "danceability": 0.747,
+    "energy": 0.867,
+    "key": 0,
+    "loudness": -7.311,
+    "mode": 1,
+    "speechiness": 0.088,
+    "acousticness": 0.582,
+    "instrumentalness": 0.00413,
+    "liveness": 0.114,
+    "valence": 0.684,
+    "tempo": 124.015,
+    "type": "audio_features",
+    "id": "3YgtkOxZsTuaZdL8McA1FQ",
+    "uri": "spotify:track:3YgtkOxZsTuaZdL8McA1FQ",
+    "track_href": "https://api.spotify.com/v1/tracks/3YgtkOxZsTuaZdL8McA1FQ",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3YgtkOxZsTuaZdL8McA1FQ",
+    "duration_ms": 220653,
+    "time_signature": 4,
+    "song_name": "adore u",
+    "artists": [
+        "Fred again..",
+        "Obongjayar"
+    ]
+}

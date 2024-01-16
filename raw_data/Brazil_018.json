@@ -1,0 +1,24 @@
+{
+    "danceability": 0.664,
+    "energy": 0.839,
+    "key": 4,
+    "loudness": -3.379,
+    "mode": 0,
+    "speechiness": 0.0393,
+    "acousticness": 0.33,
+    "instrumentalness": 0,
+    "liveness": 0.94,
+    "valence": 0.48,
+    "tempo": 109.984,
+    "type": "audio_features",
+    "id": "4YKujFSyakVjLdH1sDllVc",
+    "uri": "spotify:track:4YKujFSyakVjLdH1sDllVc",
+    "track_href": "https://api.spotify.com/v1/tracks/4YKujFSyakVjLdH1sDllVc",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4YKujFSyakVjLdH1sDllVc",
+    "duration_ms": 173370,
+    "time_signature": 4,
+    "song_name": "Dois Fugitivos - Ao Vivo",
+    "artists": [
+        "Simone Mendes"
+    ]
+}

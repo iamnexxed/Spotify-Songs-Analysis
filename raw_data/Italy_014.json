@@ -1,0 +1,24 @@
+{
+    "danceability": 0.452,
+    "energy": 0.579,
+    "key": 2,
+    "loudness": -5.658,
+    "mode": 1,
+    "speechiness": 0.0755,
+    "acousticness": 0.0181,
+    "instrumentalness": 0,
+    "liveness": 0.192,
+    "valence": 0.297,
+    "tempo": 133.899,
+    "type": "audio_features",
+    "id": "5B5p5w9QV0QFBsnASmtL24",
+    "uri": "spotify:track:5B5p5w9QV0QFBsnASmtL24",
+    "track_href": "https://api.spotify.com/v1/tracks/5B5p5w9QV0QFBsnASmtL24",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5B5p5w9QV0QFBsnASmtL24",
+    "duration_ms": 162685,
+    "time_signature": 4,
+    "song_name": "ROSSOFUOCO",
+    "artists": [
+        "Mida"
+    ]
+}

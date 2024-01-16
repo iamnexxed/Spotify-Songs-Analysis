@@ -1,0 +1,25 @@
+{
+    "danceability": 0.833,
+    "energy": 0.809,
+    "key": 5,
+    "loudness": -2.751,
+    "mode": 0,
+    "speechiness": 0.0381,
+    "acousticness": 0.0836,
+    "instrumentalness": 0,
+    "liveness": 0.112,
+    "valence": 0.905,
+    "tempo": 128.055,
+    "type": "audio_features",
+    "id": "6Es8Sk3xe1HiJ2MXCfHHwR",
+    "uri": "spotify:track:6Es8Sk3xe1HiJ2MXCfHHwR",
+    "track_href": "https://api.spotify.com/v1/tracks/6Es8Sk3xe1HiJ2MXCfHHwR",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Es8Sk3xe1HiJ2MXCfHHwR",
+    "duration_ms": 140625,
+    "time_signature": 4,
+    "song_name": "La_Original.mp3",
+    "artists": [
+        "Emilia",
+        "TINI"
+    ]
+}

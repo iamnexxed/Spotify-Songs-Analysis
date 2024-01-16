@@ -1,0 +1,26 @@
+{
+    "danceability": 0.678,
+    "energy": 0.624,
+    "key": 6,
+    "loudness": -3.712,
+    "mode": 1,
+    "speechiness": 0.0589,
+    "acousticness": 0.279,
+    "instrumentalness": 0,
+    "liveness": 0.105,
+    "valence": 0.927,
+    "tempo": 90.983,
+    "type": "audio_features",
+    "id": "7HdEUquZzUzPjgSllvlJGl",
+    "uri": "spotify:track:7HdEUquZzUzPjgSllvlJGl",
+    "track_href": "https://api.spotify.com/v1/tracks/7HdEUquZzUzPjgSllvlJGl",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/7HdEUquZzUzPjgSllvlJGl",
+    "duration_ms": 145055,
+    "time_signature": 3,
+    "song_name": "Quiero Creer",
+    "artists": [
+        "Luck Ra",
+        "La T y La M",
+        "Rusherking"
+    ]
+}

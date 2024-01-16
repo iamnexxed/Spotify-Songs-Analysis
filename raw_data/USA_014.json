@@ -1,0 +1,24 @@
+{
+    "danceability": 0.369,
+    "energy": 0.192,
+    "key": 4,
+    "loudness": -12.151,
+    "mode": 0,
+    "speechiness": 0.04,
+    "acousticness": 0.555,
+    "instrumentalness": 8.35e-06,
+    "liveness": 0.0954,
+    "valence": 0.148,
+    "tempo": 175.212,
+    "type": "audio_features",
+    "id": "3WMj8moIAXJhHsyLaqIIHI",
+    "uri": "spotify:track:3WMj8moIAXJhHsyLaqIIHI",
+    "track_href": "https://api.spotify.com/v1/tracks/3WMj8moIAXJhHsyLaqIIHI",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3WMj8moIAXJhHsyLaqIIHI",
+    "duration_ms": 228013,
+    "time_signature": 3,
+    "song_name": "Something in the Orange",
+    "artists": [
+        "Zach Bryan"
+    ]
+}

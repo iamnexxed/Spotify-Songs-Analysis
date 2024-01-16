@@ -1,0 +1,27 @@
+{
+    "danceability": 0.729,
+    "energy": 0.807,
+    "key": 0,
+    "loudness": -4.468,
+    "mode": 1,
+    "speechiness": 0.0307,
+    "acousticness": 0.111,
+    "instrumentalness": 0,
+    "liveness": 0.145,
+    "valence": 0.654,
+    "tempo": 94.021,
+    "type": "audio_features",
+    "id": "2xbH0CuDbid800YW5nMPzR",
+    "uri": "spotify:track:2xbH0CuDbid800YW5nMPzR",
+    "track_href": "https://api.spotify.com/v1/tracks/2xbH0CuDbid800YW5nMPzR",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2xbH0CuDbid800YW5nMPzR",
+    "duration_ms": 217491,
+    "time_signature": 4,
+    "song_name": "SINVERG\u00dcENZA - con Angela Torres",
+    "artists": [
+        "Emanero",
+        "Karina",
+        "j mena",
+        "Angela Torres"
+    ]
+}

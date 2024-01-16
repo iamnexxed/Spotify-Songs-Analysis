@@ -1,0 +1,25 @@
+{
+    "danceability": 0.818,
+    "energy": 0.512,
+    "key": 5,
+    "loudness": -9.056,
+    "mode": 0,
+    "speechiness": 0.0926,
+    "acousticness": 0.093,
+    "instrumentalness": 0.0441,
+    "liveness": 0.11,
+    "valence": 0.155,
+    "tempo": 131.967,
+    "type": "audio_features",
+    "id": "6x9pCndnXEoea0CMcfjs9W",
+    "uri": "spotify:track:6x9pCndnXEoea0CMcfjs9W",
+    "track_href": "https://api.spotify.com/v1/tracks/6x9pCndnXEoea0CMcfjs9W",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6x9pCndnXEoea0CMcfjs9W",
+    "duration_ms": 143719,
+    "time_signature": 4,
+    "song_name": "n.h.i.e.",
+    "artists": [
+        "21 Savage",
+        "Doja Cat"
+    ]
+}

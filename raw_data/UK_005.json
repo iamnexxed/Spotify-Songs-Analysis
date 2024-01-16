@@ -1,0 +1,26 @@
+{
+    "danceability": 0.638,
+    "energy": 0.717,
+    "key": 8,
+    "loudness": -5.804,
+    "mode": 1,
+    "speechiness": 0.0375,
+    "acousticness": 0.001,
+    "instrumentalness": 1.79e-06,
+    "liveness": 0.113,
+    "valence": 0.422,
+    "tempo": 141.904,
+    "type": "audio_features",
+    "id": "59NraMJsLaMCVtwXTSia8i",
+    "uri": "spotify:track:59NraMJsLaMCVtwXTSia8i",
+    "track_href": "https://api.spotify.com/v1/tracks/59NraMJsLaMCVtwXTSia8i",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/59NraMJsLaMCVtwXTSia8i",
+    "duration_ms": 132359,
+    "time_signature": 4,
+    "song_name": "Prada",
+    "artists": [
+        "cass\u00f6",
+        "RAYE",
+        "D-Block Europe"
+    ]
+}

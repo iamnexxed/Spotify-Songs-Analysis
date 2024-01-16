@@ -1,0 +1,25 @@
+{
+    "danceability": 0.47,
+    "energy": 0.64,
+    "key": 2,
+    "loudness": -7.779,
+    "mode": 1,
+    "speechiness": 0.32,
+    "acousticness": 0.0277,
+    "instrumentalness": 0,
+    "liveness": 0.382,
+    "valence": 0.248,
+    "tempo": 163.92,
+    "type": "audio_features",
+    "id": "7aqfrAY2p9BUSiupwk3svU",
+    "uri": "spotify:track:7aqfrAY2p9BUSiupwk3svU",
+    "track_href": "https://api.spotify.com/v1/tracks/7aqfrAY2p9BUSiupwk3svU",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/7aqfrAY2p9BUSiupwk3svU",
+    "duration_ms": 247444,
+    "time_signature": 4,
+    "song_name": "First Person Shooter (feat. J. Cole)",
+    "artists": [
+        "Drake",
+        "J. Cole"
+    ]
+}

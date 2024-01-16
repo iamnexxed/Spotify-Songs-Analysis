@@ -1,0 +1,25 @@
+{
+    "danceability": 0.711,
+    "energy": 0.752,
+    "key": 7,
+    "loudness": -7.574,
+    "mode": 0,
+    "speechiness": 0.2,
+    "acousticness": 0.191,
+    "instrumentalness": 0.0106,
+    "liveness": 0.338,
+    "valence": 0.528,
+    "tempo": 145.047,
+    "type": "audio_features",
+    "id": "559YUIWxUc8Mx4lsla13Ff",
+    "uri": "spotify:track:559YUIWxUc8Mx4lsla13Ff",
+    "track_href": "https://api.spotify.com/v1/tracks/559YUIWxUc8Mx4lsla13Ff",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/559YUIWxUc8Mx4lsla13Ff",
+    "duration_ms": 190497,
+    "time_signature": 4,
+    "song_name": "MODELITO",
+    "artists": [
+        "Mora",
+        "YOVNGCHIMI"
+    ]
+}

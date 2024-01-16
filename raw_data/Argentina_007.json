@@ -1,0 +1,24 @@
+{
+    "danceability": 0.858,
+    "energy": 0.677,
+    "key": 8,
+    "loudness": -4.294,
+    "mode": 1,
+    "speechiness": 0.118,
+    "acousticness": 0.106,
+    "instrumentalness": 0,
+    "liveness": 0.246,
+    "valence": 0.584,
+    "tempo": 100.046,
+    "type": "audio_features",
+    "id": "5f4mOETLngamMDTJnbF9s7",
+    "uri": "spotify:track:5f4mOETLngamMDTJnbF9s7",
+    "track_href": "https://api.spotify.com/v1/tracks/5f4mOETLngamMDTJnbF9s7",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5f4mOETLngamMDTJnbF9s7",
+    "duration_ms": 120600,
+    "time_signature": 4,
+    "song_name": "Exclusive.mp3",
+    "artists": [
+        "Emilia"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "danceability": 0.708,
+    "energy": 0.737,
+    "key": 1,
+    "loudness": -4.045,
+    "mode": 1,
+    "speechiness": 0.0436,
+    "acousticness": 0.0739,
+    "instrumentalness": 0.00162,
+    "liveness": 0.0955,
+    "valence": 0.607,
+    "tempo": 91.986,
+    "type": "audio_features",
+    "id": "7ABLbnD53cQK00mhcaOUVG",
+    "uri": "spotify:track:7ABLbnD53cQK00mhcaOUVG",
+    "track_href": "https://api.spotify.com/v1/tracks/7ABLbnD53cQK00mhcaOUVG",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/7ABLbnD53cQK00mhcaOUVG",
+    "duration_ms": 197920,
+    "time_signature": 4,
+    "song_name": "LALA",
+    "artists": [
+        "Myke Towers"
+    ]
+}

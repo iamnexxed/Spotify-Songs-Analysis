@@ -1,0 +1,24 @@
+{
+    "danceability": 0.482,
+    "energy": 0.83,
+    "key": 11,
+    "loudness": -3.605,
+    "mode": 1,
+    "speechiness": 0.0544,
+    "acousticness": 0.08,
+    "instrumentalness": 0,
+    "liveness": 0.256,
+    "valence": 0.4,
+    "tempo": 127.974,
+    "type": "audio_features",
+    "id": "43u5DDtK4vQ1coWXb4S5a8",
+    "uri": "spotify:track:43u5DDtK4vQ1coWXb4S5a8",
+    "track_href": "https://api.spotify.com/v1/tracks/43u5DDtK4vQ1coWXb4S5a8",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/43u5DDtK4vQ1coWXb4S5a8",
+    "duration_ms": 216587,
+    "time_signature": 3,
+    "song_name": "HERO",
+    "artists": [
+        "Lim Young Woong"
+    ]
+}

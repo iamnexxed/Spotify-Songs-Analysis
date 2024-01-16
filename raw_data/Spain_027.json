@@ -1,0 +1,25 @@
+{
+    "danceability": 0.773,
+    "energy": 0.893,
+    "key": 1,
+    "loudness": -3.733,
+    "mode": 0,
+    "speechiness": 0.0483,
+    "acousticness": 0.164,
+    "instrumentalness": 3.01e-06,
+    "liveness": 0.429,
+    "valence": 0.842,
+    "tempo": 130.013,
+    "type": "audio_features",
+    "id": "21N77gfWYoQDvrLvaeiQgi",
+    "uri": "spotify:track:21N77gfWYoQDvrLvaeiQgi",
+    "track_href": "https://api.spotify.com/v1/tracks/21N77gfWYoQDvrLvaeiQgi",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/21N77gfWYoQDvrLvaeiQgi",
+    "duration_ms": 222462,
+    "time_signature": 4,
+    "song_name": "BABY HELLO",
+    "artists": [
+        "Rauw Alejandro",
+        "Bizarrap"
+    ]
+}

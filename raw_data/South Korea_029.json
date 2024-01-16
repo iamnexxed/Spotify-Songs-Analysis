@@ -1,0 +1,24 @@
+{
+    "danceability": 0.579,
+    "energy": 0.63,
+    "key": 8,
+    "loudness": -7.758,
+    "mode": 1,
+    "speechiness": 0.058,
+    "acousticness": 0.257,
+    "instrumentalness": 0.00462,
+    "liveness": 0.0986,
+    "valence": 0.552,
+    "tempo": 155.96,
+    "type": "audio_features",
+    "id": "5h1BN75CEh8wdSwE1xrbSe",
+    "uri": "spotify:track:5h1BN75CEh8wdSwE1xrbSe",
+    "track_href": "https://api.spotify.com/v1/tracks/5h1BN75CEh8wdSwE1xrbSe",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5h1BN75CEh8wdSwE1xrbSe",
+    "duration_ms": 187027,
+    "time_signature": 4,
+    "song_name": "Slow Dancing",
+    "artists": [
+        "V"
+    ]
+}

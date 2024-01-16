@@ -1,0 +1,26 @@
+{
+    "danceability": 0.821,
+    "energy": 0.687,
+    "key": 4,
+    "loudness": -3.515,
+    "mode": 0,
+    "speechiness": 0.0551,
+    "acousticness": 0.0916,
+    "instrumentalness": 3.14e-06,
+    "liveness": 0.0858,
+    "valence": 0.869,
+    "tempo": 129.906,
+    "type": "audio_features",
+    "id": "6GmyQws2xpUFIN5dXBNTrl",
+    "uri": "spotify:track:6GmyQws2xpUFIN5dXBNTrl",
+    "track_href": "https://api.spotify.com/v1/tracks/6GmyQws2xpUFIN5dXBNTrl",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6GmyQws2xpUFIN5dXBNTrl",
+    "duration_ms": 133611,
+    "time_signature": 4,
+    "song_name": "Dia de Fluxo",
+    "artists": [
+        "AgroPlay",
+        "Ana Castela",
+        "LUDMILLA"
+    ]
+}

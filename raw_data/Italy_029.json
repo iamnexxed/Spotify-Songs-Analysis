@@ -1,0 +1,26 @@
+{
+    "danceability": 0.692,
+    "energy": 0.57,
+    "key": 6,
+    "loudness": -6.432,
+    "mode": 0,
+    "speechiness": 0.379,
+    "acousticness": 0.0656,
+    "instrumentalness": 0,
+    "liveness": 0.114,
+    "valence": 0.63,
+    "tempo": 126.885,
+    "type": "audio_features",
+    "id": "4pl1S8uglG2vYJ45IIgIo2",
+    "uri": "spotify:track:4pl1S8uglG2vYJ45IIgIo2",
+    "track_href": "https://api.spotify.com/v1/tracks/4pl1S8uglG2vYJ45IIgIo2",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4pl1S8uglG2vYJ45IIgIo2",
+    "duration_ms": 132309,
+    "time_signature": 4,
+    "song_name": "SOLDI A CASA (feat. Ghali)",
+    "artists": [
+        "Simba La Rue",
+        "FT Kings",
+        "Ghali"
+    ]
+}

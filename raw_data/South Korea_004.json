@@ -1,0 +1,24 @@
+{
+    "danceability": 0.585,
+    "energy": 0.815,
+    "key": 0,
+    "loudness": -4.165,
+    "mode": 0,
+    "speechiness": 0.0565,
+    "acousticness": 0.115,
+    "instrumentalness": 0,
+    "liveness": 0.124,
+    "valence": 0.564,
+    "tempo": 132.09,
+    "type": "audio_features",
+    "id": "59hBR0BCtJsfIbV9VzCVAp",
+    "uri": "spotify:track:59hBR0BCtJsfIbV9VzCVAp",
+    "track_href": "https://api.spotify.com/v1/tracks/59hBR0BCtJsfIbV9VzCVAp",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/59hBR0BCtJsfIbV9VzCVAp",
+    "duration_ms": 200930,
+    "time_signature": 4,
+    "song_name": "Set Me Free Pt.2",
+    "artists": [
+        "Jimin"
+    ]
+}

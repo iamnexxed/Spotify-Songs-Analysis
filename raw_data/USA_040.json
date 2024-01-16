@@ -1,0 +1,24 @@
+{
+    "danceability": 0.444,
+    "energy": 0.0911,
+    "key": 0,
+    "loudness": -17.665,
+    "mode": 1,
+    "speechiness": 0.0307,
+    "acousticness": 0.959,
+    "instrumentalness": 1.05e-06,
+    "liveness": 0.098,
+    "valence": 0.142,
+    "tempo": 78.403,
+    "type": "audio_features",
+    "id": "6wf7Yu7cxBSPrRlWeSeK0Q",
+    "uri": "spotify:track:6wf7Yu7cxBSPrRlWeSeK0Q",
+    "track_href": "https://api.spotify.com/v1/tracks/6wf7Yu7cxBSPrRlWeSeK0Q",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6wf7Yu7cxBSPrRlWeSeK0Q",
+    "duration_ms": 222370,
+    "time_signature": 4,
+    "song_name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+    "artists": [
+        "Billie Eilish"
+    ]
+}

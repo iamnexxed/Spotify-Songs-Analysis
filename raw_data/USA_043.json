@@ -1,0 +1,24 @@
+{
+    "danceability": 0.644,
+    "energy": 0.735,
+    "key": 8,
+    "loudness": -5.747,
+    "mode": 1,
+    "speechiness": 0.0391,
+    "acousticness": 0.0521,
+    "instrumentalness": 0.144,
+    "liveness": 0.161,
+    "valence": 0.418,
+    "tempo": 88.98,
+    "type": "audio_features",
+    "id": "1Qrg8KqiBpW07V7PNxwwwL",
+    "uri": "spotify:track:1Qrg8KqiBpW07V7PNxwwwL",
+    "track_href": "https://api.spotify.com/v1/tracks/1Qrg8KqiBpW07V7PNxwwwL",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Qrg8KqiBpW07V7PNxwwwL",
+    "duration_ms": 153947,
+    "time_signature": 4,
+    "song_name": "Kill Bill",
+    "artists": [
+        "SZA"
+    ]
+}

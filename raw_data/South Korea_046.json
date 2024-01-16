@@ -1,0 +1,24 @@
+{
+    "danceability": 0.804,
+    "energy": 0.771,
+    "key": 9,
+    "loudness": -4.067,
+    "mode": 0,
+    "speechiness": 0.0433,
+    "acousticness": 0.357,
+    "instrumentalness": 3.07e-06,
+    "liveness": 0.108,
+    "valence": 0.739,
+    "tempo": 126.956,
+    "type": "audio_features",
+    "id": "65FftemJ1DbbZ45DUfHJXE",
+    "uri": "spotify:track:65FftemJ1DbbZ45DUfHJXE",
+    "track_href": "https://api.spotify.com/v1/tracks/65FftemJ1DbbZ45DUfHJXE",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/65FftemJ1DbbZ45DUfHJXE",
+    "duration_ms": 212253,
+    "time_signature": 4,
+    "song_name": "OMG",
+    "artists": [
+        "NewJeans"
+    ]
+}

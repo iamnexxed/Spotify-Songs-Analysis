@@ -1,0 +1,25 @@
+{
+    "danceability": 0.863,
+    "energy": 0.96,
+    "key": 11,
+    "loudness": -1.458,
+    "mode": 1,
+    "speechiness": 0.0492,
+    "acousticness": 0.497,
+    "instrumentalness": 0.00526,
+    "liveness": 0.0853,
+    "valence": 0.586,
+    "tempo": 130.118,
+    "type": "audio_features",
+    "id": "0fABszUFNbNq9IW503Gj8v",
+    "uri": "spotify:track:0fABszUFNbNq9IW503Gj8v",
+    "track_href": "https://api.spotify.com/v1/tracks/0fABszUFNbNq9IW503Gj8v",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/0fABszUFNbNq9IW503Gj8v",
+    "duration_ms": 92093,
+    "time_signature": 4,
+    "song_name": "T\u00e1 OK",
+    "artists": [
+        "DENNIS",
+        "MC Kevin o Chris"
+    ]
+}

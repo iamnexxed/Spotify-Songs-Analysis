@@ -1,0 +1,24 @@
+{
+    "danceability": 0.555,
+    "energy": 0.216,
+    "key": 3,
+    "loudness": -11.661,
+    "mode": 1,
+    "speechiness": 0.0721,
+    "acousticness": 0.557,
+    "instrumentalness": 0.00416,
+    "liveness": 0.109,
+    "valence": 0.504,
+    "tempo": 79.109,
+    "type": "audio_features",
+    "id": "6me7F0aaZjwDo6RJ5MrfBD",
+    "uri": "spotify:track:6me7F0aaZjwDo6RJ5MrfBD",
+    "track_href": "https://api.spotify.com/v1/tracks/6me7F0aaZjwDo6RJ5MrfBD",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6me7F0aaZjwDo6RJ5MrfBD",
+    "duration_ms": 87000,
+    "time_signature": 3,
+    "song_name": "Evergreen",
+    "artists": [
+        "Richy Mitch & The Coal Miners"
+    ]
+}

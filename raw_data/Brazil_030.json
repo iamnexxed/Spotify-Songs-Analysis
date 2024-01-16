@@ -1,0 +1,25 @@
+{
+    "danceability": 0.657,
+    "energy": 0.778,
+    "key": 7,
+    "loudness": -4.439,
+    "mode": 1,
+    "speechiness": 0.0587,
+    "acousticness": 0.636,
+    "instrumentalness": 0,
+    "liveness": 0.356,
+    "valence": 0.733,
+    "tempo": 156.144,
+    "type": "audio_features",
+    "id": "6C4nUySvjSQWoZamSKJBqH",
+    "uri": "spotify:track:6C4nUySvjSQWoZamSKJBqH",
+    "track_href": "https://api.spotify.com/v1/tracks/6C4nUySvjSQWoZamSKJBqH",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6C4nUySvjSQWoZamSKJBqH",
+    "duration_ms": 153237,
+    "time_signature": 4,
+    "song_name": "Mala dos Porta-Mala - Ao Vivo",
+    "artists": [
+        "Gusttavo Lima",
+        "Matheus & Kauan"
+    ]
+}

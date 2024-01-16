@@ -1,0 +1,25 @@
+{
+    "danceability": 0.73,
+    "energy": 0.854,
+    "key": 3,
+    "loudness": -5.115,
+    "mode": 0,
+    "speechiness": 0.0515,
+    "acousticness": 0.0935,
+    "instrumentalness": 0,
+    "liveness": 0.688,
+    "valence": 0.966,
+    "tempo": 148.038,
+    "type": "audio_features",
+    "id": "1NMbORRsowjN8q000xlJ8l",
+    "uri": "spotify:track:1NMbORRsowjN8q000xlJ8l",
+    "track_href": "https://api.spotify.com/v1/tracks/1NMbORRsowjN8q000xlJ8l",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1NMbORRsowjN8q000xlJ8l",
+    "duration_ms": 165919,
+    "time_signature": 4,
+    "song_name": "QUE ME FALTE TODO",
+    "artists": [
+        "Luck Ra",
+        "Abel Pintos"
+    ]
+}

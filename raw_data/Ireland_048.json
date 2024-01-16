@@ -1,0 +1,24 @@
+{
+    "danceability": 0.508,
+    "energy": 0.43,
+    "key": 2,
+    "loudness": -9.475,
+    "mode": 0,
+    "speechiness": 0.0335,
+    "acousticness": 0.83,
+    "instrumentalness": 0.000441,
+    "liveness": 0.093,
+    "valence": 0.324,
+    "tempo": 130.09,
+    "type": "audio_features",
+    "id": "1odExI7RdWc4BT515LTAwj",
+    "uri": "spotify:track:1odExI7RdWc4BT515LTAwj",
+    "track_href": "https://api.spotify.com/v1/tracks/1odExI7RdWc4BT515LTAwj",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1odExI7RdWc4BT515LTAwj",
+    "duration_ms": 212954,
+    "time_signature": 4,
+    "song_name": "Daylight",
+    "artists": [
+        "David Kushner"
+    ]
+}

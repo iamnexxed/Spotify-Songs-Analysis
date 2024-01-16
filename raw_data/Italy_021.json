@@ -1,0 +1,24 @@
+{
+    "danceability": 0.764,
+    "energy": 0.593,
+    "key": 8,
+    "loudness": -7.853,
+    "mode": 1,
+    "speechiness": 0.029,
+    "acousticness": 0.157,
+    "instrumentalness": 1.94e-06,
+    "liveness": 0.144,
+    "valence": 0.668,
+    "tempo": 122.959,
+    "type": "audio_features",
+    "id": "7yS8LfvvFEhtGhKLk29j5a",
+    "uri": "spotify:track:7yS8LfvvFEhtGhKLk29j5a",
+    "track_href": "https://api.spotify.com/v1/tracks/7yS8LfvvFEhtGhKLk29j5a",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/7yS8LfvvFEhtGhKLk29j5a",
+    "duration_ms": 214291,
+    "time_signature": 4,
+    "song_name": "2minuti",
+    "artists": [
+        "Calcutta "
+    ]
+}

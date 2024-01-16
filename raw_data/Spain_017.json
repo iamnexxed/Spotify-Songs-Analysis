@@ -1,0 +1,24 @@
+{
+    "danceability": 0.73,
+    "energy": 0.87,
+    "key": 1,
+    "loudness": -3.718,
+    "mode": 0,
+    "speechiness": 0.0561,
+    "acousticness": 0.0272,
+    "instrumentalness": 2.9e-06,
+    "liveness": 0.45,
+    "valence": 0.184,
+    "tempo": 132.011,
+    "type": "audio_features",
+    "id": "6KHxe3Yj8W8oq3zviUvJRe",
+    "uri": "spotify:track:6KHxe3Yj8W8oq3zviUvJRe",
+    "track_href": "https://api.spotify.com/v1/tracks/6KHxe3Yj8W8oq3zviUvJRe",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6KHxe3Yj8W8oq3zviUvJRe",
+    "duration_ms": 172727,
+    "time_signature": 4,
+    "song_name": "Madrid City",
+    "artists": [
+        "Ana Mena"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "danceability": 0.682,
+    "energy": 0.668,
+    "key": 0,
+    "loudness": -6.586,
+    "mode": 0,
+    "speechiness": 0.104,
+    "acousticness": 0.496,
+    "instrumentalness": 0,
+    "liveness": 0.171,
+    "valence": 0.644,
+    "tempo": 120.088,
+    "type": "audio_features",
+    "id": "4QCwvUs4ob87Tq9VP07Uo3",
+    "uri": "spotify:track:4QCwvUs4ob87Tq9VP07Uo3",
+    "track_href": "https://api.spotify.com/v1/tracks/4QCwvUs4ob87Tq9VP07Uo3",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4QCwvUs4ob87Tq9VP07Uo3",
+    "duration_ms": 181500,
+    "time_signature": 4,
+    "song_name": "Loucura",
+    "artists": [
+        "Borges",
+        "MC Cabelinho",
+        "Veigh",
+        "RUXN",
+        "Palma",
+        "Kizzy"
+    ]
+}

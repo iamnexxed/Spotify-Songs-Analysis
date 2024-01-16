@@ -1,0 +1,24 @@
+{
+    "danceability": 0.527,
+    "energy": 0.551,
+    "key": 7,
+    "loudness": -11.258,
+    "mode": 1,
+    "speechiness": 0.0345,
+    "acousticness": 0.384,
+    "instrumentalness": 2.75e-06,
+    "liveness": 0.403,
+    "valence": 0.443,
+    "tempo": 148.035,
+    "type": "audio_features",
+    "id": "3Pbp7cUCx4d3OAkZSCoNvn",
+    "uri": "spotify:track:3Pbp7cUCx4d3OAkZSCoNvn",
+    "track_href": "https://api.spotify.com/v1/tracks/3Pbp7cUCx4d3OAkZSCoNvn",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Pbp7cUCx4d3OAkZSCoNvn",
+    "duration_ms": 159636,
+    "time_signature": 4,
+    "song_name": "Scared To Start",
+    "artists": [
+        "Michael Marcagi"
+    ]
+}

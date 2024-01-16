@@ -1,0 +1,24 @@
+{
+    "danceability": 0.679,
+    "energy": 0.831,
+    "key": 3,
+    "loudness": -3.989,
+    "mode": 1,
+    "speechiness": 0.312,
+    "acousticness": 0.121,
+    "instrumentalness": 0,
+    "liveness": 0.229,
+    "valence": 0.787,
+    "tempo": 74.861,
+    "type": "audio_features",
+    "id": "55BbuGqOvwaJd9tw16aVSc",
+    "uri": "spotify:track:55BbuGqOvwaJd9tw16aVSc",
+    "track_href": "https://api.spotify.com/v1/tracks/55BbuGqOvwaJd9tw16aVSc",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/55BbuGqOvwaJd9tw16aVSc",
+    "duration_ms": 163621,
+    "time_signature": 4,
+    "song_name": "Frate",
+    "artists": [
+        "Club Dogo"
+    ]
+}

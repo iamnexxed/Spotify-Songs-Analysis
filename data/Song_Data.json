@@ -1,0 +1,4711 @@
+{
+    "0":{
+        "country":"Ireland",
+        "energy":0.575,
+        "danceability":0.821,
+        "loudness":-6.57,
+        "speechiness":0.0589,
+        "duration_ms":159401,
+        "artists":[
+            "Tate McRae"
+        ]
+    },
+    "1":{
+        "country":"Ireland",
+        "energy":0.658,
+        "danceability":0.596,
+        "loudness":-7.346,
+        "speechiness":0.036,
+        "duration_ms":229478,
+        "artists":[
+            "Taylor Swift"
+        ]
+    },
+    "2":{
+        "country":"Ireland",
+        "energy":0.192,
+        "danceability":0.369,
+        "loudness":-12.151,
+        "speechiness":0.04,
+        "duration_ms":228013,
+        "artists":[
+            "Zach Bryan"
+        ]
+    },
+    "3":{
+        "country":"Ireland",
+        "energy":0.854,
+        "danceability":0.477,
+        "loudness":-5.274,
+        "speechiness":0.0896,
+        "duration_ms":191591,
+        "artists":[
+            "Sonny Fodera",
+            "MK",
+            "Clementine Douglas"
+        ]
+    },
+    "4":{
+        "country":"Ireland",
+        "energy":0.453,
+        "danceability":0.429,
+        "loudness":-7.746,
+        "speechiness":0.0459,
+        "duration_ms":227196,
+        "artists":[
+            "Zach Bryan",
+            "Kacey Musgraves"
+        ]
+    },
+    "5":{
+        "country":"Ireland",
+        "energy":0.8,
+        "danceability":0.706,
+        "loudness":-6.333,
+        "speechiness":0.0399,
+        "duration_ms":259333,
+        "artists":[
+            "Natasha Bedingfield"
+        ]
+    },
+    "6":{
+        "country":"Ireland",
+        "energy":0.617,
+        "danceability":0.486,
+        "loudness":-7.115,
+        "speechiness":0.0287,
+        "duration_ms":242373,
+        "artists":[
+            "Coldplay"
+        ]
+    },
+    "7":{
+        "country":"Ireland",
+        "energy":0.731,
+        "danceability":0.484,
+        "loudness":-6.694,
+        "speechiness":0.0379,
+        "duration_ms":204280,
+        "artists":[
+            "Vance Joy"
+        ]
+    },
+    "8":{
+        "country":"Ireland",
+        "energy":0.36,
+        "danceability":0.59,
+        "loudness":-9.643,
+        "speechiness":0.0301,
+        "duration_ms":286369,
+        "artists":[
+            "Noah Kahan"
+        ]
+    },
+    "9":{
+        "country":"Ireland",
+        "energy":0.216,
+        "danceability":0.555,
+        "loudness":-11.661,
+        "speechiness":0.0721,
+        "duration_ms":87000,
+        "artists":[
+            "Richy Mitch & The Coal Miners"
+        ]
+    },
+    "10":{
+        "country":"Ireland",
+        "energy":0.64,
+        "danceability":0.486,
+        "loudness":-8.027,
+        "speechiness":0.0551,
+        "duration_ms":267256,
+        "artists":[
+            "Noah Kahan",
+            "Hozier"
+        ]
+    },
+    "11":{
+        "country":"Ireland",
+        "energy":0.583,
+        "danceability":0.916,
+        "loudness":-8.067,
+        "speechiness":0.241,
+        "duration_ms":226383,
+        "artists":[
+            "Dave",
+            "Central Cee"
+        ]
+    },
+    "12":{
+        "country":"Ireland",
+        "energy":0.849,
+        "danceability":0.73,
+        "loudness":-5.281,
+        "speechiness":0.0299,
+        "duration_ms":230013,
+        "artists":[
+            "Sophie Ellis-Bextor"
+        ]
+    },
+    "13":{
+        "country":"Ireland",
+        "energy":0.867,
+        "danceability":0.731,
+        "loudness":-6.169,
+        "speechiness":0.0576,
+        "duration_ms":164920,
+        "artists":[
+            "Billy Gillies",
+            "Hannah Boleyn"
+        ]
+    },
+    "14":{
+        "country":"Ireland",
+        "energy":0.686,
+        "danceability":0.787,
+        "loudness":-4.37,
+        "speechiness":0.0339,
+        "duration_ms":185553,
+        "artists":[
+            "Sabrina Carpenter"
+        ]
+    },
+    "15":{
+        "country":"Ireland",
+        "energy":0.363,
+        "danceability":0.531,
+        "loudness":-7.672,
+        "speechiness":0.0608,
+        "duration_ms":229720,
+        "artists":[
+            "Hozier"
+        ]
+    },
+    "16":{
+        "country":"Ireland",
+        "energy":0.678,
+        "danceability":0.855,
+        "loudness":-6.276,
+        "speechiness":0.189,
+        "duration_ms":215467,
+        "artists":[
+            "The Weeknd",
+            "Playboi Carti",
+            "Madonna"
+        ]
+    },
+    "17":{
+        "country":"Ireland",
+        "energy":0.488,
+        "danceability":0.662,
+        "loudness":-6.894,
+        "speechiness":0.0682,
+        "duration_ms":182347,
+        "artists":[
+            "Noah Kahan"
+        ]
+    },
+    "18":{
+        "country":"Ireland",
+        "energy":0.785,
+        "danceability":0.741,
+        "loudness":-5.211,
+        "speechiness":0.0718,
+        "duration_ms":166299,
+        "artists":[
+            "Nicki Minaj"
+        ]
+    },
+    "19":{
+        "country":"Ireland",
+        "energy":0.74,
+        "danceability":0.624,
+        "loudness":-8.445,
+        "speechiness":0.0481,
+        "duration_ms":270698,
+        "artists":[
+            "21 Savage"
+        ]
+    },
+    "20":{
+        "country":"Ireland",
+        "energy":0.664,
+        "danceability":0.566,
+        "loudness":-5.303,
+        "speechiness":0.0464,
+        "duration_ms":241693,
+        "artists":[
+            "Hozier"
+        ]
+    },
+    "21":{
+        "country":"Ireland",
+        "energy":0.717,
+        "danceability":0.638,
+        "loudness":-5.804,
+        "speechiness":0.0375,
+        "duration_ms":132359,
+        "artists":[
+            "cass\u00f6",
+            "RAYE",
+            "D-Block Europe"
+        ]
+    },
+    "22":{
+        "country":"Ireland",
+        "energy":0.845,
+        "danceability":0.667,
+        "loudness":-6.845,
+        "speechiness":0.0812,
+        "duration_ms":161250,
+        "artists":[
+            "Mason",
+            "Princess Superstar"
+        ]
+    },
+    "23":{
+        "country":"Ireland",
+        "energy":0.308,
+        "danceability":0.504,
+        "loudness":-14.958,
+        "speechiness":0.0321,
+        "duration_ms":137773,
+        "artists":[
+            "Mitski"
+        ]
+    },
+    "24":{
+        "country":"Ireland",
+        "energy":0.537,
+        "danceability":0.445,
+        "loudness":-8.532,
+        "speechiness":0.04,
+        "duration_ms":244360,
+        "artists":[
+            "Tom Odell"
+        ]
+    },
+    "25":{
+        "country":"Ireland",
+        "energy":0.368,
+        "danceability":0.518,
+        "loudness":-7.76,
+        "speechiness":0.0353,
+        "duration_ms":205484,
+        "artists":[
+            "Olivia Rodrigo"
+        ]
+    },
+    "26":{
+        "country":"Ireland",
+        "energy":0.366,
+        "danceability":0.545,
+        "loudness":-9.51,
+        "speechiness":0.0378,
+        "duration_ms":208212,
+        "artists":[
+            "Lord Huron"
+        ]
+    },
+    "27":{
+        "country":"Ireland",
+        "energy":0.613,
+        "danceability":0.667,
+        "loudness":-7.147,
+        "speechiness":0.0313,
+        "duration_ms":213817,
+        "artists":[
+            "Noah Kahan",
+            "Post Malone"
+        ]
+    },
+    "28":{
+        "country":"Ireland",
+        "energy":0.0911,
+        "danceability":0.444,
+        "loudness":-17.665,
+        "speechiness":0.0307,
+        "duration_ms":222370,
+        "artists":[
+            "Billie Eilish"
+        ]
+    },
+    "29":{
+        "country":"Ireland",
+        "energy":0.729,
+        "danceability":0.645,
+        "loudness":-4.56,
+        "speechiness":0.0528,
+        "duration_ms":319192,
+        "artists":[
+            "Drake",
+            "Sexyy Red",
+            "SZA"
+        ]
+    },
+    "30":{
+        "country":"Ireland",
+        "energy":0.789,
+        "danceability":0.744,
+        "loudness":-4.876,
+        "speechiness":0.059,
+        "duration_ms":185918,
+        "artists":[
+            "Dua Lipa"
+        ]
+    },
+    "31":{
+        "country":"Ireland",
+        "energy":0.567,
+        "danceability":0.781,
+        "loudness":-7.857,
+        "speechiness":0.0969,
+        "duration_ms":125902,
+        "artists":[
+            "Flo Milli"
+        ]
+    },
+    "32":{
+        "country":"Ireland",
+        "energy":0.758,
+        "danceability":0.788,
+        "loudness":-6.513,
+        "speechiness":0.0505,
+        "duration_ms":214994,
+        "artists":[
+            "Ariana Grande"
+        ]
+    },
+    "33":{
+        "country":"Ireland",
+        "energy":0.758,
+        "danceability":0.678,
+        "loudness":-6.524,
+        "speechiness":0.227,
+        "duration_ms":220584,
+        "artists":[
+            "21 Savage",
+            "Travis Scott",
+            "Metro Boomin"
+        ]
+    },
+    "34":{
+        "country":"Ireland",
+        "energy":0.911,
+        "danceability":0.352,
+        "loudness":-5.23,
+        "speechiness":0.0747,
+        "duration_ms":222973,
+        "artists":[
+            "The Killers"
+        ]
+    },
+    "35":{
+        "country":"Ireland",
+        "energy":0.722,
+        "danceability":0.673,
+        "loudness":-3.495,
+        "speechiness":0.0755,
+        "duration_ms":200256,
+        "artists":[
+            "Tyla"
+        ]
+    },
+    "36":{
+        "country":"Ireland",
+        "energy":0.523,
+        "danceability":0.628,
+        "loudness":-8.307,
+        "speechiness":0.0946,
+        "duration_ms":172965,
+        "artists":[
+            "Kenya Grace"
+        ]
+    },
+    "37":{
+        "country":"Ireland",
+        "energy":0.43,
+        "danceability":0.508,
+        "loudness":-9.475,
+        "speechiness":0.0335,
+        "duration_ms":212954,
+        "artists":[
+            "David Kushner"
+        ]
+    },
+    "38":{
+        "country":"Ireland",
+        "energy":0.551,
+        "danceability":0.527,
+        "loudness":-11.258,
+        "speechiness":0.0345,
+        "duration_ms":159636,
+        "artists":[
+            "Michael Marcagi"
+        ]
+    },
+    "39":{
+        "country":"Ireland",
+        "energy":0.733,
+        "danceability":0.75,
+        "loudness":-3.18,
+        "speechiness":0.0319,
+        "duration_ms":131872,
+        "artists":[
+            "Tate McRae"
+        ]
+    },
+    "40":{
+        "country":"Ireland",
+        "energy":0.568,
+        "danceability":0.374,
+        "loudness":-3.825,
+        "speechiness":0.109,
+        "duration_ms":547733,
+        "artists":[
+            "Kanye West",
+            "Pusha T"
+        ]
+    },
+    "41":{
+        "country":"Ireland",
+        "energy":0.532,
+        "danceability":0.511,
+        "loudness":-5.745,
+        "speechiness":0.0578,
+        "duration_ms":219724,
+        "artists":[
+            "Olivia Rodrigo"
+        ]
+    },
+    "42":{
+        "country":"Ireland",
+        "energy":0.604,
+        "danceability":0.561,
+        "loudness":-4.409,
+        "speechiness":0.0337,
+        "duration_ms":210689,
+        "artists":[
+            "Teddy Swims"
+        ]
+    },
+    "43":{
+        "country":"Ireland",
+        "energy":0.601,
+        "danceability":0.612,
+        "loudness":-7.809,
+        "speechiness":0.0421,
+        "duration_ms":298693,
+        "artists":[
+            "Paolo Nutini"
+        ]
+    },
+    "44":{
+        "country":"Ireland",
+        "energy":0.558,
+        "danceability":0.943,
+        "loudness":-4.911,
+        "speechiness":0.0568,
+        "duration_ms":138411,
+        "artists":[
+            "Jack Harlow"
+        ]
+    },
+    "45":{
+        "country":"Ireland",
+        "energy":0.688,
+        "danceability":0.492,
+        "loudness":-4.989,
+        "speechiness":0.046,
+        "duration_ms":222912,
+        "artists":[
+            "Zara Larsson",
+            "David Guetta"
+        ]
+    },
+    "46":{
+        "country":"Ireland",
+        "energy":0.867,
+        "danceability":0.747,
+        "loudness":-7.311,
+        "speechiness":0.088,
+        "duration_ms":220653,
+        "artists":[
+            "Fred again..",
+            "Obongjayar"
+        ]
+    },
+    "47":{
+        "country":"Ireland",
+        "energy":0.702,
+        "danceability":0.552,
+        "loudness":-5.707,
+        "speechiness":0.157,
+        "duration_ms":178427,
+        "artists":[
+            "Taylor Swift"
+        ]
+    },
+    "48":{
+        "country":"Ireland",
+        "energy":0.845,
+        "danceability":0.671,
+        "loudness":-4.93,
+        "speechiness":0.048,
+        "duration_ms":176579,
+        "artists":[
+            "Dua Lipa"
+        ]
+    },
+    "49":{
+        "country":"Ireland",
+        "energy":0.556,
+        "danceability":0.864,
+        "loudness":-7.683,
+        "speechiness":0.194,
+        "duration_ms":230480,
+        "artists":[
+            "Doja Cat"
+        ]
+    },
+    "50":{
+        "country":"Spain",
+        "energy":0.679,
+        "danceability":0.835,
+        "loudness":-5.329,
+        "speechiness":0.0364,
+        "duration_ms":162638,
+        "artists":[
+            "Manuel Turizo"
+        ]
+    },
+    "51":{
+        "country":"Spain",
+        "energy":0.755,
+        "danceability":0.625,
+        "loudness":-4.643,
+        "speechiness":0.0724,
+        "duration_ms":192955,
+        "artists":[
+            "Quevedo",
+            "Saiko"
+        ]
+    },
+    "52":{
+        "country":"Spain",
+        "energy":0.571,
+        "danceability":0.704,
+        "loudness":-8.212,
+        "speechiness":0.156,
+        "duration_ms":190000,
+        "artists":[
+            "Bizarrap",
+            "Young Miko"
+        ]
+    },
+    "53":{
+        "country":"Spain",
+        "energy":0.866,
+        "danceability":0.813,
+        "loudness":-3.239,
+        "speechiness":0.0851,
+        "duration_ms":235200,
+        "artists":[
+            "Anuel AA",
+            "Quevedo",
+            "Maluma",
+            "Mambo Kingz",
+            "DJ Luian"
+        ]
+    },
+    "54":{
+        "country":"Spain",
+        "energy":0.519,
+        "danceability":0.722,
+        "loudness":-10.142,
+        "speechiness":0.297,
+        "duration_ms":144427,
+        "artists":[
+            "Mora"
+        ]
+    },
+    "55":{
+        "country":"Spain",
+        "energy":0.642,
+        "danceability":0.715,
+        "loudness":-7.492,
+        "speechiness":0.0515,
+        "duration_ms":191321,
+        "artists":[
+            "Sky Rompiendo",
+            "Feid",
+            "Myke Towers"
+        ]
+    },
+    "56":{
+        "country":"Spain",
+        "energy":0.87,
+        "danceability":0.73,
+        "loudness":-3.718,
+        "speechiness":0.0561,
+        "duration_ms":172727,
+        "artists":[
+            "Ana Mena"
+        ]
+    },
+    "57":{
+        "country":"Spain",
+        "energy":0.59,
+        "danceability":0.728,
+        "loudness":-5.787,
+        "speechiness":0.204,
+        "duration_ms":168594,
+        "artists":[
+            "DELLAFUENTE",
+            "Morad"
+        ]
+    },
+    "58":{
+        "country":"Spain",
+        "energy":0.799,
+        "danceability":0.623,
+        "loudness":-4.152,
+        "speechiness":0.0713,
+        "duration_ms":288000,
+        "artists":[
+            "Saiko",
+            "Quevedo",
+            "Feid",
+            "Mora"
+        ]
+    },
+    "59":{
+        "country":"Spain",
+        "energy":0.782,
+        "danceability":0.722,
+        "loudness":-5.963,
+        "speechiness":0.0524,
+        "duration_ms":174415,
+        "artists":[
+            "Omar Montes",
+            "Saiko",
+            "Tunvao"
+        ]
+    },
+    "60":{
+        "country":"Spain",
+        "energy":0.712,
+        "danceability":0.668,
+        "loudness":-5.927,
+        "speechiness":0.0381,
+        "duration_ms":186000,
+        "artists":[
+            "Quevedo"
+        ]
+    },
+    "61":{
+        "country":"Spain",
+        "energy":0.725,
+        "danceability":0.792,
+        "loudness":-5.821,
+        "speechiness":0.171,
+        "duration_ms":169209,
+        "artists":[
+            "JC Reyes",
+            "Pedro Calderon",
+            "Blacknife"
+        ]
+    },
+    "62":{
+        "country":"Spain",
+        "energy":0.665,
+        "danceability":0.858,
+        "loudness":-4.772,
+        "speechiness":0.152,
+        "duration_ms":195587,
+        "artists":[
+            "Feid",
+            "Young Miko"
+        ]
+    },
+    "63":{
+        "country":"Spain",
+        "energy":0.68,
+        "danceability":0.837,
+        "loudness":-6.06,
+        "speechiness":0.0533,
+        "duration_ms":109048,
+        "artists":[
+            "Saiko"
+        ]
+    },
+    "64":{
+        "country":"Spain",
+        "energy":0.681,
+        "danceability":0.798,
+        "loudness":-4.818,
+        "speechiness":0.0722,
+        "duration_ms":188485,
+        "artists":[
+            "GIMS",
+            "Morad",
+            "SativaMusic"
+        ]
+    },
+    "65":{
+        "country":"Spain",
+        "energy":0.893,
+        "danceability":0.773,
+        "loudness":-3.733,
+        "speechiness":0.0483,
+        "duration_ms":222462,
+        "artists":[
+            "Rauw Alejandro",
+            "Bizarrap"
+        ]
+    },
+    "66":{
+        "country":"Spain",
+        "energy":0.759,
+        "danceability":0.831,
+        "loudness":-3.627,
+        "speechiness":0.0502,
+        "duration_ms":231693,
+        "artists":[
+            "Jhayco"
+        ]
+    },
+    "67":{
+        "country":"Spain",
+        "energy":0.659,
+        "danceability":0.765,
+        "loudness":-5.059,
+        "speechiness":0.0825,
+        "duration_ms":203636,
+        "artists":[
+            "Emilia",
+            "LUDMILLA",
+            "ZECCA"
+        ]
+    },
+    "68":{
+        "country":"Spain",
+        "energy":0.421,
+        "danceability":0.537,
+        "loudness":-8.72,
+        "speechiness":0.0285,
+        "duration_ms":184061,
+        "artists":[
+            "i\u00f1igo quintero"
+        ]
+    },
+    "69":{
+        "country":"Spain",
+        "energy":0.752,
+        "danceability":0.711,
+        "loudness":-7.574,
+        "speechiness":0.2,
+        "duration_ms":190497,
+        "artists":[
+            "Mora",
+            "YOVNGCHIMI"
+        ]
+    },
+    "70":{
+        "country":"Spain",
+        "energy":0.737,
+        "danceability":0.708,
+        "loudness":-4.045,
+        "speechiness":0.0436,
+        "duration_ms":197920,
+        "artists":[
+            "Myke Towers"
+        ]
+    },
+    "71":{
+        "country":"Spain",
+        "energy":0.774,
+        "danceability":0.777,
+        "loudness":-3.079,
+        "speechiness":0.0553,
+        "duration_ms":189669,
+        "artists":[
+            "Marshmello",
+            "Manuel Turizo"
+        ]
+    },
+    "72":{
+        "country":"Spain",
+        "energy":0.673,
+        "danceability":0.616,
+        "loudness":-3.948,
+        "speechiness":0.0327,
+        "duration_ms":224726,
+        "artists":[
+            "Saiko"
+        ]
+    },
+    "73":{
+        "country":"Spain",
+        "energy":0.807,
+        "danceability":0.668,
+        "loudness":-6.147,
+        "speechiness":0.186,
+        "duration_ms":243806,
+        "artists":[
+            "Soolking",
+            "Lola Indigo",
+            "Rvfv"
+        ]
+    },
+    "74":{
+        "country":"Spain",
+        "energy":0.744,
+        "danceability":0.557,
+        "loudness":-4.18,
+        "speechiness":0.344,
+        "duration_ms":162245,
+        "artists":[
+            "Dei V"
+        ]
+    },
+    "75":{
+        "country":"Spain",
+        "energy":0.758,
+        "danceability":0.788,
+        "loudness":-6.513,
+        "speechiness":0.0505,
+        "duration_ms":214994,
+        "artists":[
+            "Ariana Grande"
+        ]
+    },
+    "76":{
+        "country":"Spain",
+        "energy":0.711,
+        "danceability":0.822,
+        "loudness":-4.943,
+        "speechiness":0.0668,
+        "duration_ms":199947,
+        "artists":[
+            "Darell"
+        ]
+    },
+    "77":{
+        "country":"Spain",
+        "energy":0.778,
+        "danceability":0.911,
+        "loudness":-2.248,
+        "speechiness":0.262,
+        "duration_ms":162768,
+        "artists":[
+            "Bad Bunny",
+            "Feid"
+        ]
+    },
+    "78":{
+        "country":"Spain",
+        "energy":0.795,
+        "danceability":0.845,
+        "loudness":-3.502,
+        "speechiness":0.0681,
+        "duration_ms":197053,
+        "artists":[
+            "Rauw Alejandro"
+        ]
+    },
+    "79":{
+        "country":"Spain",
+        "energy":0.699,
+        "danceability":0.47,
+        "loudness":-4.402,
+        "speechiness":0.0922,
+        "duration_ms":152842,
+        "artists":[
+            "JC Reyes"
+        ]
+    },
+    "80":{
+        "country":"Spain",
+        "energy":0.566,
+        "danceability":0.706,
+        "loudness":-6.441,
+        "speechiness":0.126,
+        "duration_ms":190476,
+        "artists":[
+            "Bad Bunny",
+            "Bryant Myers"
+        ]
+    },
+    "81":{
+        "country":"Spain",
+        "energy":0.295,
+        "danceability":0.768,
+        "loudness":-10.467,
+        "speechiness":0.0735,
+        "duration_ms":131020,
+        "artists":[
+            "c\u00e9ro"
+        ]
+    },
+    "82":{
+        "country":"Spain",
+        "energy":0.738,
+        "danceability":0.8,
+        "loudness":-4.26,
+        "speechiness":0.0691,
+        "duration_ms":174230,
+        "artists":[
+            "Myke Towers"
+        ]
+    },
+    "83":{
+        "country":"Spain",
+        "energy":0.703,
+        "danceability":0.76,
+        "loudness":-3.667,
+        "speechiness":0.0631,
+        "duration_ms":243899,
+        "artists":[
+            "Mesita",
+            "Nicki Nicole",
+            "Tiago PZK",
+            "Emilia"
+        ]
+    },
+    "84":{
+        "country":"Spain",
+        "energy":0.537,
+        "danceability":0.724,
+        "loudness":-8.955,
+        "speechiness":0.0703,
+        "duration_ms":268320,
+        "artists":[
+            "Morad",
+            "Beny Jr",
+            "DELLAFUENTE"
+        ]
+    },
+    "85":{
+        "country":"Spain",
+        "energy":0.718,
+        "danceability":0.884,
+        "loudness":-4.976,
+        "speechiness":0.0763,
+        "duration_ms":129846,
+        "artists":[
+            "Kiko Rivera"
+        ]
+    },
+    "86":{
+        "country":"Spain",
+        "energy":0.556,
+        "danceability":0.679,
+        "loudness":-5.299,
+        "speechiness":0.148,
+        "duration_ms":198353,
+        "artists":[
+            "Soge Culebra",
+            "Quevedo",
+            "GARABATTO"
+        ]
+    },
+    "87":{
+        "country":"Spain",
+        "energy":0.851,
+        "danceability":0.817,
+        "loudness":-3.309,
+        "speechiness":0.0627,
+        "duration_ms":215600,
+        "artists":[
+            "Sebastian Yatra",
+            "Manuel Turizo",
+            "Be\u00e9le"
+        ]
+    },
+    "88":{
+        "country":"Spain",
+        "energy":0.738,
+        "danceability":0.841,
+        "loudness":-7.455,
+        "speechiness":0.307,
+        "duration_ms":172798,
+        "artists":[
+            "KAROL G",
+            "Peso Pluma"
+        ]
+    },
+    "89":{
+        "country":"Spain",
+        "energy":0.769,
+        "danceability":0.787,
+        "loudness":-4.681,
+        "speechiness":0.0335,
+        "duration_ms":197114,
+        "artists":[
+            "Eugenio Esquivel",
+            "Grupo Marca Registrada",
+            "Sebastian Esquivel"
+        ]
+    },
+    "90":{
+        "country":"Spain",
+        "energy":0.682,
+        "danceability":0.813,
+        "loudness":-3.598,
+        "speechiness":0.0402,
+        "duration_ms":338000,
+        "artists":[
+            "LIT killah",
+            "Tiago PZK",
+            "Maria Becerra",
+            "Duki",
+            "Emilia",
+            "Rusherking",
+            "Big One",
+            "FMK"
+        ]
+    },
+    "91":{
+        "country":"Spain",
+        "energy":0.578,
+        "danceability":0.724,
+        "loudness":-7.117,
+        "speechiness":0.0819,
+        "duration_ms":211879,
+        "artists":[
+            "Mora",
+            "Saiko"
+        ]
+    },
+    "92":{
+        "country":"Spain",
+        "energy":0.86,
+        "danceability":0.774,
+        "loudness":-2.888,
+        "speechiness":0.13,
+        "duration_ms":196800,
+        "artists":[
+            "Feid",
+            "ATL Jacob"
+        ]
+    },
+    "93":{
+        "country":"Spain",
+        "energy":0.646,
+        "danceability":0.76,
+        "loudness":-5.009,
+        "speechiness":0.068,
+        "duration_ms":252040,
+        "artists":[
+            "Gaby Music",
+            "Lunay",
+            "Luar La L"
+        ]
+    },
+    "94":{
+        "country":"Spain",
+        "energy":0.907,
+        "danceability":0.77,
+        "loudness":-4.679,
+        "speechiness":0.215,
+        "duration_ms":202361,
+        "artists":[
+            "Myke Towers"
+        ]
+    },
+    "95":{
+        "country":"Spain",
+        "energy":0.526,
+        "danceability":0.705,
+        "loudness":-6.359,
+        "speechiness":0.327,
+        "duration_ms":168000,
+        "artists":[
+            "Rvfv",
+            "Rels B"
+        ]
+    },
+    "96":{
+        "country":"Spain",
+        "energy":0.632,
+        "danceability":0.479,
+        "loudness":-4.685,
+        "speechiness":0.0332,
+        "duration_ms":183636,
+        "artists":[
+            "Milo j"
+        ]
+    },
+    "97":{
+        "country":"Spain",
+        "energy":0.718,
+        "danceability":0.711,
+        "loudness":-5.671,
+        "speechiness":0.0994,
+        "duration_ms":173991,
+        "artists":[
+            "Dei V",
+            "Bryant Myers"
+        ]
+    },
+    "98":{
+        "country":"Spain",
+        "energy":0.651,
+        "danceability":0.643,
+        "loudness":-6.738,
+        "speechiness":0.601,
+        "duration_ms":164293,
+        "artists":[
+            "Feid"
+        ]
+    },
+    "99":{
+        "country":"Spain",
+        "energy":0.809,
+        "danceability":0.833,
+        "loudness":-2.751,
+        "speechiness":0.0381,
+        "duration_ms":140625,
+        "artists":[
+            "Emilia",
+            "TINI"
+        ]
+    },
+    "100":{
+        "country":"UK",
+        "energy":0.568,
+        "danceability":0.374,
+        "loudness":-3.825,
+        "speechiness":0.109,
+        "duration_ms":547733,
+        "artists":[
+            "Kanye West",
+            "Pusha T"
+        ]
+    },
+    "101":{
+        "country":"UK",
+        "energy":0.556,
+        "danceability":0.864,
+        "loudness":-7.683,
+        "speechiness":0.194,
+        "duration_ms":230480,
+        "artists":[
+            "Doja Cat"
+        ]
+    },
+    "102":{
+        "country":"UK",
+        "energy":0.849,
+        "danceability":0.73,
+        "loudness":-5.281,
+        "speechiness":0.0299,
+        "duration_ms":230013,
+        "artists":[
+            "Sophie Ellis-Bextor"
+        ]
+    },
+    "103":{
+        "country":"UK",
+        "energy":0.722,
+        "danceability":0.673,
+        "loudness":-3.495,
+        "speechiness":0.0755,
+        "duration_ms":200256,
+        "artists":[
+            "Tyla"
+        ]
+    },
+    "104":{
+        "country":"UK",
+        "energy":0.867,
+        "danceability":0.731,
+        "loudness":-6.169,
+        "speechiness":0.0576,
+        "duration_ms":164920,
+        "artists":[
+            "Billy Gillies",
+            "Hannah Boleyn"
+        ]
+    },
+    "105":{
+        "country":"UK",
+        "energy":0.6,
+        "danceability":0.663,
+        "loudness":-10.87,
+        "speechiness":0.032,
+        "duration_ms":151667,
+        "artists":[
+            "Marvin Gaye",
+            "Tammi Terrell"
+        ]
+    },
+    "106":{
+        "country":"UK",
+        "energy":0.911,
+        "danceability":0.352,
+        "loudness":-5.23,
+        "speechiness":0.0747,
+        "duration_ms":222973,
+        "artists":[
+            "The Killers"
+        ]
+    },
+    "107":{
+        "country":"UK",
+        "energy":0.488,
+        "danceability":0.662,
+        "loudness":-6.894,
+        "speechiness":0.0682,
+        "duration_ms":182347,
+        "artists":[
+            "Noah Kahan"
+        ]
+    },
+    "108":{
+        "country":"UK",
+        "energy":0.758,
+        "danceability":0.678,
+        "loudness":-6.524,
+        "speechiness":0.227,
+        "duration_ms":220584,
+        "artists":[
+            "21 Savage",
+            "Travis Scott",
+            "Metro Boomin"
+        ]
+    },
+    "109":{
+        "country":"UK",
+        "energy":0.512,
+        "danceability":0.818,
+        "loudness":-9.056,
+        "speechiness":0.0926,
+        "duration_ms":143719,
+        "artists":[
+            "21 Savage",
+            "Doja Cat"
+        ]
+    },
+    "110":{
+        "country":"UK",
+        "energy":0.74,
+        "danceability":0.624,
+        "loudness":-8.445,
+        "speechiness":0.0481,
+        "duration_ms":270698,
+        "artists":[
+            "21 Savage"
+        ]
+    },
+    "111":{
+        "country":"UK",
+        "energy":0.532,
+        "danceability":0.511,
+        "loudness":-5.745,
+        "speechiness":0.0578,
+        "duration_ms":219724,
+        "artists":[
+            "Olivia Rodrigo"
+        ]
+    },
+    "112":{
+        "country":"UK",
+        "energy":0.545,
+        "danceability":0.545,
+        "loudness":-7.362,
+        "speechiness":0.107,
+        "duration_ms":184516,
+        "artists":[
+            "Frank Ocean"
+        ]
+    },
+    "113":{
+        "country":"UK",
+        "energy":0.368,
+        "danceability":0.518,
+        "loudness":-7.76,
+        "speechiness":0.0353,
+        "duration_ms":205484,
+        "artists":[
+            "Olivia Rodrigo"
+        ]
+    },
+    "114":{
+        "country":"UK",
+        "energy":0.0911,
+        "danceability":0.444,
+        "loudness":-17.665,
+        "speechiness":0.0307,
+        "duration_ms":222370,
+        "artists":[
+            "Billie Eilish"
+        ]
+    },
+    "115":{
+        "country":"UK",
+        "energy":0.567,
+        "danceability":0.781,
+        "loudness":-7.857,
+        "speechiness":0.0969,
+        "duration_ms":125902,
+        "artists":[
+            "Flo Milli"
+        ]
+    },
+    "116":{
+        "country":"UK",
+        "energy":0.575,
+        "danceability":0.821,
+        "loudness":-6.57,
+        "speechiness":0.0589,
+        "duration_ms":159401,
+        "artists":[
+            "Tate McRae"
+        ]
+    },
+    "117":{
+        "country":"UK",
+        "energy":0.56,
+        "danceability":0.575,
+        "loudness":-7.302,
+        "speechiness":0.478,
+        "duration_ms":229938,
+        "artists":[
+            "JID",
+            "21 Savage",
+            "Baby Tate"
+        ]
+    },
+    "118":{
+        "country":"UK",
+        "energy":0.678,
+        "danceability":0.855,
+        "loudness":-6.276,
+        "speechiness":0.189,
+        "duration_ms":215467,
+        "artists":[
+            "The Weeknd",
+            "Playboi Carti",
+            "Madonna"
+        ]
+    },
+    "119":{
+        "country":"UK",
+        "energy":0.523,
+        "danceability":0.628,
+        "loudness":-8.307,
+        "speechiness":0.0946,
+        "duration_ms":172965,
+        "artists":[
+            "Kenya Grace"
+        ]
+    },
+    "120":{
+        "country":"UK",
+        "energy":0.935,
+        "danceability":0.62,
+        "loudness":-0.504,
+        "speechiness":0.252,
+        "duration_ms":177292,
+        "artists":[
+            "Chase & Status",
+            "Bou",
+            "Flowdan",
+            "IRAH",
+            "Trigga",
+            "Takura"
+        ]
+    },
+    "121":{
+        "country":"UK",
+        "energy":0.845,
+        "danceability":0.667,
+        "loudness":-6.845,
+        "speechiness":0.0812,
+        "duration_ms":161250,
+        "artists":[
+            "Mason",
+            "Princess Superstar"
+        ]
+    },
+    "122":{
+        "country":"UK",
+        "energy":0.729,
+        "danceability":0.645,
+        "loudness":-4.56,
+        "speechiness":0.0528,
+        "duration_ms":319192,
+        "artists":[
+            "Drake",
+            "Sexyy Red",
+            "SZA"
+        ]
+    },
+    "123":{
+        "country":"UK",
+        "energy":0.717,
+        "danceability":0.638,
+        "loudness":-5.804,
+        "speechiness":0.0375,
+        "duration_ms":132359,
+        "artists":[
+            "cass\u00f6",
+            "RAYE",
+            "D-Block Europe"
+        ]
+    },
+    "124":{
+        "country":"UK",
+        "energy":0.789,
+        "danceability":0.744,
+        "loudness":-4.876,
+        "speechiness":0.059,
+        "duration_ms":185918,
+        "artists":[
+            "Dua Lipa"
+        ]
+    },
+    "125":{
+        "country":"UK",
+        "energy":0.562,
+        "danceability":0.73,
+        "loudness":-7.158,
+        "speechiness":0.309,
+        "duration_ms":297290,
+        "artists":[
+            "D-Block Europe",
+            "Noizy"
+        ]
+    },
+    "126":{
+        "country":"UK",
+        "energy":0.688,
+        "danceability":0.492,
+        "loudness":-4.989,
+        "speechiness":0.046,
+        "duration_ms":222912,
+        "artists":[
+            "Zara Larsson",
+            "David Guetta"
+        ]
+    },
+    "127":{
+        "country":"UK",
+        "energy":0.702,
+        "danceability":0.552,
+        "loudness":-5.707,
+        "speechiness":0.157,
+        "duration_ms":178427,
+        "artists":[
+            "Taylor Swift"
+        ]
+    },
+    "128":{
+        "country":"UK",
+        "energy":0.604,
+        "danceability":0.561,
+        "loudness":-4.409,
+        "speechiness":0.0337,
+        "duration_ms":210689,
+        "artists":[
+            "Teddy Swims"
+        ]
+    },
+    "129":{
+        "country":"UK",
+        "energy":0.976,
+        "danceability":0.504,
+        "loudness":-0.653,
+        "speechiness":0.0946,
+        "duration_ms":164571,
+        "artists":[
+            "Becky Hill",
+            "Chase & Status"
+        ]
+    },
+    "130":{
+        "country":"UK",
+        "energy":0.845,
+        "danceability":0.671,
+        "loudness":-4.93,
+        "speechiness":0.048,
+        "duration_ms":176579,
+        "artists":[
+            "Dua Lipa"
+        ]
+    },
+    "131":{
+        "country":"UK",
+        "energy":0.453,
+        "danceability":0.429,
+        "loudness":-7.746,
+        "speechiness":0.0459,
+        "duration_ms":227196,
+        "artists":[
+            "Zach Bryan",
+            "Kacey Musgraves"
+        ]
+    },
+    "132":{
+        "country":"UK",
+        "energy":0.733,
+        "danceability":0.75,
+        "loudness":-3.18,
+        "speechiness":0.0319,
+        "duration_ms":131872,
+        "artists":[
+            "Tate McRae"
+        ]
+    },
+    "133":{
+        "country":"UK",
+        "energy":0.308,
+        "danceability":0.504,
+        "loudness":-14.958,
+        "speechiness":0.0321,
+        "duration_ms":137773,
+        "artists":[
+            "Mitski"
+        ]
+    },
+    "134":{
+        "country":"UK",
+        "energy":0.625,
+        "danceability":0.792,
+        "loudness":-5.609,
+        "speechiness":0.0536,
+        "duration_ms":173987,
+        "artists":[
+            "Drake",
+            "Wizkid",
+            "Kyla"
+        ]
+    },
+    "135":{
+        "country":"UK",
+        "energy":0.366,
+        "danceability":0.545,
+        "loudness":-9.51,
+        "speechiness":0.0378,
+        "duration_ms":208212,
+        "artists":[
+            "Lord Huron"
+        ]
+    },
+    "136":{
+        "country":"UK",
+        "energy":0.641,
+        "danceability":0.522,
+        "loudness":-6.287,
+        "speechiness":0.0318,
+        "duration_ms":244685,
+        "artists":[
+            "The Weeknd",
+            "JENNIE",
+            "Lily-Rose Depp"
+        ]
+    },
+    "137":{
+        "country":"UK",
+        "energy":0.664,
+        "danceability":0.566,
+        "loudness":-5.303,
+        "speechiness":0.0464,
+        "duration_ms":241693,
+        "artists":[
+            "Hozier"
+        ]
+    },
+    "138":{
+        "country":"UK",
+        "energy":0.686,
+        "danceability":0.787,
+        "loudness":-4.37,
+        "speechiness":0.0339,
+        "duration_ms":185553,
+        "artists":[
+            "Sabrina Carpenter"
+        ]
+    },
+    "139":{
+        "country":"UK",
+        "energy":0.239,
+        "danceability":0.446,
+        "loudness":-15.327,
+        "speechiness":0.0876,
+        "duration_ms":237733,
+        "artists":[
+            "Drake"
+        ]
+    },
+    "140":{
+        "country":"UK",
+        "energy":0.417,
+        "danceability":0.464,
+        "loudness":-9.345,
+        "speechiness":0.0256,
+        "duration_ms":183956,
+        "artists":[
+            "Arctic Monkeys"
+        ]
+    },
+    "141":{
+        "country":"UK",
+        "energy":0.8,
+        "danceability":0.706,
+        "loudness":-6.333,
+        "speechiness":0.0399,
+        "duration_ms":259333,
+        "artists":[
+            "Natasha Bedingfield"
+        ]
+    },
+    "142":{
+        "country":"UK",
+        "energy":0.558,
+        "danceability":0.943,
+        "loudness":-4.911,
+        "speechiness":0.0568,
+        "duration_ms":138411,
+        "artists":[
+            "Jack Harlow"
+        ]
+    },
+    "143":{
+        "country":"UK",
+        "energy":0.758,
+        "danceability":0.788,
+        "loudness":-6.513,
+        "speechiness":0.0505,
+        "duration_ms":214994,
+        "artists":[
+            "Ariana Grande"
+        ]
+    },
+    "144":{
+        "country":"UK",
+        "energy":0.731,
+        "danceability":0.484,
+        "loudness":-6.694,
+        "speechiness":0.0379,
+        "duration_ms":204280,
+        "artists":[
+            "Vance Joy"
+        ]
+    },
+    "145":{
+        "country":"UK",
+        "energy":0.405,
+        "danceability":0.501,
+        "loudness":-5.679,
+        "speechiness":0.0319,
+        "duration_ms":182161,
+        "artists":[
+            "Lewis Capaldi"
+        ]
+    },
+    "146":{
+        "country":"UK",
+        "energy":0.43,
+        "danceability":0.508,
+        "loudness":-9.475,
+        "speechiness":0.0335,
+        "duration_ms":212954,
+        "artists":[
+            "David Kushner"
+        ]
+    },
+    "147":{
+        "country":"UK",
+        "energy":0.583,
+        "danceability":0.916,
+        "loudness":-8.067,
+        "speechiness":0.241,
+        "duration_ms":226383,
+        "artists":[
+            "Dave",
+            "Central Cee"
+        ]
+    },
+    "148":{
+        "country":"UK",
+        "energy":0.658,
+        "danceability":0.596,
+        "loudness":-7.346,
+        "speechiness":0.036,
+        "duration_ms":229478,
+        "artists":[
+            "Taylor Swift"
+        ]
+    },
+    "149":{
+        "country":"UK",
+        "energy":0.881,
+        "danceability":0.68,
+        "loudness":-4.503,
+        "speechiness":0.0553,
+        "duration_ms":222784,
+        "artists":[
+            "Fred again..",
+            "Baby Keem"
+        ]
+    },
+    "150":{
+        "country":"Argentina",
+        "energy":0.738,
+        "danceability":0.841,
+        "loudness":-7.455,
+        "speechiness":0.307,
+        "duration_ms":172798,
+        "artists":[
+            "KAROL G",
+            "Peso Pluma"
+        ]
+    },
+    "151":{
+        "country":"Argentina",
+        "energy":0.512,
+        "danceability":0.736,
+        "loudness":-10.957,
+        "speechiness":0.0771,
+        "duration_ms":167600,
+        "artists":[
+            "Big One",
+            "Ulises Bueno",
+            "Rusherking"
+        ]
+    },
+    "152":{
+        "country":"Argentina",
+        "energy":0.812,
+        "danceability":0.498,
+        "loudness":-5.809,
+        "speechiness":0.0706,
+        "duration_ms":166537,
+        "artists":[
+            "Luck Ra",
+            "KHEA"
+        ]
+    },
+    "153":{
+        "country":"Argentina",
+        "energy":0.783,
+        "danceability":0.882,
+        "loudness":-4.023,
+        "speechiness":0.0985,
+        "duration_ms":151654,
+        "artists":[
+            "Emilia"
+        ]
+    },
+    "154":{
+        "country":"Argentina",
+        "energy":0.711,
+        "danceability":0.822,
+        "loudness":-4.943,
+        "speechiness":0.0668,
+        "duration_ms":199947,
+        "artists":[
+            "Darell"
+        ]
+    },
+    "155":{
+        "country":"Argentina",
+        "energy":0.604,
+        "danceability":0.667,
+        "loudness":-5.119,
+        "speechiness":0.128,
+        "duration_ms":252348,
+        "artists":[
+            "Emanero",
+            "Ulises Bueno",
+            "Migrantes",
+            "Los Palmeras"
+        ]
+    },
+    "156":{
+        "country":"Argentina",
+        "energy":0.632,
+        "danceability":0.479,
+        "loudness":-4.685,
+        "speechiness":0.0332,
+        "duration_ms":183636,
+        "artists":[
+            "Milo j"
+        ]
+    },
+    "157":{
+        "country":"Argentina",
+        "energy":0.703,
+        "danceability":0.76,
+        "loudness":-3.667,
+        "speechiness":0.0631,
+        "duration_ms":243899,
+        "artists":[
+            "Mesita",
+            "Nicki Nicole",
+            "Tiago PZK",
+            "Emilia"
+        ]
+    },
+    "158":{
+        "country":"Argentina",
+        "energy":0.649,
+        "danceability":0.811,
+        "loudness":-5.089,
+        "speechiness":0.111,
+        "duration_ms":122500,
+        "artists":[
+            "Mesita"
+        ]
+    },
+    "159":{
+        "country":"Argentina",
+        "energy":0.778,
+        "danceability":0.911,
+        "loudness":-2.248,
+        "speechiness":0.262,
+        "duration_ms":162768,
+        "artists":[
+            "Bad Bunny",
+            "Feid"
+        ]
+    },
+    "160":{
+        "country":"Argentina",
+        "energy":0.782,
+        "danceability":0.721,
+        "loudness":-3.51,
+        "speechiness":0.045,
+        "duration_ms":221601,
+        "artists":[
+            "Grupo Frontera",
+            "Ke Personajes"
+        ]
+    },
+    "161":{
+        "country":"Argentina",
+        "energy":0.656,
+        "danceability":0.73,
+        "loudness":-2.628,
+        "speechiness":0.0454,
+        "duration_ms":157830,
+        "artists":[
+            "FMK",
+            "Emilia"
+        ]
+    },
+    "162":{
+        "country":"Argentina",
+        "energy":0.868,
+        "danceability":0.729,
+        "loudness":-1.669,
+        "speechiness":0.0536,
+        "duration_ms":153488,
+        "artists":[
+            "Ke Personajes"
+        ]
+    },
+    "163":{
+        "country":"Argentina",
+        "energy":0.692,
+        "danceability":0.742,
+        "loudness":-3.687,
+        "speechiness":0.0469,
+        "duration_ms":148800,
+        "artists":[
+            "Rusherking",
+            "Marama"
+        ]
+    },
+    "164":{
+        "country":"Argentina",
+        "energy":0.677,
+        "danceability":0.858,
+        "loudness":-4.294,
+        "speechiness":0.118,
+        "duration_ms":120600,
+        "artists":[
+            "Emilia"
+        ]
+    },
+    "165":{
+        "country":"Argentina",
+        "energy":0.809,
+        "danceability":0.833,
+        "loudness":-2.751,
+        "speechiness":0.0381,
+        "duration_ms":140625,
+        "artists":[
+            "Emilia",
+            "TINI"
+        ]
+    },
+    "166":{
+        "country":"Argentina",
+        "energy":0.63,
+        "danceability":0.78,
+        "loudness":-4.719,
+        "speechiness":0.105,
+        "duration_ms":234106,
+        "artists":[
+            "Marka Akme",
+            "DJ Tao",
+            "Lauty Gram",
+            "Migrantes",
+            "Peipper"
+        ]
+    },
+    "167":{
+        "country":"Argentina",
+        "energy":0.737,
+        "danceability":0.708,
+        "loudness":-4.045,
+        "speechiness":0.0436,
+        "duration_ms":197920,
+        "artists":[
+            "Myke Towers"
+        ]
+    },
+    "168":{
+        "country":"Argentina",
+        "energy":0.792,
+        "danceability":0.681,
+        "loudness":-4.795,
+        "speechiness":0.0587,
+        "duration_ms":160536,
+        "artists":[
+            "Maria Becerra"
+        ]
+    },
+    "169":{
+        "country":"Argentina",
+        "energy":0.697,
+        "danceability":0.73,
+        "loudness":-3.067,
+        "speechiness":0.0658,
+        "duration_ms":183329,
+        "artists":[
+            "El Joan",
+            "Celso El Potente"
+        ]
+    },
+    "170":{
+        "country":"Argentina",
+        "energy":0.775,
+        "danceability":0.613,
+        "loudness":-4.241,
+        "speechiness":0.032,
+        "duration_ms":156632,
+        "artists":[
+            "Marama",
+            "MYA",
+            "Robleis"
+        ]
+    },
+    "171":{
+        "country":"Argentina",
+        "energy":0.659,
+        "danceability":0.765,
+        "loudness":-5.059,
+        "speechiness":0.0825,
+        "duration_ms":203636,
+        "artists":[
+            "Emilia",
+            "LUDMILLA",
+            "ZECCA"
+        ]
+    },
+    "172":{
+        "country":"Argentina",
+        "energy":0.568,
+        "danceability":0.869,
+        "loudness":-8.648,
+        "speechiness":0.0729,
+        "duration_ms":172768,
+        "artists":[
+            "Jere Klein",
+            "Gittobeatz"
+        ]
+    },
+    "173":{
+        "country":"Argentina",
+        "energy":0.541,
+        "danceability":0.715,
+        "loudness":-6.909,
+        "speechiness":0.041,
+        "duration_ms":141071,
+        "artists":[
+            "Fer Vazquez",
+            "Flor Alvarez"
+        ]
+    },
+    "174":{
+        "country":"Argentina",
+        "energy":0.728,
+        "danceability":0.615,
+        "loudness":-4.136,
+        "speechiness":0.0752,
+        "duration_ms":171500,
+        "artists":[
+            "Roze Oficial",
+            "Peipper"
+        ]
+    },
+    "175":{
+        "country":"Argentina",
+        "energy":0.807,
+        "danceability":0.729,
+        "loudness":-4.468,
+        "speechiness":0.0307,
+        "duration_ms":217491,
+        "artists":[
+            "Emanero",
+            "Karina",
+            "j mena",
+            "Angela Torres"
+        ]
+    },
+    "176":{
+        "country":"Argentina",
+        "energy":0.445,
+        "danceability":0.713,
+        "loudness":-9.624,
+        "speechiness":0.0391,
+        "duration_ms":158047,
+        "artists":[
+            "BM",
+            "Hernan y La Champion's Liga"
+        ]
+    },
+    "177":{
+        "country":"Argentina",
+        "energy":0.513,
+        "danceability":0.577,
+        "loudness":-7.653,
+        "speechiness":0.0541,
+        "duration_ms":159101,
+        "artists":[
+            "Sayian Jimmy",
+            "Nysix Music"
+        ]
+    },
+    "178":{
+        "country":"Argentina",
+        "energy":0.9,
+        "danceability":0.736,
+        "loudness":-4.575,
+        "speechiness":0.0825,
+        "duration_ms":204000,
+        "artists":[
+            "Luck Ra",
+            "La K'onga",
+            "Ke Personajes"
+        ]
+    },
+    "179":{
+        "country":"Argentina",
+        "energy":0.821,
+        "danceability":0.721,
+        "loudness":-3.695,
+        "speechiness":0.0548,
+        "duration_ms":181043,
+        "artists":[
+            "Emilia"
+        ]
+    },
+    "180":{
+        "country":"Argentina",
+        "energy":0.86,
+        "danceability":0.774,
+        "loudness":-2.888,
+        "speechiness":0.13,
+        "duration_ms":196800,
+        "artists":[
+            "Feid",
+            "ATL Jacob"
+        ]
+    },
+    "181":{
+        "country":"Argentina",
+        "energy":0.854,
+        "danceability":0.73,
+        "loudness":-5.115,
+        "speechiness":0.0515,
+        "duration_ms":165919,
+        "artists":[
+            "Luck Ra",
+            "Abel Pintos"
+        ]
+    },
+    "182":{
+        "country":"Argentina",
+        "energy":0.794,
+        "danceability":0.849,
+        "loudness":-2.595,
+        "speechiness":0.127,
+        "duration_ms":383369,
+        "artists":[
+            "Gusty dj",
+            "Salastkbron",
+            "Callejero Fino",
+            "Alejo Isakk",
+            "R Jota",
+            "L-Gante",
+            "Lolo OG",
+            "DobleP",
+            "Lauty Gram"
+        ]
+    },
+    "183":{
+        "country":"Argentina",
+        "energy":0.728,
+        "danceability":0.691,
+        "loudness":-5.722,
+        "speechiness":0.0986,
+        "duration_ms":133285,
+        "artists":[
+            "Alan Gomez",
+            "Luck Ra"
+        ]
+    },
+    "184":{
+        "country":"Argentina",
+        "energy":0.555,
+        "danceability":0.804,
+        "loudness":-4.991,
+        "speechiness":0.107,
+        "duration_ms":172118,
+        "artists":[
+            "Big One",
+            "Emilia",
+            "Callejero Fino"
+        ]
+    },
+    "185":{
+        "country":"Argentina",
+        "energy":0.63,
+        "danceability":0.814,
+        "loudness":-3.69,
+        "speechiness":0.0881,
+        "duration_ms":155292,
+        "artists":[
+            "DJ Tao",
+            "Roze Oficial"
+        ]
+    },
+    "186":{
+        "country":"Argentina",
+        "energy":0.77,
+        "danceability":0.753,
+        "loudness":-5.751,
+        "speechiness":0.0341,
+        "duration_ms":134144,
+        "artists":[
+            "Luck Ra",
+            "BM"
+        ]
+    },
+    "187":{
+        "country":"Argentina",
+        "energy":0.601,
+        "danceability":0.781,
+        "loudness":-5.817,
+        "speechiness":0.0459,
+        "duration_ms":161591,
+        "artists":[
+            "BM"
+        ]
+    },
+    "188":{
+        "country":"Argentina",
+        "energy":0.421,
+        "danceability":0.537,
+        "loudness":-8.72,
+        "speechiness":0.0285,
+        "duration_ms":184061,
+        "artists":[
+            "i\u00f1igo quintero"
+        ]
+    },
+    "189":{
+        "country":"Argentina",
+        "energy":0.682,
+        "danceability":0.813,
+        "loudness":-3.598,
+        "speechiness":0.0402,
+        "duration_ms":338000,
+        "artists":[
+            "LIT killah",
+            "Tiago PZK",
+            "Maria Becerra",
+            "Duki",
+            "Emilia",
+            "Rusherking",
+            "Big One",
+            "FMK"
+        ]
+    },
+    "190":{
+        "country":"Argentina",
+        "energy":0.519,
+        "danceability":0.499,
+        "loudness":-8.199,
+        "speechiness":0.0595,
+        "duration_ms":163788,
+        "artists":[
+            "Big One",
+            "FMK",
+            "Ke Personajes"
+        ]
+    },
+    "191":{
+        "country":"Argentina",
+        "energy":0.712,
+        "danceability":0.668,
+        "loudness":-5.927,
+        "speechiness":0.0381,
+        "duration_ms":186000,
+        "artists":[
+            "Quevedo"
+        ]
+    },
+    "192":{
+        "country":"Argentina",
+        "energy":0.793,
+        "danceability":0.618,
+        "loudness":-4.013,
+        "speechiness":0.0493,
+        "duration_ms":184587,
+        "artists":[
+            "Los \u00c1ngeles Azules",
+            "Maria Becerra"
+        ]
+    },
+    "193":{
+        "country":"Argentina",
+        "energy":0.573,
+        "danceability":0.781,
+        "loudness":-6.439,
+        "speechiness":0.107,
+        "duration_ms":176797,
+        "artists":[
+            "El negro tecla"
+        ]
+    },
+    "194":{
+        "country":"Argentina",
+        "energy":0.827,
+        "danceability":0.761,
+        "loudness":-4.189,
+        "speechiness":0.0659,
+        "duration_ms":225661,
+        "artists":[
+            "Maria Becerra",
+            "Chencho Corleone",
+            "Ovy On The Drums"
+        ]
+    },
+    "195":{
+        "country":"Argentina",
+        "energy":0.798,
+        "danceability":0.658,
+        "loudness":-4.108,
+        "speechiness":0.138,
+        "duration_ms":145920,
+        "artists":[
+            "Emilia",
+            "NATHY PELUSO"
+        ]
+    },
+    "196":{
+        "country":"Argentina",
+        "energy":0.656,
+        "danceability":0.771,
+        "loudness":-4.078,
+        "speechiness":0.065,
+        "duration_ms":167419,
+        "artists":[
+            "Big One",
+            "TINI",
+            "BM"
+        ]
+    },
+    "197":{
+        "country":"Argentina",
+        "energy":0.624,
+        "danceability":0.678,
+        "loudness":-3.712,
+        "speechiness":0.0589,
+        "duration_ms":145055,
+        "artists":[
+            "Luck Ra",
+            "La T y La M",
+            "Rusherking"
+        ]
+    },
+    "198":{
+        "country":"Argentina",
+        "energy":0.607,
+        "danceability":0.767,
+        "loudness":-6.875,
+        "speechiness":0.0516,
+        "duration_ms":186857,
+        "artists":[
+            "YSY A",
+            "Bhavi",
+            "Milo j"
+        ]
+    },
+    "199":{
+        "country":"Argentina",
+        "energy":0.571,
+        "danceability":0.704,
+        "loudness":-8.212,
+        "speechiness":0.156,
+        "duration_ms":190000,
+        "artists":[
+            "Bizarrap",
+            "Young Miko"
+        ]
+    },
+    "200":{
+        "country":"USA",
+        "energy":0.835,
+        "danceability":0.755,
+        "loudness":-4.68,
+        "speechiness":0.277,
+        "duration_ms":265305,
+        "artists":[
+            "21 Savage",
+            "Lil Durk",
+            "Metro Boomin"
+        ]
+    },
+    "201":{
+        "country":"USA",
+        "energy":0.567,
+        "danceability":0.781,
+        "loudness":-7.857,
+        "speechiness":0.0969,
+        "duration_ms":125902,
+        "artists":[
+            "Flo Milli"
+        ]
+    },
+    "202":{
+        "country":"USA",
+        "energy":0.758,
+        "danceability":0.788,
+        "loudness":-6.513,
+        "speechiness":0.0505,
+        "duration_ms":214994,
+        "artists":[
+            "Ariana Grande"
+        ]
+    },
+    "203":{
+        "country":"USA",
+        "energy":0.729,
+        "danceability":0.645,
+        "loudness":-4.56,
+        "speechiness":0.0528,
+        "duration_ms":319192,
+        "artists":[
+            "Drake",
+            "Sexyy Red",
+            "SZA"
+        ]
+    },
+    "204":{
+        "country":"USA",
+        "energy":0.658,
+        "danceability":0.596,
+        "loudness":-7.346,
+        "speechiness":0.036,
+        "duration_ms":229478,
+        "artists":[
+            "Taylor Swift"
+        ]
+    },
+    "205":{
+        "country":"USA",
+        "energy":0.0911,
+        "danceability":0.444,
+        "loudness":-17.665,
+        "speechiness":0.0307,
+        "duration_ms":222370,
+        "artists":[
+            "Billie Eilish"
+        ]
+    },
+    "206":{
+        "country":"USA",
+        "energy":0.687,
+        "danceability":0.755,
+        "loudness":-6.247,
+        "speechiness":0.101,
+        "duration_ms":265360,
+        "artists":[
+            "Doja Cat"
+        ]
+    },
+    "207":{
+        "country":"USA",
+        "energy":0.558,
+        "danceability":0.943,
+        "loudness":-4.911,
+        "speechiness":0.0568,
+        "duration_ms":138411,
+        "artists":[
+            "Jack Harlow"
+        ]
+    },
+    "208":{
+        "country":"USA",
+        "energy":0.556,
+        "danceability":0.864,
+        "loudness":-7.683,
+        "speechiness":0.194,
+        "duration_ms":230480,
+        "artists":[
+            "Doja Cat"
+        ]
+    },
+    "209":{
+        "country":"USA",
+        "energy":0.686,
+        "danceability":0.742,
+        "loudness":-7.527,
+        "speechiness":0.149,
+        "duration_ms":201672,
+        "artists":[
+            "21 Savage"
+        ]
+    },
+    "210":{
+        "country":"USA",
+        "energy":0.453,
+        "danceability":0.429,
+        "loudness":-7.746,
+        "speechiness":0.0459,
+        "duration_ms":227196,
+        "artists":[
+            "Zach Bryan",
+            "Kacey Musgraves"
+        ]
+    },
+    "211":{
+        "country":"USA",
+        "energy":0.512,
+        "danceability":0.818,
+        "loudness":-9.056,
+        "speechiness":0.0926,
+        "duration_ms":143719,
+        "artists":[
+            "21 Savage",
+            "Doja Cat"
+        ]
+    },
+    "212":{
+        "country":"USA",
+        "energy":0.807,
+        "danceability":0.612,
+        "loudness":-2.81,
+        "speechiness":0.0336,
+        "duration_ms":240400,
+        "artists":[
+            "The Neighbourhood"
+        ]
+    },
+    "213":{
+        "country":"USA",
+        "energy":0.559,
+        "danceability":0.558,
+        "loudness":-9.222,
+        "speechiness":0.0959,
+        "duration_ms":180387,
+        "artists":[
+            "Tyler, The Creator",
+            "Kali Uchis"
+        ]
+    },
+    "214":{
+        "country":"USA",
+        "energy":0.67,
+        "danceability":0.663,
+        "loudness":-8.399,
+        "speechiness":0.271,
+        "duration_ms":260111,
+        "artists":[
+            "Drake",
+            "Yeat"
+        ]
+    },
+    "215":{
+        "country":"USA",
+        "energy":0.551,
+        "danceability":0.559,
+        "loudness":-7.231,
+        "speechiness":0.132,
+        "duration_ms":201800,
+        "artists":[
+            "SZA"
+        ]
+    },
+    "216":{
+        "country":"USA",
+        "energy":0.641,
+        "danceability":0.522,
+        "loudness":-6.287,
+        "speechiness":0.0318,
+        "duration_ms":244685,
+        "artists":[
+            "The Weeknd",
+            "JENNIE",
+            "Lily-Rose Depp"
+        ]
+    },
+    "217":{
+        "country":"USA",
+        "energy":0.757,
+        "danceability":0.656,
+        "loudness":-5.775,
+        "speechiness":0.0308,
+        "duration_ms":177388,
+        "artists":[
+            "Morgan Wallen"
+        ]
+    },
+    "218":{
+        "country":"USA",
+        "energy":0.61,
+        "danceability":0.685,
+        "loudness":-5.36,
+        "speechiness":0.0343,
+        "duration_ms":260371,
+        "artists":[
+            "Kali Uchis",
+            "Peso Pluma"
+        ]
+    },
+    "219":{
+        "country":"USA",
+        "energy":0.819,
+        "danceability":0.751,
+        "loudness":-4.372,
+        "speechiness":0.0409,
+        "duration_ms":172264,
+        "artists":[
+            "Xavi"
+        ]
+    },
+    "220":{
+        "country":"USA",
+        "energy":0.754,
+        "danceability":0.607,
+        "loudness":-5.465,
+        "speechiness":0.0714,
+        "duration_ms":186771,
+        "artists":[
+            "21 Savage",
+            "Brent Faiyaz"
+        ]
+    },
+    "221":{
+        "country":"USA",
+        "energy":0.458,
+        "danceability":0.928,
+        "loudness":-6.751,
+        "speechiness":0.187,
+        "duration_ms":172138,
+        "artists":[
+            "Nicki Minaj"
+        ]
+    },
+    "222":{
+        "country":"USA",
+        "energy":0.308,
+        "danceability":0.504,
+        "loudness":-14.958,
+        "speechiness":0.0321,
+        "duration_ms":137773,
+        "artists":[
+            "Mitski"
+        ]
+    },
+    "223":{
+        "country":"USA",
+        "energy":0.604,
+        "danceability":0.561,
+        "loudness":-4.409,
+        "speechiness":0.0337,
+        "duration_ms":210689,
+        "artists":[
+            "Teddy Swims"
+        ]
+    },
+    "224":{
+        "country":"USA",
+        "energy":0.882,
+        "danceability":0.569,
+        "loudness":-2.777,
+        "speechiness":0.06,
+        "duration_ms":191701,
+        "artists":[
+            "Travis Scott",
+            "Playboi Carti"
+        ]
+    },
+    "225":{
+        "country":"USA",
+        "energy":0.733,
+        "danceability":0.75,
+        "loudness":-3.18,
+        "speechiness":0.0319,
+        "duration_ms":131872,
+        "artists":[
+            "Tate McRae"
+        ]
+    },
+    "226":{
+        "country":"USA",
+        "energy":0.675,
+        "danceability":0.492,
+        "loudness":-5.456,
+        "speechiness":0.0389,
+        "duration_ms":163855,
+        "artists":[
+            "Morgan Wallen"
+        ]
+    },
+    "227":{
+        "country":"USA",
+        "energy":0.497,
+        "danceability":0.86,
+        "loudness":-6.968,
+        "speechiness":0.0982,
+        "duration_ms":193004,
+        "artists":[
+            "21 Savage",
+            "Young Thug",
+            "Metro Boomin"
+        ]
+    },
+    "228":{
+        "country":"USA",
+        "energy":0.545,
+        "danceability":0.545,
+        "loudness":-7.362,
+        "speechiness":0.107,
+        "duration_ms":184516,
+        "artists":[
+            "Frank Ocean"
+        ]
+    },
+    "229":{
+        "country":"USA",
+        "energy":0.532,
+        "danceability":0.511,
+        "loudness":-5.745,
+        "speechiness":0.0578,
+        "duration_ms":219724,
+        "artists":[
+            "Olivia Rodrigo"
+        ]
+    },
+    "230":{
+        "country":"USA",
+        "energy":0.702,
+        "danceability":0.552,
+        "loudness":-5.707,
+        "speechiness":0.157,
+        "duration_ms":178427,
+        "artists":[
+            "Taylor Swift"
+        ]
+    },
+    "231":{
+        "country":"USA",
+        "energy":0.905,
+        "danceability":0.67,
+        "loudness":-6.855,
+        "speechiness":0.129,
+        "duration_ms":167864,
+        "artists":[
+            "TV Girl"
+        ]
+    },
+    "232":{
+        "country":"USA",
+        "energy":0.619,
+        "danceability":0.927,
+        "loudness":-4.441,
+        "speechiness":0.0539,
+        "duration_ms":211582,
+        "artists":[
+            "Travis Scott"
+        ]
+    },
+    "233":{
+        "country":"USA",
+        "energy":0.758,
+        "danceability":0.678,
+        "loudness":-6.524,
+        "speechiness":0.227,
+        "duration_ms":220584,
+        "artists":[
+            "21 Savage",
+            "Travis Scott",
+            "Metro Boomin"
+        ]
+    },
+    "234":{
+        "country":"USA",
+        "energy":0.56,
+        "danceability":0.575,
+        "loudness":-7.302,
+        "speechiness":0.478,
+        "duration_ms":229938,
+        "artists":[
+            "JID",
+            "21 Savage",
+            "Baby Tate"
+        ]
+    },
+    "235":{
+        "country":"USA",
+        "energy":0.575,
+        "danceability":0.821,
+        "loudness":-6.57,
+        "speechiness":0.0589,
+        "duration_ms":159401,
+        "artists":[
+            "Tate McRae"
+        ]
+    },
+    "236":{
+        "country":"USA",
+        "energy":0.835,
+        "danceability":0.778,
+        "loudness":-3.598,
+        "speechiness":0.0767,
+        "duration_ms":156346,
+        "artists":[
+            "Xavi"
+        ]
+    },
+    "237":{
+        "country":"USA",
+        "energy":0.622,
+        "danceability":0.847,
+        "loudness":-6.747,
+        "speechiness":0.0903,
+        "duration_ms":125040,
+        "artists":[
+            "Gunna"
+        ]
+    },
+    "238":{
+        "country":"USA",
+        "energy":0.686,
+        "danceability":0.787,
+        "loudness":-4.37,
+        "speechiness":0.0339,
+        "duration_ms":185553,
+        "artists":[
+            "Sabrina Carpenter"
+        ]
+    },
+    "239":{
+        "country":"USA",
+        "energy":0.735,
+        "danceability":0.644,
+        "loudness":-5.747,
+        "speechiness":0.0391,
+        "duration_ms":153947,
+        "artists":[
+            "SZA"
+        ]
+    },
+    "240":{
+        "country":"USA",
+        "energy":0.192,
+        "danceability":0.369,
+        "loudness":-12.151,
+        "speechiness":0.04,
+        "duration_ms":228013,
+        "artists":[
+            "Zach Bryan"
+        ]
+    },
+    "241":{
+        "country":"USA",
+        "energy":0.74,
+        "danceability":0.624,
+        "loudness":-8.445,
+        "speechiness":0.0481,
+        "duration_ms":270698,
+        "artists":[
+            "21 Savage"
+        ]
+    },
+    "242":{
+        "country":"USA",
+        "energy":0.64,
+        "danceability":0.47,
+        "loudness":-7.779,
+        "speechiness":0.32,
+        "duration_ms":247444,
+        "artists":[
+            "Drake",
+            "J. Cole"
+        ]
+    },
+    "243":{
+        "country":"USA",
+        "energy":0.521,
+        "danceability":0.69,
+        "loudness":-8.492,
+        "speechiness":0.339,
+        "duration_ms":292799,
+        "artists":[
+            "J. Cole"
+        ]
+    },
+    "244":{
+        "country":"USA",
+        "energy":0.488,
+        "danceability":0.662,
+        "loudness":-6.894,
+        "speechiness":0.0682,
+        "duration_ms":182347,
+        "artists":[
+            "Noah Kahan"
+        ]
+    },
+    "245":{
+        "country":"USA",
+        "energy":0.805,
+        "danceability":0.653,
+        "loudness":-5.708,
+        "speechiness":0.304,
+        "duration_ms":198293,
+        "artists":[
+            "21 Savage"
+        ]
+    },
+    "246":{
+        "country":"USA",
+        "energy":0.871,
+        "danceability":0.559,
+        "loudness":-5.338,
+        "speechiness":0.0397,
+        "duration_ms":213920,
+        "artists":[
+            "TV Girl"
+        ]
+    },
+    "247":{
+        "country":"USA",
+        "energy":0.849,
+        "danceability":0.73,
+        "loudness":-5.281,
+        "speechiness":0.0299,
+        "duration_ms":230013,
+        "artists":[
+            "Sophie Ellis-Bextor"
+        ]
+    },
+    "248":{
+        "country":"USA",
+        "energy":0.678,
+        "danceability":0.855,
+        "loudness":-6.276,
+        "speechiness":0.189,
+        "duration_ms":215467,
+        "artists":[
+            "The Weeknd",
+            "Playboi Carti",
+            "Madonna"
+        ]
+    },
+    "249":{
+        "country":"USA",
+        "energy":0.785,
+        "danceability":0.722,
+        "loudness":-5.451,
+        "speechiness":0.0763,
+        "duration_ms":144390,
+        "artists":[
+            "Lil Tecca"
+        ]
+    },
+    "250":{
+        "country":"Brazil",
+        "energy":0.677,
+        "danceability":0.762,
+        "loudness":-5.244,
+        "speechiness":0.0832,
+        "duration_ms":143955,
+        "artists":[
+            "Kelvin e Gustavo",
+            "\u00cdcaro e Gilmar"
+        ]
+    },
+    "251":{
+        "country":"Brazil",
+        "energy":0.87,
+        "danceability":0.529,
+        "loudness":-3.463,
+        "speechiness":0.0942,
+        "duration_ms":166491,
+        "artists":[
+            "Guilherme & Benuto",
+            "Simone Mendes"
+        ]
+    },
+    "252":{
+        "country":"Brazil",
+        "energy":0.573,
+        "danceability":0.572,
+        "loudness":-6.028,
+        "speechiness":0.0596,
+        "duration_ms":199827,
+        "artists":[
+            "Luan Santana",
+            "Ana Castela"
+        ]
+    },
+    "253":{
+        "country":"Brazil",
+        "energy":0.609,
+        "danceability":0.422,
+        "loudness":-6.518,
+        "speechiness":0.0375,
+        "duration_ms":209520,
+        "artists":[
+            "Isadora Pompeo"
+        ]
+    },
+    "254":{
+        "country":"Brazil",
+        "energy":0.825,
+        "danceability":0.521,
+        "loudness":-6.025,
+        "speechiness":0.126,
+        "duration_ms":171712,
+        "artists":[
+            "Z\u00e9 Neto & Cristiano"
+        ]
+    },
+    "255":{
+        "country":"Brazil",
+        "energy":0.83,
+        "danceability":0.841,
+        "loudness":-2.502,
+        "speechiness":0.122,
+        "duration_ms":171101,
+        "artists":[
+            "Leo Santana",
+            "Z\u00e9 Felipe"
+        ]
+    },
+    "256":{
+        "country":"Brazil",
+        "energy":0.527,
+        "danceability":0.728,
+        "loudness":-6.347,
+        "speechiness":0.091,
+        "duration_ms":163014,
+        "artists":[
+            "Luan Pereira",
+            "Mc Daniel",
+            "MC Ryan SP"
+        ]
+    },
+    "257":{
+        "country":"Brazil",
+        "energy":0.631,
+        "danceability":0.782,
+        "loudness":-8.473,
+        "speechiness":0.592,
+        "duration_ms":641941,
+        "artists":[
+            "Dj GBR",
+            "Mc IG",
+            "MC Ryan SP",
+            "MC PH",
+            "Mc Davi",
+            "Mc Luki",
+            "Mc Don Juan",
+            "Mc Kadu",
+            "TrapLaudo",
+            "MC GP",
+            "MC GH do 7"
+        ]
+    },
+    "258":{
+        "country":"Brazil",
+        "energy":0.758,
+        "danceability":0.788,
+        "loudness":-6.513,
+        "speechiness":0.0505,
+        "duration_ms":214994,
+        "artists":[
+            "Ariana Grande"
+        ]
+    },
+    "259":{
+        "country":"Brazil",
+        "energy":0.687,
+        "danceability":0.821,
+        "loudness":-3.515,
+        "speechiness":0.0551,
+        "duration_ms":133611,
+        "artists":[
+            "AgroPlay",
+            "Ana Castela",
+            "LUDMILLA"
+        ]
+    },
+    "260":{
+        "country":"Brazil",
+        "energy":0.857,
+        "danceability":0.5,
+        "loudness":-3.582,
+        "speechiness":0.0974,
+        "duration_ms":141216,
+        "artists":[
+            "Matheus & Kauan"
+        ]
+    },
+    "261":{
+        "country":"Brazil",
+        "energy":0.778,
+        "danceability":0.657,
+        "loudness":-4.439,
+        "speechiness":0.0587,
+        "duration_ms":153237,
+        "artists":[
+            "Gusttavo Lima",
+            "Matheus & Kauan"
+        ]
+    },
+    "262":{
+        "country":"Brazil",
+        "energy":0.75,
+        "danceability":0.947,
+        "loudness":-0.855,
+        "speechiness":0.0534,
+        "duration_ms":163200,
+        "artists":[
+            "Felipe Amorim"
+        ]
+    },
+    "263":{
+        "country":"Brazil",
+        "energy":0.228,
+        "danceability":0.734,
+        "loudness":-4.731,
+        "speechiness":0.53,
+        "duration_ms":221538,
+        "artists":[
+            "Tropa do Bruxo",
+            "DJ Ws da Igrejinha",
+            "SMU",
+            "Triz",
+            "Mc Menor Thalis"
+        ]
+    },
+    "264":{
+        "country":"Brazil",
+        "energy":0.866,
+        "danceability":0.706,
+        "loudness":-3.337,
+        "speechiness":0.075,
+        "duration_ms":124512,
+        "artists":[
+            "Gusttavo Lima",
+            "Ana Castela"
+        ]
+    },
+    "265":{
+        "country":"Brazil",
+        "energy":0.6,
+        "danceability":0.644,
+        "loudness":-4.805,
+        "speechiness":0.415,
+        "duration_ms":141176,
+        "artists":[
+            "Chefin",
+            "Mainstreet",
+            "LB \u00danico"
+        ]
+    },
+    "266":{
+        "country":"Brazil",
+        "energy":0.855,
+        "danceability":0.53,
+        "loudness":-3.972,
+        "speechiness":0.0807,
+        "duration_ms":172549,
+        "artists":[
+            "Murilo Huff"
+        ]
+    },
+    "267":{
+        "country":"Brazil",
+        "energy":0.865,
+        "danceability":0.743,
+        "loudness":-3.897,
+        "speechiness":0.0315,
+        "duration_ms":166775,
+        "artists":[
+            "Mar\u00edlia Mendon\u00e7a"
+        ]
+    },
+    "268":{
+        "country":"Brazil",
+        "energy":0.901,
+        "danceability":0.796,
+        "loudness":-4.073,
+        "speechiness":0.154,
+        "duration_ms":214091,
+        "artists":[
+            "GREGO",
+            "Paulo Pires",
+            "\u00c9aBest"
+        ]
+    },
+    "269":{
+        "country":"Brazil",
+        "energy":0.913,
+        "danceability":0.679,
+        "loudness":-3.833,
+        "speechiness":0.234,
+        "duration_ms":158123,
+        "artists":[
+            "Henry Freitas"
+        ]
+    },
+    "270":{
+        "country":"Brazil",
+        "energy":0.95,
+        "danceability":0.571,
+        "loudness":-2.893,
+        "speechiness":0.09,
+        "duration_ms":202644,
+        "artists":[
+            "Manu",
+            "Simone Mendes"
+        ]
+    },
+    "271":{
+        "country":"Brazil",
+        "energy":0.508,
+        "danceability":0.664,
+        "loudness":-7.684,
+        "speechiness":0.33,
+        "duration_ms":200000,
+        "artists":[
+            "Vulgo FK",
+            "MC PH",
+            "Veigh",
+            "Pedro Lotto",
+            "Fepache"
+        ]
+    },
+    "272":{
+        "country":"Brazil",
+        "energy":0.444,
+        "danceability":0.553,
+        "loudness":-7.667,
+        "speechiness":0.123,
+        "duration_ms":187153,
+        "artists":[
+            "Marshmello",
+            "Lu\u00edsa Sonza"
+        ]
+    },
+    "273":{
+        "country":"Brazil",
+        "energy":0.815,
+        "danceability":0.863,
+        "loudness":-3.221,
+        "speechiness":0.159,
+        "duration_ms":167445,
+        "artists":[
+            "Juliette"
+        ]
+    },
+    "274":{
+        "country":"Brazil",
+        "energy":0.603,
+        "danceability":0.795,
+        "loudness":-6.703,
+        "speechiness":0.0775,
+        "duration_ms":232258,
+        "artists":[
+            "MC PH",
+            "Borges",
+            "WIU",
+            "Pedro Lotto",
+            "WEY"
+        ]
+    },
+    "275":{
+        "country":"Brazil",
+        "energy":0.875,
+        "danceability":0.539,
+        "loudness":-4.974,
+        "speechiness":0.102,
+        "duration_ms":148516,
+        "artists":[
+            "Felipe Ara\u00fajo",
+            "Luan Santana"
+        ]
+    },
+    "276":{
+        "country":"Brazil",
+        "energy":0.953,
+        "danceability":0.919,
+        "loudness":-2.62,
+        "speechiness":0.0443,
+        "duration_ms":125108,
+        "artists":[
+            "Anitta",
+            "DENNIS",
+            "PEDRO SAMPAIO"
+        ]
+    },
+    "277":{
+        "country":"Brazil",
+        "energy":0.7,
+        "danceability":0.682,
+        "loudness":-4.279,
+        "speechiness":0.0501,
+        "duration_ms":134932,
+        "artists":[
+            "Traia V\u00e9ia",
+            "Murilo Huff"
+        ]
+    },
+    "278":{
+        "country":"Brazil",
+        "energy":0.922,
+        "danceability":0.477,
+        "loudness":-3.394,
+        "speechiness":0.0606,
+        "duration_ms":173968,
+        "artists":[
+            "Henrique & Juliano"
+        ]
+    },
+    "279":{
+        "country":"Brazil",
+        "energy":0.96,
+        "danceability":0.863,
+        "loudness":-1.458,
+        "speechiness":0.0492,
+        "duration_ms":92093,
+        "artists":[
+            "DENNIS",
+            "MC Kevin o Chris"
+        ]
+    },
+    "280":{
+        "country":"Brazil",
+        "energy":0.955,
+        "danceability":0.48,
+        "loudness":-4.771,
+        "speechiness":0.178,
+        "duration_ms":175468,
+        "artists":[
+            "Luan Santana"
+        ]
+    },
+    "281":{
+        "country":"Brazil",
+        "energy":0.871,
+        "danceability":0.646,
+        "loudness":-6.195,
+        "speechiness":0.219,
+        "duration_ms":133547,
+        "artists":[
+            "Z\u00e9 Neto & Cristiano"
+        ]
+    },
+    "282":{
+        "country":"Brazil",
+        "energy":0.893,
+        "danceability":0.588,
+        "loudness":-2.743,
+        "speechiness":0.0866,
+        "duration_ms":178812,
+        "artists":[
+            "Simone Mendes"
+        ]
+    },
+    "283":{
+        "country":"Brazil",
+        "energy":0.499,
+        "danceability":0.836,
+        "loudness":-5.82,
+        "speechiness":0.0563,
+        "duration_ms":140323,
+        "artists":[
+            "Veigh",
+            "Bvga Beatz",
+            "Prod Malax",
+            "Supernova Ent"
+        ]
+    },
+    "284":{
+        "country":"Brazil",
+        "energy":0.732,
+        "danceability":0.686,
+        "loudness":-5.878,
+        "speechiness":0.0372,
+        "duration_ms":169559,
+        "artists":[
+            "Israel & Rodolffo",
+            "Mc Don Juan",
+            "Jo\u00e3o Gomes"
+        ]
+    },
+    "285":{
+        "country":"Brazil",
+        "energy":0.664,
+        "danceability":0.701,
+        "loudness":-4.42,
+        "speechiness":0.0284,
+        "duration_ms":166189,
+        "artists":[
+            "Ana Castela",
+            "Gustavo Mioto"
+        ]
+    },
+    "286":{
+        "country":"Brazil",
+        "energy":0.805,
+        "danceability":0.629,
+        "loudness":-4.158,
+        "speechiness":0.0452,
+        "duration_ms":265451,
+        "artists":[
+            "Lauana Prado"
+        ]
+    },
+    "287":{
+        "country":"Brazil",
+        "energy":0.752,
+        "danceability":0.691,
+        "loudness":-6.796,
+        "speechiness":0.157,
+        "duration_ms":159323,
+        "artists":[
+            "Grupo Menos \u00c9 Mais",
+            "Matheus Fernandes"
+        ]
+    },
+    "288":{
+        "country":"Brazil",
+        "energy":0.76,
+        "danceability":0.359,
+        "loudness":-4.632,
+        "speechiness":0.0513,
+        "duration_ms":178251,
+        "artists":[
+            "Henrique & Juliano"
+        ]
+    },
+    "289":{
+        "country":"Brazil",
+        "energy":0.711,
+        "danceability":0.35,
+        "loudness":-5.203,
+        "speechiness":0.0497,
+        "duration_ms":273136,
+        "artists":[
+            "Clayton & Rom\u00e1rio",
+            "Hugo & Guilherme"
+        ]
+    },
+    "290":{
+        "country":"Brazil",
+        "energy":0.839,
+        "danceability":0.664,
+        "loudness":-3.379,
+        "speechiness":0.0393,
+        "duration_ms":173370,
+        "artists":[
+            "Simone Mendes"
+        ]
+    },
+    "291":{
+        "country":"Brazil",
+        "energy":0.934,
+        "danceability":0.719,
+        "loudness":-3.233,
+        "speechiness":0.0808,
+        "duration_ms":174549,
+        "artists":[
+            "Michel Tel\u00f3",
+            "Thiaguinho"
+        ]
+    },
+    "292":{
+        "country":"Brazil",
+        "energy":0.669,
+        "danceability":0.655,
+        "loudness":-4.047,
+        "speechiness":0.0275,
+        "duration_ms":194582,
+        "artists":[
+            "Ana Castela"
+        ]
+    },
+    "293":{
+        "country":"Brazil",
+        "energy":0.413,
+        "danceability":0.92,
+        "loudness":-7.901,
+        "speechiness":0.0752,
+        "duration_ms":138462,
+        "artists":[
+            "MC Kevin o Chris",
+            "Dj Nk Da Serra",
+            "Mc Magrinho"
+        ]
+    },
+    "294":{
+        "country":"Brazil",
+        "energy":0.842,
+        "danceability":0.656,
+        "loudness":-3.746,
+        "speechiness":0.201,
+        "duration_ms":156942,
+        "artists":[
+            "Guilherme & Benuto",
+            "Ana Castela",
+            "Adriano Rhod"
+        ]
+    },
+    "295":{
+        "country":"Brazil",
+        "energy":0.741,
+        "danceability":0.606,
+        "loudness":-3.973,
+        "speechiness":0.0285,
+        "duration_ms":177327,
+        "artists":[
+            "Ana Castela"
+        ]
+    },
+    "296":{
+        "country":"Brazil",
+        "energy":0.542,
+        "danceability":0.436,
+        "loudness":-7.937,
+        "speechiness":0.0824,
+        "duration_ms":136800,
+        "artists":[
+            "Filipe Ret"
+        ]
+    },
+    "297":{
+        "country":"Brazil",
+        "energy":0.709,
+        "danceability":0.694,
+        "loudness":-4.821,
+        "speechiness":0.196,
+        "duration_ms":173698,
+        "artists":[
+            "AgroPlay",
+            "Ana Castela"
+        ]
+    },
+    "298":{
+        "country":"Brazil",
+        "energy":0.668,
+        "danceability":0.682,
+        "loudness":-6.586,
+        "speechiness":0.104,
+        "duration_ms":181500,
+        "artists":[
+            "Borges",
+            "MC Cabelinho",
+            "Veigh",
+            "RUXN",
+            "Palma",
+            "Kizzy"
+        ]
+    },
+    "299":{
+        "country":"Brazil",
+        "energy":0.636,
+        "danceability":0.837,
+        "loudness":-4.206,
+        "speechiness":0.0521,
+        "duration_ms":127385,
+        "artists":[
+            "PEDRO SAMPAIO"
+        ]
+    },
+    "300":{
+        "country":"Italy",
+        "energy":0.792,
+        "danceability":0.718,
+        "loudness":-6.047,
+        "speechiness":0.0644,
+        "duration_ms":198261,
+        "artists":[
+            "Sfera Ebbasta"
+        ]
+    },
+    "301":{
+        "country":"Italy",
+        "energy":0.833,
+        "danceability":0.714,
+        "loudness":-4.268,
+        "speechiness":0.0378,
+        "duration_ms":201782,
+        "artists":[
+            "Bresh",
+            "Pinguini Tattici Nucleari"
+        ]
+    },
+    "302":{
+        "country":"Italy",
+        "energy":0.827,
+        "danceability":0.674,
+        "loudness":-6.125,
+        "speechiness":0.0995,
+        "duration_ms":139714,
+        "artists":[
+            "VillaBanks"
+        ]
+    },
+    "303":{
+        "country":"Italy",
+        "energy":0.83,
+        "danceability":0.663,
+        "loudness":-4.799,
+        "speechiness":0.311,
+        "duration_ms":179879,
+        "artists":[
+            "Club Dogo"
+        ]
+    },
+    "304":{
+        "country":"Italy",
+        "energy":0.886,
+        "danceability":0.781,
+        "loudness":-4.195,
+        "speechiness":0.2,
+        "duration_ms":185041,
+        "artists":[
+            "Club Dogo",
+            "Sfera Ebbasta"
+        ]
+    },
+    "305":{
+        "country":"Italy",
+        "energy":0.787,
+        "danceability":0.715,
+        "loudness":-3.726,
+        "speechiness":0.177,
+        "duration_ms":185169,
+        "artists":[
+            "Club Dogo"
+        ]
+    },
+    "306":{
+        "country":"Italy",
+        "energy":0.873,
+        "danceability":0.805,
+        "loudness":-3.725,
+        "speechiness":0.187,
+        "duration_ms":155526,
+        "artists":[
+            "Boro",
+            "Artie 5ive",
+            "Andry The Hitmaker"
+        ]
+    },
+    "307":{
+        "country":"Italy",
+        "energy":0.758,
+        "danceability":0.788,
+        "loudness":-6.513,
+        "speechiness":0.0505,
+        "duration_ms":214994,
+        "artists":[
+            "Ariana Grande"
+        ]
+    },
+    "308":{
+        "country":"Italy",
+        "energy":0.81,
+        "danceability":0.676,
+        "loudness":-5.209,
+        "speechiness":0.0411,
+        "duration_ms":238534,
+        "artists":[
+            "Drillionaire",
+            "Lazza",
+            "BLANCO",
+            "Sfera Ebbasta",
+            "Michelangelo"
+        ]
+    },
+    "309":{
+        "country":"Italy",
+        "energy":0.593,
+        "danceability":0.764,
+        "loudness":-7.853,
+        "speechiness":0.029,
+        "duration_ms":214291,
+        "artists":[
+            "Calcutta "
+        ]
+    },
+    "310":{
+        "country":"Italy",
+        "energy":0.534,
+        "danceability":0.804,
+        "loudness":-6.775,
+        "speechiness":0.0511,
+        "duration_ms":135652,
+        "artists":[
+            "Ghali",
+            "Simba La Rue"
+        ]
+    },
+    "311":{
+        "country":"Italy",
+        "energy":0.751,
+        "danceability":0.949,
+        "loudness":-3.541,
+        "speechiness":0.166,
+        "duration_ms":113738,
+        "artists":[
+            "Rhove",
+            "ANNA"
+        ]
+    },
+    "312":{
+        "country":"Italy",
+        "energy":0.695,
+        "danceability":0.542,
+        "loudness":-4.117,
+        "speechiness":0.15,
+        "duration_ms":168130,
+        "artists":[
+            "Club Dogo"
+        ]
+    },
+    "313":{
+        "country":"Italy",
+        "energy":0.572,
+        "danceability":0.774,
+        "loudness":-7.104,
+        "speechiness":0.0586,
+        "duration_ms":207400,
+        "artists":[
+            "Yung Snapp",
+            "Geolier"
+        ]
+    },
+    "314":{
+        "country":"Italy",
+        "energy":0.699,
+        "danceability":0.754,
+        "loudness":-5.498,
+        "speechiness":0.0684,
+        "duration_ms":229254,
+        "artists":[
+            "Sfera Ebbasta",
+            "Lazza",
+            "Shiva"
+        ]
+    },
+    "315":{
+        "country":"Italy",
+        "energy":0.482,
+        "danceability":0.544,
+        "loudness":-6.871,
+        "speechiness":0.0346,
+        "duration_ms":250895,
+        "artists":[
+            "Calcutta "
+        ]
+    },
+    "316":{
+        "country":"Italy",
+        "energy":0.704,
+        "danceability":0.709,
+        "loudness":-5.347,
+        "speechiness":0.432,
+        "duration_ms":153000,
+        "artists":[
+            "Shiva"
+        ]
+    },
+    "317":{
+        "country":"Italy",
+        "energy":0.689,
+        "danceability":0.695,
+        "loudness":-4.941,
+        "speechiness":0.0443,
+        "duration_ms":172320,
+        "artists":[
+            "Massimo Pericolo",
+            "Emis Killa"
+        ]
+    },
+    "318":{
+        "country":"Italy",
+        "energy":0.518,
+        "danceability":0.708,
+        "loudness":-7.071,
+        "speechiness":0.129,
+        "duration_ms":144865,
+        "artists":[
+            "Simba La Rue",
+            "FT Kings"
+        ]
+    },
+    "319":{
+        "country":"Italy",
+        "energy":0.76,
+        "danceability":0.759,
+        "loudness":-6.42,
+        "speechiness":0.0487,
+        "duration_ms":176787,
+        "artists":[
+            "Massimo Pericolo",
+            "Tedua"
+        ]
+    },
+    "320":{
+        "country":"Italy",
+        "energy":0.757,
+        "danceability":0.936,
+        "loudness":-6.616,
+        "speechiness":0.117,
+        "duration_ms":137120,
+        "artists":[
+            "Tedua",
+            "Sfera Ebbasta"
+        ]
+    },
+    "321":{
+        "country":"Italy",
+        "energy":0.852,
+        "danceability":0.699,
+        "loudness":-3.22,
+        "speechiness":0.173,
+        "duration_ms":200644,
+        "artists":[
+            "Club Dogo"
+        ]
+    },
+    "322":{
+        "country":"Italy",
+        "energy":0.548,
+        "danceability":0.743,
+        "loudness":-7.34,
+        "speechiness":0.071,
+        "duration_ms":206897,
+        "artists":[
+            "Sfera Ebbasta",
+            "Marracash"
+        ]
+    },
+    "323":{
+        "country":"Italy",
+        "energy":0.624,
+        "danceability":0.558,
+        "loudness":-6.567,
+        "speechiness":0.0439,
+        "duration_ms":167867,
+        "artists":[
+            "Tedua"
+        ]
+    },
+    "324":{
+        "country":"Italy",
+        "energy":0.767,
+        "danceability":0.754,
+        "loudness":-4.98,
+        "speechiness":0.0594,
+        "duration_ms":164776,
+        "artists":[
+            "AVA",
+            "ANNA",
+            "Capo Plaza"
+        ]
+    },
+    "325":{
+        "country":"Italy",
+        "energy":0.421,
+        "danceability":0.537,
+        "loudness":-8.72,
+        "speechiness":0.0285,
+        "duration_ms":184061,
+        "artists":[
+            "i\u00f1igo quintero"
+        ]
+    },
+    "326":{
+        "country":"Italy",
+        "energy":0.779,
+        "danceability":0.753,
+        "loudness":-4.404,
+        "speechiness":0.0807,
+        "duration_ms":230841,
+        "artists":[
+            "Club Dogo",
+            "Elodie"
+        ]
+    },
+    "327":{
+        "country":"Italy",
+        "energy":0.798,
+        "danceability":0.735,
+        "loudness":-7.157,
+        "speechiness":0.122,
+        "duration_ms":167339,
+        "artists":[
+            "Geolier",
+            "Marracash"
+        ]
+    },
+    "328":{
+        "country":"Italy",
+        "energy":0.841,
+        "danceability":0.734,
+        "loudness":-4.501,
+        "speechiness":0.186,
+        "duration_ms":157031,
+        "artists":[
+            "Alfa"
+        ]
+    },
+    "329":{
+        "country":"Italy",
+        "energy":0.865,
+        "danceability":0.772,
+        "loudness":-4.373,
+        "speechiness":0.166,
+        "duration_ms":169453,
+        "artists":[
+            "Club Dogo"
+        ]
+    },
+    "330":{
+        "country":"Italy",
+        "energy":0.631,
+        "danceability":0.756,
+        "loudness":-5.297,
+        "speechiness":0.0502,
+        "duration_ms":172615,
+        "artists":[
+            "Geolier"
+        ]
+    },
+    "331":{
+        "country":"Italy",
+        "energy":0.693,
+        "danceability":0.743,
+        "loudness":-7.624,
+        "speechiness":0.114,
+        "duration_ms":162467,
+        "artists":[
+            "Tedua",
+            "Baby Gang",
+            "Kid Yugi"
+        ]
+    },
+    "332":{
+        "country":"Italy",
+        "energy":0.682,
+        "danceability":0.801,
+        "loudness":-7.472,
+        "speechiness":0.0441,
+        "duration_ms":185195,
+        "artists":[
+            "Gemitaiz",
+            "Nayt"
+        ]
+    },
+    "333":{
+        "country":"Italy",
+        "energy":0.663,
+        "danceability":0.73,
+        "loudness":-6.021,
+        "speechiness":0.0561,
+        "duration_ms":217500,
+        "artists":[
+            "Sfera Ebbasta",
+            "Elodie"
+        ]
+    },
+    "334":{
+        "country":"Italy",
+        "energy":0.526,
+        "danceability":0.519,
+        "loudness":-8.203,
+        "speechiness":0.455,
+        "duration_ms":205525,
+        "artists":[
+            "Sfera Ebbasta",
+            "Geolier",
+            "Simba La Rue",
+            "Baby Gang"
+        ]
+    },
+    "335":{
+        "country":"Italy",
+        "energy":0.57,
+        "danceability":0.692,
+        "loudness":-6.432,
+        "speechiness":0.379,
+        "duration_ms":132309,
+        "artists":[
+            "Simba La Rue",
+            "FT Kings",
+            "Ghali"
+        ]
+    },
+    "336":{
+        "country":"Italy",
+        "energy":0.612,
+        "danceability":0.741,
+        "loudness":-4.094,
+        "speechiness":0.167,
+        "duration_ms":174894,
+        "artists":[
+            "Kid Yugi"
+        ]
+    },
+    "337":{
+        "country":"Italy",
+        "energy":0.645,
+        "danceability":0.452,
+        "loudness":-6.031,
+        "speechiness":0.109,
+        "duration_ms":204632,
+        "artists":[
+            "Simba La Rue",
+            "FT Kings",
+            "Sfera Ebbasta"
+        ]
+    },
+    "338":{
+        "country":"Italy",
+        "energy":0.755,
+        "danceability":0.774,
+        "loudness":-3.994,
+        "speechiness":0.243,
+        "duration_ms":198947,
+        "artists":[
+            "Club Dogo"
+        ]
+    },
+    "339":{
+        "country":"Italy",
+        "energy":0.832,
+        "danceability":0.595,
+        "loudness":-5.331,
+        "speechiness":0.0425,
+        "duration_ms":151160,
+        "artists":[
+            "Don Pero"
+        ]
+    },
+    "340":{
+        "country":"Italy",
+        "energy":0.794,
+        "danceability":0.655,
+        "loudness":-5.325,
+        "speechiness":0.357,
+        "duration_ms":226733,
+        "artists":[
+            "Club Dogo",
+            "Marracash"
+        ]
+    },
+    "341":{
+        "country":"Italy",
+        "energy":0.579,
+        "danceability":0.452,
+        "loudness":-5.658,
+        "speechiness":0.0755,
+        "duration_ms":162685,
+        "artists":[
+            "Mida"
+        ]
+    },
+    "342":{
+        "country":"Italy",
+        "energy":0.816,
+        "danceability":0.524,
+        "loudness":-6.787,
+        "speechiness":0.126,
+        "duration_ms":189016,
+        "artists":[
+            "Artie 5ive",
+            "ANNA"
+        ]
+    },
+    "343":{
+        "country":"Italy",
+        "energy":0.811,
+        "danceability":0.717,
+        "loudness":-4.29,
+        "speechiness":0.0668,
+        "duration_ms":160258,
+        "artists":[
+            "Artie 5ive",
+            "Rondodasosa"
+        ]
+    },
+    "344":{
+        "country":"Italy",
+        "energy":0.516,
+        "danceability":0.748,
+        "loudness":-6.77,
+        "speechiness":0.1,
+        "duration_ms":190189,
+        "artists":[
+            "Takagi & Ketra",
+            "Shiva",
+            "ANNA",
+            "Geolier"
+        ]
+    },
+    "345":{
+        "country":"Italy",
+        "energy":0.881,
+        "danceability":0.757,
+        "loudness":-3.113,
+        "speechiness":0.249,
+        "duration_ms":185587,
+        "artists":[
+            "Club Dogo"
+        ]
+    },
+    "346":{
+        "country":"Italy",
+        "energy":0.654,
+        "danceability":0.8,
+        "loudness":-6.786,
+        "speechiness":0.276,
+        "duration_ms":156320,
+        "artists":[
+            "Artie 5ive",
+            "Rondodasosa"
+        ]
+    },
+    "347":{
+        "country":"Italy",
+        "energy":0.831,
+        "danceability":0.679,
+        "loudness":-3.989,
+        "speechiness":0.312,
+        "duration_ms":163621,
+        "artists":[
+            "Club Dogo"
+        ]
+    },
+    "348":{
+        "country":"Italy",
+        "energy":0.616,
+        "danceability":0.864,
+        "loudness":-6.296,
+        "speechiness":0.0617,
+        "duration_ms":251321,
+        "artists":[
+            "Tedua",
+            "Capo Plaza",
+            "SHUNE"
+        ]
+    },
+    "349":{
+        "country":"Italy",
+        "energy":0.795,
+        "danceability":0.69,
+        "loudness":-6.819,
+        "speechiness":0.0759,
+        "duration_ms":206806,
+        "artists":[
+            "Marracash",
+            "Gu\u00e8"
+        ]
+    },
+    "350":{
+        "country":"South Korea",
+        "energy":0.839,
+        "danceability":0.671,
+        "loudness":-2.645,
+        "speechiness":0.0866,
+        "duration_ms":147557,
+        "artists":[
+            "Jung Kook"
+        ]
+    },
+    "351":{
+        "country":"South Korea",
+        "energy":0.702,
+        "danceability":0.552,
+        "loudness":-5.707,
+        "speechiness":0.157,
+        "duration_ms":178427,
+        "artists":[
+            "Taylor Swift"
+        ]
+    },
+    "352":{
+        "country":"South Korea",
+        "energy":0.52,
+        "danceability":0.69,
+        "loudness":-8.072,
+        "speechiness":0.0355,
+        "duration_ms":153715,
+        "artists":[
+            "UMI",
+            "V"
+        ]
+    },
+    "353":{
+        "country":"South Korea",
+        "energy":0.831,
+        "danceability":0.79,
+        "loudness":-4.185,
+        "speechiness":0.044,
+        "duration_ms":183551,
+        "artists":[
+            "Jung Kook",
+            "Latto"
+        ]
+    },
+    "354":{
+        "country":"South Korea",
+        "energy":0.758,
+        "danceability":0.788,
+        "loudness":-6.513,
+        "speechiness":0.0505,
+        "duration_ms":214994,
+        "artists":[
+            "Ariana Grande"
+        ]
+    },
+    "355":{
+        "country":"South Korea",
+        "energy":0.83,
+        "danceability":0.645,
+        "loudness":-1.92,
+        "speechiness":0.138,
+        "duration_ms":166979,
+        "artists":[
+            "NMIXX"
+        ]
+    },
+    "356":{
+        "country":"South Korea",
+        "energy":0.454,
+        "danceability":0.633,
+        "loudness":-8.016,
+        "speechiness":0.0875,
+        "duration_ms":179560,
+        "artists":[
+            "V"
+        ]
+    },
+    "357":{
+        "country":"South Korea",
+        "energy":0.551,
+        "danceability":0.372,
+        "loudness":-3.508,
+        "speechiness":0.0324,
+        "duration_ms":195173,
+        "artists":[
+            "Lim Young Woong"
+        ]
+    },
+    "358":{
+        "country":"South Korea",
+        "energy":0.443,
+        "danceability":0.404,
+        "loudness":-6.799,
+        "speechiness":0.0333,
+        "duration_ms":242760,
+        "artists":[
+            "Lim Young Woong"
+        ]
+    },
+    "359":{
+        "country":"South Korea",
+        "energy":0.607,
+        "danceability":0.633,
+        "loudness":-6.182,
+        "speechiness":0.0532,
+        "duration_ms":182293,
+        "artists":[
+            "V"
+        ]
+    },
+    "360":{
+        "country":"South Korea",
+        "energy":0.54,
+        "danceability":0.716,
+        "loudness":-5.951,
+        "speechiness":0.0381,
+        "duration_ms":223302,
+        "artists":[
+            "Jimin"
+        ]
+    },
+    "361":{
+        "country":"South Korea",
+        "energy":0.539,
+        "danceability":0.689,
+        "loudness":-7.671,
+        "speechiness":0.048,
+        "duration_ms":229627,
+        "artists":[
+            "Jimin"
+        ]
+    },
+    "362":{
+        "country":"South Korea",
+        "energy":0.442,
+        "danceability":0.635,
+        "loudness":-5.919,
+        "speechiness":0.0362,
+        "duration_ms":239027,
+        "artists":[
+            "Lim Young Woong"
+        ]
+    },
+    "363":{
+        "country":"South Korea",
+        "energy":0.587,
+        "danceability":0.835,
+        "loudness":-5.814,
+        "speechiness":0.08,
+        "duration_ms":170387,
+        "artists":[
+            "TAEYEON"
+        ]
+    },
+    "364":{
+        "country":"South Korea",
+        "energy":0.815,
+        "danceability":0.585,
+        "loudness":-4.165,
+        "speechiness":0.0565,
+        "duration_ms":200930,
+        "artists":[
+            "Jimin"
+        ]
+    },
+    "365":{
+        "country":"South Korea",
+        "energy":0.82,
+        "danceability":0.697,
+        "loudness":-4.502,
+        "speechiness":0.0308,
+        "duration_ms":159080,
+        "artists":[
+            "LE SSERAFIM"
+        ]
+    },
+    "366":{
+        "country":"South Korea",
+        "energy":0.592,
+        "danceability":0.881,
+        "loudness":-4.898,
+        "speechiness":0.0324,
+        "duration_ms":154487,
+        "artists":[
+            "Charlie Puth",
+            "Jung Kook",
+            "BTS"
+        ]
+    },
+    "367":{
+        "country":"South Korea",
+        "energy":0.729,
+        "danceability":0.606,
+        "loudness":-4.555,
+        "speechiness":0.0804,
+        "duration_ms":256373,
+        "artists":[
+            "Lim Young Woong"
+        ]
+    },
+    "368":{
+        "country":"South Korea",
+        "energy":0.75,
+        "danceability":0.715,
+        "loudness":-7.305,
+        "speechiness":0.148,
+        "duration_ms":241104,
+        "artists":[
+            "KingLee",
+            "Code G"
+        ]
+    },
+    "369":{
+        "country":"South Korea",
+        "energy":0.585,
+        "danceability":0.713,
+        "loudness":-5.592,
+        "speechiness":0.0385,
+        "duration_ms":190941,
+        "artists":[
+            "RIIZE"
+        ]
+    },
+    "370":{
+        "country":"South Korea",
+        "energy":0.495,
+        "danceability":0.284,
+        "loudness":-11.74,
+        "speechiness":0.0421,
+        "duration_ms":130996,
+        "artists":[
+            "Jimin"
+        ]
+    },
+    "371":{
+        "country":"South Korea",
+        "energy":0.889,
+        "danceability":0.641,
+        "loudness":-3.534,
+        "speechiness":0.0541,
+        "duration_ms":196400,
+        "artists":[
+            "Lim Young Woong"
+        ]
+    },
+    "372":{
+        "country":"South Korea",
+        "energy":0.572,
+        "danceability":0.662,
+        "loudness":-7.98,
+        "speechiness":0.0763,
+        "duration_ms":171482,
+        "artists":[
+            "J Money",
+            "KingLee"
+        ]
+    },
+    "373":{
+        "country":"South Korea",
+        "energy":0.749,
+        "danceability":0.812,
+        "loudness":-6.389,
+        "speechiness":0.0397,
+        "duration_ms":151373,
+        "artists":[
+            "NewJeans"
+        ]
+    },
+    "374":{
+        "country":"South Korea",
+        "energy":0.274,
+        "danceability":0.419,
+        "loudness":-9.321,
+        "speechiness":0.0314,
+        "duration_ms":154237,
+        "artists":[
+            "Jung Kook"
+        ]
+    },
+    "375":{
+        "country":"South Korea",
+        "energy":0.819,
+        "danceability":0.6,
+        "loudness":-5.019,
+        "speechiness":0.0451,
+        "duration_ms":205479,
+        "artists":[
+            "Lim Young Woong"
+        ]
+    },
+    "376":{
+        "country":"South Korea",
+        "energy":0.63,
+        "danceability":0.579,
+        "loudness":-7.758,
+        "speechiness":0.058,
+        "duration_ms":187027,
+        "artists":[
+            "V"
+        ]
+    },
+    "377":{
+        "country":"South Korea",
+        "energy":0.765,
+        "danceability":0.588,
+        "loudness":-5.914,
+        "speechiness":0.0518,
+        "duration_ms":220878,
+        "artists":[
+            "League of Legends",
+            "NewJeans"
+        ]
+    },
+    "378":{
+        "country":"South Korea",
+        "energy":0.768,
+        "danceability":0.703,
+        "loudness":-3.357,
+        "speechiness":0.0289,
+        "duration_ms":206400,
+        "artists":[
+            "Lim Young Woong"
+        ]
+    },
+    "379":{
+        "country":"South Korea",
+        "energy":0.824,
+        "danceability":0.853,
+        "loudness":-3.287,
+        "speechiness":0.103,
+        "duration_ms":201812,
+        "artists":[
+            "Jung Kook",
+            "Jack Harlow"
+        ]
+    },
+    "380":{
+        "country":"South Korea",
+        "energy":0.308,
+        "danceability":0.504,
+        "loudness":-14.958,
+        "speechiness":0.0321,
+        "duration_ms":137773,
+        "artists":[
+            "Mitski"
+        ]
+    },
+    "381":{
+        "country":"South Korea",
+        "energy":0.346,
+        "danceability":0.515,
+        "loudness":-8.908,
+        "speechiness":0.0342,
+        "duration_ms":219883,
+        "artists":[
+            "Lim Young Woong"
+        ]
+    },
+    "382":{
+        "country":"South Korea",
+        "energy":0.809,
+        "danceability":0.711,
+        "loudness":-4.389,
+        "speechiness":0.0955,
+        "duration_ms":206020,
+        "artists":[
+            "Jung Kook"
+        ]
+    },
+    "383":{
+        "country":"South Korea",
+        "energy":0.817,
+        "danceability":0.776,
+        "loudness":-6.018,
+        "speechiness":0.0748,
+        "duration_ms":154667,
+        "artists":[
+            "NewJeans"
+        ]
+    },
+    "384":{
+        "country":"South Korea",
+        "energy":0.823,
+        "danceability":0.661,
+        "loudness":-4.329,
+        "speechiness":0.127,
+        "duration_ms":214760,
+        "artists":[
+            "Jung Kook",
+            "USHER"
+        ]
+    },
+    "385":{
+        "country":"South Korea",
+        "energy":0.62,
+        "danceability":0.9,
+        "loudness":-5.101,
+        "speechiness":0.0716,
+        "duration_ms":160372,
+        "artists":[
+            "RIIZE"
+        ]
+    },
+    "386":{
+        "country":"South Korea",
+        "energy":0.405,
+        "danceability":0.381,
+        "loudness":-7.325,
+        "speechiness":0.0325,
+        "duration_ms":207387,
+        "artists":[
+            "Lim Young Woong"
+        ]
+    },
+    "387":{
+        "country":"South Korea",
+        "energy":0.519,
+        "danceability":0.689,
+        "loudness":-6.695,
+        "speechiness":0.0973,
+        "duration_ms":219032,
+        "artists":[
+            "KingLee",
+            "Lil' Flip"
+        ]
+    },
+    "388":{
+        "country":"South Korea",
+        "energy":0.875,
+        "danceability":0.52,
+        "loudness":-1.589,
+        "speechiness":0.0346,
+        "duration_ms":244427,
+        "artists":[
+            "Lim Young Woong"
+        ]
+    },
+    "389":{
+        "country":"South Korea",
+        "energy":0.771,
+        "danceability":0.804,
+        "loudness":-4.067,
+        "speechiness":0.0433,
+        "duration_ms":212253,
+        "artists":[
+            "NewJeans"
+        ]
+    },
+    "390":{
+        "country":"South Korea",
+        "energy":0.872,
+        "danceability":0.644,
+        "loudness":-1.54,
+        "speechiness":0.0417,
+        "duration_ms":214973,
+        "artists":[
+            "aespa"
+        ]
+    },
+    "391":{
+        "country":"South Korea",
+        "energy":0.641,
+        "danceability":0.814,
+        "loudness":-5.957,
+        "speechiness":0.111,
+        "duration_ms":185507,
+        "artists":[
+            "NewJeans"
+        ]
+    },
+    "392":{
+        "country":"South Korea",
+        "energy":0.83,
+        "danceability":0.482,
+        "loudness":-3.605,
+        "speechiness":0.0544,
+        "duration_ms":216587,
+        "artists":[
+            "Lim Young Woong"
+        ]
+    },
+    "393":{
+        "country":"South Korea",
+        "energy":0.753,
+        "danceability":0.752,
+        "loudness":-4.666,
+        "speechiness":0.0467,
+        "duration_ms":173489,
+        "artists":[
+            "RIIZE"
+        ]
+    },
+    "394":{
+        "country":"South Korea",
+        "energy":0.733,
+        "danceability":0.629,
+        "loudness":-5.445,
+        "speechiness":0.0419,
+        "duration_ms":212241,
+        "artists":[
+            "Jimin"
+        ]
+    },
+    "395":{
+        "country":"South Korea",
+        "energy":0.755,
+        "danceability":0.623,
+        "loudness":-5.386,
+        "speechiness":0.0415,
+        "duration_ms":212254,
+        "artists":[
+            "Jimin"
+        ]
+    },
+    "396":{
+        "country":"South Korea",
+        "energy":0.394,
+        "danceability":0.401,
+        "loudness":-6.655,
+        "speechiness":0.0324,
+        "duration_ms":274387,
+        "artists":[
+            "Lim Young Woong"
+        ]
+    },
+    "397":{
+        "country":"South Korea",
+        "energy":0.363,
+        "danceability":0.314,
+        "loudness":-7.236,
+        "speechiness":0.0289,
+        "duration_ms":238107,
+        "artists":[
+            "Lim Young Woong"
+        ]
+    },
+    "398":{
+        "country":"South Korea",
+        "energy":0.515,
+        "danceability":0.279,
+        "loudness":-4.511,
+        "speechiness":0.0305,
+        "duration_ms":233360,
+        "artists":[
+            "Lim Young Woong"
+        ]
+    },
+    "399":{
+        "country":"South Korea",
+        "energy":0.446,
+        "danceability":0.593,
+        "loudness":-7.776,
+        "speechiness":0.0266,
+        "duration_ms":211251,
+        "artists":[
+            "Jimin"
+        ]
+    }
+}

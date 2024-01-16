@@ -1,0 +1,24 @@
+{
+    "danceability": 0.628,
+    "energy": 0.523,
+    "key": 11,
+    "loudness": -8.307,
+    "mode": 0,
+    "speechiness": 0.0946,
+    "acousticness": 0.701,
+    "instrumentalness": 0.00274,
+    "liveness": 0.219,
+    "valence": 0.416,
+    "tempo": 169.982,
+    "type": "audio_features",
+    "id": "5mjYQaktjmjcMKcUIcqz4s",
+    "uri": "spotify:track:5mjYQaktjmjcMKcUIcqz4s",
+    "track_href": "https://api.spotify.com/v1/tracks/5mjYQaktjmjcMKcUIcqz4s",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5mjYQaktjmjcMKcUIcqz4s",
+    "duration_ms": 172965,
+    "time_signature": 4,
+    "song_name": "Strangers",
+    "artists": [
+        "Kenya Grace"
+    ]
+}

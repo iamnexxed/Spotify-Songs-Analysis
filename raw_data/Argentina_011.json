@@ -1,0 +1,25 @@
+{
+    "danceability": 0.742,
+    "energy": 0.692,
+    "key": 11,
+    "loudness": -3.687,
+    "mode": 1,
+    "speechiness": 0.0469,
+    "acousticness": 0.179,
+    "instrumentalness": 0,
+    "liveness": 0.188,
+    "valence": 0.897,
+    "tempo": 100.03,
+    "type": "audio_features",
+    "id": "1gAPIjqunPXRA4y1kYZi0q",
+    "uri": "spotify:track:1gAPIjqunPXRA4y1kYZi0q",
+    "track_href": "https://api.spotify.com/v1/tracks/1gAPIjqunPXRA4y1kYZi0q",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1gAPIjqunPXRA4y1kYZi0q",
+    "duration_ms": 148800,
+    "time_signature": 4,
+    "song_name": "Besos con Fernet",
+    "artists": [
+        "Rusherking",
+        "Marama"
+    ]
+}

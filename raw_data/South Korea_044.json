@@ -1,0 +1,25 @@
+{
+    "danceability": 0.588,
+    "energy": 0.765,
+    "key": 3,
+    "loudness": -5.914,
+    "mode": 0,
+    "speechiness": 0.0518,
+    "acousticness": 0.00685,
+    "instrumentalness": 3.23e-05,
+    "liveness": 0.2,
+    "valence": 0.492,
+    "tempo": 145.988,
+    "type": "audio_features",
+    "id": "210JJAa9nJOgNa0YNrsT5g",
+    "uri": "spotify:track:210JJAa9nJOgNa0YNrsT5g",
+    "track_href": "https://api.spotify.com/v1/tracks/210JJAa9nJOgNa0YNrsT5g",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/210JJAa9nJOgNa0YNrsT5g",
+    "duration_ms": 220878,
+    "time_signature": 4,
+    "song_name": "GODS",
+    "artists": [
+        "League of Legends",
+        "NewJeans"
+    ]
+}

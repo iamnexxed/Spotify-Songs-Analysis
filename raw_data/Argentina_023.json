@@ -1,0 +1,25 @@
+{
+    "danceability": 0.618,
+    "energy": 0.793,
+    "key": 11,
+    "loudness": -4.013,
+    "mode": 0,
+    "speechiness": 0.0493,
+    "acousticness": 0.163,
+    "instrumentalness": 0,
+    "liveness": 0.0822,
+    "valence": 0.688,
+    "tempo": 88.01,
+    "type": "audio_features",
+    "id": "04sktg3deiYUweHfbFUZTM",
+    "uri": "spotify:track:04sktg3deiYUweHfbFUZTM",
+    "track_href": "https://api.spotify.com/v1/tracks/04sktg3deiYUweHfbFUZTM",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/04sktg3deiYUweHfbFUZTM",
+    "duration_ms": 184587,
+    "time_signature": 4,
+    "song_name": "El Amor De Mi Vida",
+    "artists": [
+        "Los \u00c1ngeles Azules",
+        "Maria Becerra"
+    ]
+}

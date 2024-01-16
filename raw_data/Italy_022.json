@@ -1,0 +1,26 @@
+{
+    "danceability": 0.452,
+    "energy": 0.645,
+    "key": 4,
+    "loudness": -6.031,
+    "mode": 0,
+    "speechiness": 0.109,
+    "acousticness": 0.0545,
+    "instrumentalness": 4.24e-05,
+    "liveness": 0.124,
+    "valence": 0.355,
+    "tempo": 93.798,
+    "type": "audio_features",
+    "id": "6BhhV1ImaKVr1YwsyYIBWJ",
+    "uri": "spotify:track:6BhhV1ImaKVr1YwsyYIBWJ",
+    "track_href": "https://api.spotify.com/v1/tracks/6BhhV1ImaKVr1YwsyYIBWJ",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6BhhV1ImaKVr1YwsyYIBWJ",
+    "duration_ms": 204632,
+    "time_signature": 4,
+    "song_name": "B\u00c2TIMENT (feat. Sfera Ebbasta)",
+    "artists": [
+        "Simba La Rue",
+        "FT Kings",
+        "Sfera Ebbasta"
+    ]
+}

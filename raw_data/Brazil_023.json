@@ -1,0 +1,26 @@
+{
+    "danceability": 0.92,
+    "energy": 0.413,
+    "key": 7,
+    "loudness": -7.901,
+    "mode": 0,
+    "speechiness": 0.0752,
+    "acousticness": 0.504,
+    "instrumentalness": 0.0514,
+    "liveness": 0.133,
+    "valence": 0.679,
+    "tempo": 130.078,
+    "type": "audio_features",
+    "id": "64CovjRwInpOJW4PiGMprY",
+    "uri": "spotify:track:64CovjRwInpOJW4PiGMprY",
+    "track_href": "https://api.spotify.com/v1/tracks/64CovjRwInpOJW4PiGMprY",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/64CovjRwInpOJW4PiGMprY",
+    "duration_ms": 138462,
+    "time_signature": 4,
+    "song_name": "Faz um Vuk Vuk (Teto Espelhado)",
+    "artists": [
+        "MC Kevin o Chris",
+        "Dj Nk Da Serra",
+        "Mc Magrinho"
+    ]
+}

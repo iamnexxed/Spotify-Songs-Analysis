@@ -1,0 +1,24 @@
+{
+    "danceability": 0.884,
+    "energy": 0.718,
+    "key": 1,
+    "loudness": -4.976,
+    "mode": 0,
+    "speechiness": 0.0763,
+    "acousticness": 0.0406,
+    "instrumentalness": 4.69e-05,
+    "liveness": 0.287,
+    "valence": 0.729,
+    "tempo": 139.991,
+    "type": "audio_features",
+    "id": "51QmqegeWI2orK2mzDfnIH",
+    "uri": "spotify:track:51QmqegeWI2orK2mzDfnIH",
+    "track_href": "https://api.spotify.com/v1/tracks/51QmqegeWI2orK2mzDfnIH",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/51QmqegeWI2orK2mzDfnIH",
+    "duration_ms": 129846,
+    "time_signature": 4,
+    "song_name": "El Mambo",
+    "artists": [
+        "Kiko Rivera"
+    ]
+}

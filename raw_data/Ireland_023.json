@@ -1,0 +1,24 @@
+{
+    "danceability": 0.518,
+    "energy": 0.368,
+    "key": 11,
+    "loudness": -7.76,
+    "mode": 0,
+    "speechiness": 0.0353,
+    "acousticness": 0.855,
+    "instrumentalness": 4.9e-06,
+    "liveness": 0.119,
+    "valence": 0.234,
+    "tempo": 141.934,
+    "type": "audio_features",
+    "id": "17cia5k4BpGVlyEfqrFH50",
+    "uri": "spotify:track:17cia5k4BpGVlyEfqrFH50",
+    "track_href": "https://api.spotify.com/v1/tracks/17cia5k4BpGVlyEfqrFH50",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/17cia5k4BpGVlyEfqrFH50",
+    "duration_ms": 205484,
+    "time_signature": 4,
+    "song_name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
+    "artists": [
+        "Olivia Rodrigo"
+    ]
+}

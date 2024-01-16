@@ -1,0 +1,24 @@
+{
+    "danceability": 0.755,
+    "energy": 0.687,
+    "key": 8,
+    "loudness": -6.247,
+    "mode": 0,
+    "speechiness": 0.101,
+    "acousticness": 0.183,
+    "instrumentalness": 0.000177,
+    "liveness": 0.125,
+    "valence": 0.381,
+    "tempo": 123.01,
+    "type": "audio_features",
+    "id": "5PyDJG7SQRgWXefgexqIge",
+    "uri": "spotify:track:5PyDJG7SQRgWXefgexqIge",
+    "track_href": "https://api.spotify.com/v1/tracks/5PyDJG7SQRgWXefgexqIge",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5PyDJG7SQRgWXefgexqIge",
+    "duration_ms": 265360,
+    "time_signature": 4,
+    "song_name": "Agora Hills",
+    "artists": [
+        "Doja Cat"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "danceability": 0.689,
+    "energy": 0.539,
+    "key": 2,
+    "loudness": -7.671,
+    "mode": 0,
+    "speechiness": 0.048,
+    "acousticness": 0.178,
+    "instrumentalness": 1.45e-05,
+    "liveness": 0.106,
+    "valence": 0.239,
+    "tempo": 119.949,
+    "type": "audio_features",
+    "id": "3OdIiWnYRHPYtC313Z0Bwy",
+    "uri": "spotify:track:3OdIiWnYRHPYtC313Z0Bwy",
+    "track_href": "https://api.spotify.com/v1/tracks/3OdIiWnYRHPYtC313Z0Bwy",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3OdIiWnYRHPYtC313Z0Bwy",
+    "duration_ms": 229627,
+    "time_signature": 4,
+    "song_name": "Face-off",
+    "artists": [
+        "Jimin"
+    ]
+}

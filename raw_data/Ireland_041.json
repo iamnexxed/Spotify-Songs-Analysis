@@ -1,0 +1,24 @@
+{
+    "danceability": 0.741,
+    "energy": 0.785,
+    "key": 11,
+    "loudness": -5.211,
+    "mode": 1,
+    "speechiness": 0.0718,
+    "acousticness": 0.0773,
+    "instrumentalness": 1.47e-06,
+    "liveness": 0.113,
+    "valence": 0.204,
+    "tempo": 126.957,
+    "type": "audio_features",
+    "id": "44L2bY93uD65CEHWbozpx4",
+    "uri": "spotify:track:44L2bY93uD65CEHWbozpx4",
+    "track_href": "https://api.spotify.com/v1/tracks/44L2bY93uD65CEHWbozpx4",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/44L2bY93uD65CEHWbozpx4",
+    "duration_ms": 166299,
+    "time_signature": 4,
+    "song_name": "Pink Friday Girls",
+    "artists": [
+        "Nicki Minaj"
+    ]
+}

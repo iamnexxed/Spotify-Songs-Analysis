@@ -1,0 +1,25 @@
+{
+    "danceability": 0.663,
+    "energy": 0.67,
+    "key": 8,
+    "loudness": -8.399,
+    "mode": 1,
+    "speechiness": 0.271,
+    "acousticness": 0.0464,
+    "instrumentalness": 8.92e-05,
+    "liveness": 0.205,
+    "valence": 0.138,
+    "tempo": 136.952,
+    "type": "audio_features",
+    "id": "2YSzYUF3jWqb9YP9VXmpjE",
+    "uri": "spotify:track:2YSzYUF3jWqb9YP9VXmpjE",
+    "track_href": "https://api.spotify.com/v1/tracks/2YSzYUF3jWqb9YP9VXmpjE",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2YSzYUF3jWqb9YP9VXmpjE",
+    "duration_ms": 260111,
+    "time_signature": 4,
+    "song_name": "IDGAF (feat. Yeat)",
+    "artists": [
+        "Drake",
+        "Yeat"
+    ]
+}

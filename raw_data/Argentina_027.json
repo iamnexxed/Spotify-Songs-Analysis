@@ -1,0 +1,25 @@
+{
+    "danceability": 0.721,
+    "energy": 0.782,
+    "key": 11,
+    "loudness": -3.51,
+    "mode": 1,
+    "speechiness": 0.045,
+    "acousticness": 0.251,
+    "instrumentalness": 0,
+    "liveness": 0.107,
+    "valence": 0.77,
+    "tempo": 90.001,
+    "type": "audio_features",
+    "id": "11PV8CaPqlto9Uejx92C35",
+    "uri": "spotify:track:11PV8CaPqlto9Uejx92C35",
+    "track_href": "https://api.spotify.com/v1/tracks/11PV8CaPqlto9Uejx92C35",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/11PV8CaPqlto9Uejx92C35",
+    "duration_ms": 221601,
+    "time_signature": 4,
+    "song_name": "OJITOS ROJOS",
+    "artists": [
+        "Grupo Frontera",
+        "Ke Personajes"
+    ]
+}

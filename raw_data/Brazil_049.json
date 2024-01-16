@@ -1,0 +1,28 @@
+{
+    "danceability": 0.664,
+    "energy": 0.508,
+    "key": 9,
+    "loudness": -7.684,
+    "mode": 0,
+    "speechiness": 0.33,
+    "acousticness": 0.307,
+    "instrumentalness": 0,
+    "liveness": 0.126,
+    "valence": 0.228,
+    "tempo": 120.313,
+    "type": "audio_features",
+    "id": "1Vy9Wn5sbiduZKBqBlH3Mc",
+    "uri": "spotify:track:1Vy9Wn5sbiduZKBqBlH3Mc",
+    "track_href": "https://api.spotify.com/v1/tracks/1Vy9Wn5sbiduZKBqBlH3Mc",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Vy9Wn5sbiduZKBqBlH3Mc",
+    "duration_ms": 200000,
+    "time_signature": 4,
+    "song_name": "Ballena",
+    "artists": [
+        "Vulgo FK",
+        "MC PH",
+        "Veigh",
+        "Pedro Lotto",
+        "Fepache"
+    ]
+}

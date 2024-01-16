@@ -1,0 +1,28 @@
+{
+    "danceability": 0.734,
+    "energy": 0.228,
+    "key": 7,
+    "loudness": -4.731,
+    "mode": 0,
+    "speechiness": 0.53,
+    "acousticness": 0.889,
+    "instrumentalness": 0.00642,
+    "liveness": 0.102,
+    "valence": 0.522,
+    "tempo": 162.524,
+    "type": "audio_features",
+    "id": "00ZKeP47bZtswtANkvxz2j",
+    "uri": "spotify:track:00ZKeP47bZtswtANkvxz2j",
+    "track_href": "https://api.spotify.com/v1/tracks/00ZKeP47bZtswtANkvxz2j",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/00ZKeP47bZtswtANkvxz2j",
+    "duration_ms": 221538,
+    "time_signature": 5,
+    "song_name": "Baile do Bruxo",
+    "artists": [
+        "Tropa do Bruxo",
+        "DJ Ws da Igrejinha",
+        "SMU",
+        "Triz",
+        "Mc Menor Thalis"
+    ]
+}

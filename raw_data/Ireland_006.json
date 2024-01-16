@@ -1,0 +1,24 @@
+{
+    "danceability": 0.706,
+    "energy": 0.8,
+    "key": 5,
+    "loudness": -6.333,
+    "mode": 1,
+    "speechiness": 0.0399,
+    "acousticness": 0.00584,
+    "instrumentalness": 0,
+    "liveness": 0.0822,
+    "valence": 0.629,
+    "tempo": 100.011,
+    "type": "audio_features",
+    "id": "3U5JVgI2x4rDyHGObzJfNf",
+    "uri": "spotify:track:3U5JVgI2x4rDyHGObzJfNf",
+    "track_href": "https://api.spotify.com/v1/tracks/3U5JVgI2x4rDyHGObzJfNf",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3U5JVgI2x4rDyHGObzJfNf",
+    "duration_ms": 259333,
+    "time_signature": 4,
+    "song_name": "Unwritten",
+    "artists": [
+        "Natasha Bedingfield"
+    ]
+}

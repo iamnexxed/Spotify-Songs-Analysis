@@ -1,0 +1,26 @@
+{
+    "danceability": 0.613,
+    "energy": 0.775,
+    "key": 0,
+    "loudness": -4.241,
+    "mode": 1,
+    "speechiness": 0.032,
+    "acousticness": 0.254,
+    "instrumentalness": 0,
+    "liveness": 0.275,
+    "valence": 0.727,
+    "tempo": 142.437,
+    "type": "audio_features",
+    "id": "1xxtsuafCIJm7WPQ1tdDDi",
+    "uri": "spotify:track:1xxtsuafCIJm7WPQ1tdDDi",
+    "track_href": "https://api.spotify.com/v1/tracks/1xxtsuafCIJm7WPQ1tdDDi",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1xxtsuafCIJm7WPQ1tdDDi",
+    "duration_ms": 156632,
+    "time_signature": 3,
+    "song_name": "Bronceado - Remix",
+    "artists": [
+        "Marama",
+        "MYA",
+        "Robleis"
+    ]
+}

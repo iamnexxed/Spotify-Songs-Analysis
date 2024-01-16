@@ -1,0 +1,25 @@
+{
+    "danceability": 0.374,
+    "energy": 0.568,
+    "key": 1,
+    "loudness": -3.825,
+    "mode": 0,
+    "speechiness": 0.109,
+    "acousticness": 0.219,
+    "instrumentalness": 0.00219,
+    "liveness": 0.513,
+    "valence": 0.111,
+    "tempo": 84.733,
+    "type": "audio_features",
+    "id": "3DK6m7It6Pw857FcQftMds",
+    "uri": "spotify:track:3DK6m7It6Pw857FcQftMds",
+    "track_href": "https://api.spotify.com/v1/tracks/3DK6m7It6Pw857FcQftMds",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3DK6m7It6Pw857FcQftMds",
+    "duration_ms": 547733,
+    "time_signature": 4,
+    "song_name": "Runaway",
+    "artists": [
+        "Kanye West",
+        "Pusha T"
+    ]
+}

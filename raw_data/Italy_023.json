@@ -1,0 +1,26 @@
+{
+    "danceability": 0.864,
+    "energy": 0.616,
+    "key": 3,
+    "loudness": -6.296,
+    "mode": 1,
+    "speechiness": 0.0617,
+    "acousticness": 0.644,
+    "instrumentalness": 0,
+    "liveness": 0.0814,
+    "valence": 0.684,
+    "tempo": 105.978,
+    "type": "audio_features",
+    "id": "4QBfVk60RIBQg1uyox78Kh",
+    "uri": "spotify:track:4QBfVk60RIBQg1uyox78Kh",
+    "track_href": "https://api.spotify.com/v1/tracks/4QBfVk60RIBQg1uyox78Kh",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4QBfVk60RIBQg1uyox78Kh",
+    "duration_ms": 251321,
+    "time_signature": 4,
+    "song_name": "Parole Vuote (La Solitudine)",
+    "artists": [
+        "Tedua",
+        "Capo Plaza",
+        "SHUNE"
+    ]
+}

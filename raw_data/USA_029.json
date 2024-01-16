@@ -1,0 +1,24 @@
+{
+    "danceability": 0.927,
+    "energy": 0.619,
+    "key": 5,
+    "loudness": -4.441,
+    "mode": 0,
+    "speechiness": 0.0539,
+    "acousticness": 0.0186,
+    "instrumentalness": 0,
+    "liveness": 0.104,
+    "valence": 0.817,
+    "tempo": 117.995,
+    "type": "audio_features",
+    "id": "6wsqVwoiVH2kde4k4KKAFU",
+    "uri": "spotify:track:6wsqVwoiVH2kde4k4KKAFU",
+    "track_href": "https://api.spotify.com/v1/tracks/6wsqVwoiVH2kde4k4KKAFU",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6wsqVwoiVH2kde4k4KKAFU",
+    "duration_ms": 211582,
+    "time_signature": 4,
+    "song_name": "I KNOW ?",
+    "artists": [
+        "Travis Scott"
+    ]
+}

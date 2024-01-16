@@ -1,0 +1,25 @@
+{
+    "danceability": 0.69,
+    "energy": 0.795,
+    "key": 1,
+    "loudness": -6.819,
+    "mode": 0,
+    "speechiness": 0.0759,
+    "acousticness": 0.0721,
+    "instrumentalness": 0,
+    "liveness": 0.109,
+    "valence": 0.905,
+    "tempo": 101.071,
+    "type": "audio_features",
+    "id": "1w91YxaRwTShkKe4apYf3r",
+    "uri": "spotify:track:1w91YxaRwTShkKe4apYf3r",
+    "track_href": "https://api.spotify.com/v1/tracks/1w91YxaRwTShkKe4apYf3r",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1w91YxaRwTShkKe4apYf3r",
+    "duration_ms": 206806,
+    "time_signature": 4,
+    "song_name": "Insta Lova",
+    "artists": [
+        "Marracash",
+        "Gu\u00e8"
+    ]
+}

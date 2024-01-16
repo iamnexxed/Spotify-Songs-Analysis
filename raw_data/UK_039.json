@@ -1,0 +1,24 @@
+{
+    "danceability": 0.446,
+    "energy": 0.239,
+    "key": 1,
+    "loudness": -15.327,
+    "mode": 1,
+    "speechiness": 0.0876,
+    "acousticness": 0.574,
+    "instrumentalness": 7.76e-05,
+    "liveness": 0.12,
+    "valence": 0.31,
+    "tempo": 104.675,
+    "type": "audio_features",
+    "id": "0jF2AdhsalO1L7KkhK4LE5",
+    "uri": "spotify:track:0jF2AdhsalO1L7KkhK4LE5",
+    "track_href": "https://api.spotify.com/v1/tracks/0jF2AdhsalO1L7KkhK4LE5",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/0jF2AdhsalO1L7KkhK4LE5",
+    "duration_ms": 237733,
+    "time_signature": 4,
+    "song_name": "Practice",
+    "artists": [
+        "Drake"
+    ]
+}

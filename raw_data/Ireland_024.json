@@ -1,0 +1,24 @@
+{
+    "danceability": 0.671,
+    "energy": 0.845,
+    "key": 11,
+    "loudness": -4.93,
+    "mode": 0,
+    "speechiness": 0.048,
+    "acousticness": 0.0207,
+    "instrumentalness": 0,
+    "liveness": 0.329,
+    "valence": 0.775,
+    "tempo": 110.056,
+    "type": "audio_features",
+    "id": "1vYXt7VSjH9JIM5oRRo7vA",
+    "uri": "spotify:track:1vYXt7VSjH9JIM5oRRo7vA",
+    "track_href": "https://api.spotify.com/v1/tracks/1vYXt7VSjH9JIM5oRRo7vA",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1vYXt7VSjH9JIM5oRRo7vA",
+    "duration_ms": 176579,
+    "time_signature": 4,
+    "song_name": "Dance The Night - From Barbie The Album",
+    "artists": [
+        "Dua Lipa"
+    ]
+}

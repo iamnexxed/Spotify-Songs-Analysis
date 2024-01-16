@@ -1,0 +1,24 @@
+{
+    "danceability": 0.479,
+    "energy": 0.632,
+    "key": 10,
+    "loudness": -4.685,
+    "mode": 0,
+    "speechiness": 0.0332,
+    "acousticness": 0.809,
+    "instrumentalness": 0,
+    "liveness": 0.353,
+    "valence": 0.414,
+    "tempo": 82.273,
+    "type": "audio_features",
+    "id": "6ERI20r4GlgPI6ZDVLcGMO",
+    "uri": "spotify:track:6ERI20r4GlgPI6ZDVLcGMO",
+    "track_href": "https://api.spotify.com/v1/tracks/6ERI20r4GlgPI6ZDVLcGMO",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ERI20r4GlgPI6ZDVLcGMO",
+    "duration_ms": 183636,
+    "time_signature": 4,
+    "song_name": "M.A.I",
+    "artists": [
+        "Milo j"
+    ]
+}

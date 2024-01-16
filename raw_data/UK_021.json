@@ -1,0 +1,24 @@
+{
+    "danceability": 0.864,
+    "energy": 0.556,
+    "key": 2,
+    "loudness": -7.683,
+    "mode": 0,
+    "speechiness": 0.194,
+    "acousticness": 0.255,
+    "instrumentalness": 3.85e-06,
+    "liveness": 0.112,
+    "valence": 0.726,
+    "tempo": 99.974,
+    "type": "audio_features",
+    "id": "56y1jOTK0XSvJzVv9vHQBK",
+    "uri": "spotify:track:56y1jOTK0XSvJzVv9vHQBK",
+    "track_href": "https://api.spotify.com/v1/tracks/56y1jOTK0XSvJzVv9vHQBK",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/56y1jOTK0XSvJzVv9vHQBK",
+    "duration_ms": 230480,
+    "time_signature": 4,
+    "song_name": "Paint The Town Red",
+    "artists": [
+        "Doja Cat"
+    ]
+}

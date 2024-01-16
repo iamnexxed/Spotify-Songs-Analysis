@@ -1,0 +1,31 @@
+{
+    "danceability": 0.813,
+    "energy": 0.682,
+    "key": 0,
+    "loudness": -3.598,
+    "mode": 1,
+    "speechiness": 0.0402,
+    "acousticness": 0.107,
+    "instrumentalness": 0,
+    "liveness": 0.108,
+    "valence": 0.634,
+    "tempo": 120.011,
+    "type": "audio_features",
+    "id": "1Hs1uUl8o2VtDp1DABFq0O",
+    "uri": "spotify:track:1Hs1uUl8o2VtDp1DABFq0O",
+    "track_href": "https://api.spotify.com/v1/tracks/1Hs1uUl8o2VtDp1DABFq0O",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Hs1uUl8o2VtDp1DABFq0O",
+    "duration_ms": 338000,
+    "time_signature": 4,
+    "song_name": "Los del Espacio",
+    "artists": [
+        "LIT killah",
+        "Tiago PZK",
+        "Maria Becerra",
+        "Duki",
+        "Emilia",
+        "Rusherking",
+        "Big One",
+        "FMK"
+    ]
+}

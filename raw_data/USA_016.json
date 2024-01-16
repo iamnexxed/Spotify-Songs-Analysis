@@ -1,0 +1,26 @@
+{
+    "danceability": 0.645,
+    "energy": 0.729,
+    "key": 2,
+    "loudness": -4.56,
+    "mode": 1,
+    "speechiness": 0.0528,
+    "acousticness": 0.0377,
+    "instrumentalness": 0,
+    "liveness": 0.384,
+    "valence": 0.142,
+    "tempo": 146.01,
+    "type": "audio_features",
+    "id": "1yeB8MUNeLo9Ek1UEpsyz6",
+    "uri": "spotify:track:1yeB8MUNeLo9Ek1UEpsyz6",
+    "track_href": "https://api.spotify.com/v1/tracks/1yeB8MUNeLo9Ek1UEpsyz6",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1yeB8MUNeLo9Ek1UEpsyz6",
+    "duration_ms": 319192,
+    "time_signature": 4,
+    "song_name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+    "artists": [
+        "Drake",
+        "Sexyy Red",
+        "SZA"
+    ]
+}

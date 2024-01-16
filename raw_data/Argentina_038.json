@@ -1,0 +1,26 @@
+{
+    "danceability": 0.771,
+    "energy": 0.656,
+    "key": 5,
+    "loudness": -4.078,
+    "mode": 0,
+    "speechiness": 0.065,
+    "acousticness": 0.0863,
+    "instrumentalness": 0,
+    "liveness": 0.115,
+    "valence": 0.609,
+    "tempo": 93.069,
+    "type": "audio_features",
+    "id": "1lSayCmr2lS6ndxELoabIG",
+    "uri": "spotify:track:1lSayCmr2lS6ndxELoabIG",
+    "track_href": "https://api.spotify.com/v1/tracks/1lSayCmr2lS6ndxELoabIG",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1lSayCmr2lS6ndxELoabIG",
+    "duration_ms": 167419,
+    "time_signature": 4,
+    "song_name": "L\u00e1grimas | CROSSOVER #4",
+    "artists": [
+        "Big One",
+        "TINI",
+        "BM"
+    ]
+}

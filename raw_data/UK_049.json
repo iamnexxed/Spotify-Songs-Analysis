@@ -1,0 +1,25 @@
+{
+    "danceability": 0.504,
+    "energy": 0.976,
+    "key": 0,
+    "loudness": -0.653,
+    "mode": 1,
+    "speechiness": 0.0946,
+    "acousticness": 0.00488,
+    "instrumentalness": 9.64e-05,
+    "liveness": 0.139,
+    "valence": 0.368,
+    "tempo": 175.048,
+    "type": "audio_features",
+    "id": "602d2gJewoiF1FivuOMMwE",
+    "uri": "spotify:track:602d2gJewoiF1FivuOMMwE",
+    "track_href": "https://api.spotify.com/v1/tracks/602d2gJewoiF1FivuOMMwE",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/602d2gJewoiF1FivuOMMwE",
+    "duration_ms": 164571,
+    "time_signature": 4,
+    "song_name": "Disconnect",
+    "artists": [
+        "Becky Hill",
+        "Chase & Status"
+    ]
+}

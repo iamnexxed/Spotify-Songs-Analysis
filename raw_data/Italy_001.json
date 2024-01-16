@@ -1,0 +1,24 @@
+{
+    "danceability": 0.715,
+    "energy": 0.787,
+    "key": 10,
+    "loudness": -3.726,
+    "mode": 0,
+    "speechiness": 0.177,
+    "acousticness": 0.532,
+    "instrumentalness": 0,
+    "liveness": 0.514,
+    "valence": 0.723,
+    "tempo": 90.993,
+    "type": "audio_features",
+    "id": "6qECCt8d4AQt0cEv307MLa",
+    "uri": "spotify:track:6qECCt8d4AQt0cEv307MLa",
+    "track_href": "https://api.spotify.com/v1/tracks/6qECCt8d4AQt0cEv307MLa",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6qECCt8d4AQt0cEv307MLa",
+    "duration_ms": 185169,
+    "time_signature": 4,
+    "song_name": "C\u2019era Una Volta In Italia",
+    "artists": [
+        "Club Dogo"
+    ]
+}

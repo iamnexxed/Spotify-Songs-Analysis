@@ -1,0 +1,25 @@
+{
+    "danceability": 0.69,
+    "energy": 0.52,
+    "key": 8,
+    "loudness": -8.072,
+    "mode": 1,
+    "speechiness": 0.0355,
+    "acousticness": 0.794,
+    "instrumentalness": 3.92e-05,
+    "liveness": 0.108,
+    "valence": 0.225,
+    "tempo": 105.005,
+    "type": "audio_features",
+    "id": "1k255f17DRuRbGrfz5Ifmd",
+    "uri": "spotify:track:1k255f17DRuRbGrfz5Ifmd",
+    "track_href": "https://api.spotify.com/v1/tracks/1k255f17DRuRbGrfz5Ifmd",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1k255f17DRuRbGrfz5Ifmd",
+    "duration_ms": 153715,
+    "time_signature": 3,
+    "song_name": "wherever u r (ft. V of BTS)",
+    "artists": [
+        "UMI",
+        "V"
+    ]
+}

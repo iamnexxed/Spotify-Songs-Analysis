@@ -1,0 +1,24 @@
+{
+    "danceability": 0.5,
+    "energy": 0.857,
+    "key": 2,
+    "loudness": -3.582,
+    "mode": 1,
+    "speechiness": 0.0974,
+    "acousticness": 0.266,
+    "instrumentalness": 0,
+    "liveness": 0.732,
+    "valence": 0.816,
+    "tempo": 158.074,
+    "type": "audio_features",
+    "id": "4ssTFuVeNJG8py5dr2P2pV",
+    "uri": "spotify:track:4ssTFuVeNJG8py5dr2P2pV",
+    "track_href": "https://api.spotify.com/v1/tracks/4ssTFuVeNJG8py5dr2P2pV",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ssTFuVeNJG8py5dr2P2pV",
+    "duration_ms": 141216,
+    "time_signature": 1,
+    "song_name": "N\u00e3o Recomendo - Ao Vivo",
+    "artists": [
+        "Matheus & Kauan"
+    ]
+}

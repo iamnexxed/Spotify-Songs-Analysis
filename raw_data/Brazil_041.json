@@ -1,0 +1,25 @@
+{
+    "danceability": 0.762,
+    "energy": 0.677,
+    "key": 0,
+    "loudness": -5.244,
+    "mode": 1,
+    "speechiness": 0.0832,
+    "acousticness": 0.341,
+    "instrumentalness": 0,
+    "liveness": 0.62,
+    "valence": 0.672,
+    "tempo": 134.054,
+    "type": "audio_features",
+    "id": "1mpuiVbJvjekjogmDxocJi",
+    "uri": "spotify:track:1mpuiVbJvjekjogmDxocJi",
+    "track_href": "https://api.spotify.com/v1/tracks/1mpuiVbJvjekjogmDxocJi",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1mpuiVbJvjekjogmDxocJi",
+    "duration_ms": 143955,
+    "time_signature": 4,
+    "song_name": "Revezamento de Cama - Ao Vivo",
+    "artists": [
+        "Kelvin e Gustavo",
+        "\u00cdcaro e Gilmar"
+    ]
+}

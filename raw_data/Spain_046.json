@@ -1,0 +1,26 @@
+{
+    "danceability": 0.765,
+    "energy": 0.659,
+    "key": 11,
+    "loudness": -5.059,
+    "mode": 0,
+    "speechiness": 0.0825,
+    "acousticness": 0.0892,
+    "instrumentalness": 3.83e-05,
+    "liveness": 0.149,
+    "valence": 0.567,
+    "tempo": 132.066,
+    "type": "audio_features",
+    "id": "2df5CkXBJO7jTGXm54dFJy",
+    "uri": "spotify:track:2df5CkXBJO7jTGXm54dFJy",
+    "track_href": "https://api.spotify.com/v1/tracks/2df5CkXBJO7jTGXm54dFJy",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2df5CkXBJO7jTGXm54dFJy",
+    "duration_ms": 203636,
+    "time_signature": 4,
+    "song_name": "No_Se_Ve.mp3",
+    "artists": [
+        "Emilia",
+        "LUDMILLA",
+        "ZECCA"
+    ]
+}

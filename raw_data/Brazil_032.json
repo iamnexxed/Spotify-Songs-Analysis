@@ -1,0 +1,25 @@
+{
+    "danceability": 0.553,
+    "energy": 0.444,
+    "key": 9,
+    "loudness": -7.667,
+    "mode": 1,
+    "speechiness": 0.123,
+    "acousticness": 0.07,
+    "instrumentalness": 0.00301,
+    "liveness": 0.0762,
+    "valence": 0.344,
+    "tempo": 127.414,
+    "type": "audio_features",
+    "id": "2cZ62VBKsdZ7u1kKKJdFOc",
+    "uri": "spotify:track:2cZ62VBKsdZ7u1kKKJdFOc",
+    "track_href": "https://api.spotify.com/v1/tracks/2cZ62VBKsdZ7u1kKKJdFOc",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2cZ62VBKsdZ7u1kKKJdFOc",
+    "duration_ms": 187153,
+    "time_signature": 4,
+    "song_name": "Sou Musa do Ver\u00e3o",
+    "artists": [
+        "Marshmello",
+        "Lu\u00edsa Sonza"
+    ]
+}

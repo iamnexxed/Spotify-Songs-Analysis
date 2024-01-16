@@ -1,0 +1,24 @@
+{
+    "danceability": 0.644,
+    "energy": 0.872,
+    "key": 6,
+    "loudness": -1.54,
+    "mode": 0,
+    "speechiness": 0.0417,
+    "acousticness": 0.164,
+    "instrumentalness": 0,
+    "liveness": 0.363,
+    "valence": 0.378,
+    "tempo": 131.016,
+    "type": "audio_features",
+    "id": "5XWlyfo0kZ8LF7VSyfS4Ew",
+    "uri": "spotify:track:5XWlyfo0kZ8LF7VSyfS4Ew",
+    "track_href": "https://api.spotify.com/v1/tracks/5XWlyfo0kZ8LF7VSyfS4Ew",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5XWlyfo0kZ8LF7VSyfS4Ew",
+    "duration_ms": 214973,
+    "time_signature": 4,
+    "song_name": "Drama",
+    "artists": [
+        "aespa"
+    ]
+}

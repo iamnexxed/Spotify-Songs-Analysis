@@ -1,0 +1,24 @@
+{
+    "danceability": 0.776,
+    "energy": 0.817,
+    "key": 5,
+    "loudness": -6.018,
+    "mode": 0,
+    "speechiness": 0.0748,
+    "acousticness": 0.18,
+    "instrumentalness": 3.44e-05,
+    "liveness": 0.146,
+    "valence": 0.515,
+    "tempo": 149.921,
+    "type": "audio_features",
+    "id": "5sdQOyqq2IDhvmx2lHOpwd",
+    "uri": "spotify:track:5sdQOyqq2IDhvmx2lHOpwd",
+    "track_href": "https://api.spotify.com/v1/tracks/5sdQOyqq2IDhvmx2lHOpwd",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5sdQOyqq2IDhvmx2lHOpwd",
+    "duration_ms": 154667,
+    "time_signature": 4,
+    "song_name": "Super Shy",
+    "artists": [
+        "NewJeans"
+    ]
+}

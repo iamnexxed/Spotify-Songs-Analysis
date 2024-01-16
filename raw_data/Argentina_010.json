@@ -1,0 +1,28 @@
+{
+    "danceability": 0.78,
+    "energy": 0.63,
+    "key": 9,
+    "loudness": -4.719,
+    "mode": 1,
+    "speechiness": 0.105,
+    "acousticness": 0.307,
+    "instrumentalness": 0,
+    "liveness": 0.18,
+    "valence": 0.789,
+    "tempo": 87.999,
+    "type": "audio_features",
+    "id": "7HrgGbnNKZKhBL70aFKpXk",
+    "uri": "spotify:track:7HrgGbnNKZKhBL70aFKpXk",
+    "track_href": "https://api.spotify.com/v1/tracks/7HrgGbnNKZKhBL70aFKpXk",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/7HrgGbnNKZKhBL70aFKpXk",
+    "duration_ms": 234106,
+    "time_signature": 4,
+    "song_name": "Linda - Remix",
+    "artists": [
+        "Marka Akme",
+        "DJ Tao",
+        "Lauty Gram",
+        "Migrantes",
+        "Peipper"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "danceability": 0.814,
+    "energy": 0.63,
+    "key": 5,
+    "loudness": -3.69,
+    "mode": 0,
+    "speechiness": 0.0881,
+    "acousticness": 0.0805,
+    "instrumentalness": 0,
+    "liveness": 0.101,
+    "valence": 0.702,
+    "tempo": 89.974,
+    "type": "audio_features",
+    "id": "5wcghdKONQcc5TKx9jCcns",
+    "uri": "spotify:track:5wcghdKONQcc5TKx9jCcns",
+    "track_href": "https://api.spotify.com/v1/tracks/5wcghdKONQcc5TKx9jCcns",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5wcghdKONQcc5TKx9jCcns",
+    "duration_ms": 155292,
+    "time_signature": 4,
+    "song_name": "ROZE | DJ TAO Turreo Sessions #22",
+    "artists": [
+        "DJ Tao",
+        "Roze Oficial"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "danceability": 0.676,
+    "energy": 0.81,
+    "key": 11,
+    "loudness": -5.209,
+    "mode": 1,
+    "speechiness": 0.0411,
+    "acousticness": 0.0815,
+    "instrumentalness": 1.92e-06,
+    "liveness": 0.154,
+    "valence": 0.656,
+    "tempo": 129.986,
+    "type": "audio_features",
+    "id": "6tP2AFUZkz4PuUfssawUBn",
+    "uri": "spotify:track:6tP2AFUZkz4PuUfssawUBn",
+    "track_href": "https://api.spotify.com/v1/tracks/6tP2AFUZkz4PuUfssawUBn",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6tP2AFUZkz4PuUfssawUBn",
+    "duration_ms": 238534,
+    "time_signature": 4,
+    "song_name": "BON TON (feat. Lazza, Blanco, Sfera Ebbasta & Michelangelo)",
+    "artists": [
+        "Drillionaire",
+        "Lazza",
+        "BLANCO",
+        "Sfera Ebbasta",
+        "Michelangelo"
+    ]
+}

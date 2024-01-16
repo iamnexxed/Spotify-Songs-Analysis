@@ -1,0 +1,24 @@
+{
+    "danceability": 0.943,
+    "energy": 0.558,
+    "key": 2,
+    "loudness": -4.911,
+    "mode": 1,
+    "speechiness": 0.0568,
+    "acousticness": 0.0026,
+    "instrumentalness": 2.19e-06,
+    "liveness": 0.0937,
+    "valence": 0.606,
+    "tempo": 104.983,
+    "type": "audio_features",
+    "id": "4xhsWYTOGcal8zt0J161CU",
+    "uri": "spotify:track:4xhsWYTOGcal8zt0J161CU",
+    "track_href": "https://api.spotify.com/v1/tracks/4xhsWYTOGcal8zt0J161CU",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4xhsWYTOGcal8zt0J161CU",
+    "duration_ms": 138411,
+    "time_signature": 4,
+    "song_name": "Lovin On Me",
+    "artists": [
+        "Jack Harlow"
+    ]
+}

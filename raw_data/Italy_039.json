@@ -1,0 +1,25 @@
+{
+    "danceability": 0.8,
+    "energy": 0.654,
+    "key": 0,
+    "loudness": -6.786,
+    "mode": 0,
+    "speechiness": 0.276,
+    "acousticness": 0.244,
+    "instrumentalness": 0,
+    "liveness": 0.232,
+    "valence": 0.946,
+    "tempo": 123.017,
+    "type": "audio_features",
+    "id": "2TMF4ZxPrOncQiJ9KVXD3f",
+    "uri": "spotify:track:2TMF4ZxPrOncQiJ9KVXD3f",
+    "track_href": "https://api.spotify.com/v1/tracks/2TMF4ZxPrOncQiJ9KVXD3f",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2TMF4ZxPrOncQiJ9KVXD3f",
+    "duration_ms": 156320,
+    "time_signature": 4,
+    "song_name": "HOODRICH",
+    "artists": [
+        "Artie 5ive",
+        "Rondodasosa"
+    ]
+}

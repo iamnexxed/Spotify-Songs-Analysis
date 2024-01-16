@@ -1,0 +1,24 @@
+{
+    "danceability": 0.837,
+    "energy": 0.68,
+    "key": 9,
+    "loudness": -6.06,
+    "mode": 0,
+    "speechiness": 0.0533,
+    "acousticness": 0.063,
+    "instrumentalness": 1.52e-05,
+    "liveness": 0.347,
+    "valence": 0.412,
+    "tempo": 126.024,
+    "type": "audio_features",
+    "id": "5R4NkcQZB1kQXMoCFhl4OH",
+    "uri": "spotify:track:5R4NkcQZB1kQXMoCFhl4OH",
+    "track_href": "https://api.spotify.com/v1/tracks/5R4NkcQZB1kQXMoCFhl4OH",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5R4NkcQZB1kQXMoCFhl4OH",
+    "duration_ms": 109048,
+    "time_signature": 4,
+    "song_name": "Extasisssssss",
+    "artists": [
+        "Saiko"
+    ]
+}

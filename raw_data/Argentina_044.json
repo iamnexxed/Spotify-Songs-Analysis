@@ -1,0 +1,25 @@
+{
+    "danceability": 0.713,
+    "energy": 0.445,
+    "key": 9,
+    "loudness": -9.624,
+    "mode": 1,
+    "speechiness": 0.0391,
+    "acousticness": 0.396,
+    "instrumentalness": 0,
+    "liveness": 0.247,
+    "valence": 0.693,
+    "tempo": 89.896,
+    "type": "audio_features",
+    "id": "7v7RTZrtBsoENSPD0SCMLy",
+    "uri": "spotify:track:7v7RTZrtBsoENSPD0SCMLy",
+    "track_href": "https://api.spotify.com/v1/tracks/7v7RTZrtBsoENSPD0SCMLy",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/7v7RTZrtBsoENSPD0SCMLy",
+    "duration_ms": 158047,
+    "time_signature": 4,
+    "song_name": "DIME SI ERES FELIZ VOL.2",
+    "artists": [
+        "BM",
+        "Hernan y La Champion's Liga"
+    ]
+}

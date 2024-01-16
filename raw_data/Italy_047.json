@@ -1,0 +1,25 @@
+{
+    "danceability": 0.804,
+    "energy": 0.534,
+    "key": 9,
+    "loudness": -6.775,
+    "mode": 0,
+    "speechiness": 0.0511,
+    "acousticness": 0.157,
+    "instrumentalness": 0,
+    "liveness": 0.32,
+    "valence": 0.558,
+    "tempo": 114.934,
+    "type": "audio_features",
+    "id": "3KRwYDQt79HltHM1YHzQbl",
+    "uri": "spotify:track:3KRwYDQt79HltHM1YHzQbl",
+    "track_href": "https://api.spotify.com/v1/tracks/3KRwYDQt79HltHM1YHzQbl",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3KRwYDQt79HltHM1YHzQbl",
+    "duration_ms": 135652,
+    "time_signature": 4,
+    "song_name": "Machiavelli (feat. Simba La Rue)",
+    "artists": [
+        "Ghali",
+        "Simba La Rue"
+    ]
+}

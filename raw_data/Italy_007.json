@@ -1,0 +1,25 @@
+{
+    "danceability": 0.695,
+    "energy": 0.689,
+    "key": 11,
+    "loudness": -4.941,
+    "mode": 0,
+    "speechiness": 0.0443,
+    "acousticness": 0.158,
+    "instrumentalness": 2.17e-05,
+    "liveness": 0.0963,
+    "valence": 0.366,
+    "tempo": 136.962,
+    "type": "audio_features",
+    "id": "2gGq8fqoGuKpCjuV7p2dd3",
+    "uri": "spotify:track:2gGq8fqoGuKpCjuV7p2dd3",
+    "track_href": "https://api.spotify.com/v1/tracks/2gGq8fqoGuKpCjuV7p2dd3",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2gGq8fqoGuKpCjuV7p2dd3",
+    "duration_ms": 172320,
+    "time_signature": 4,
+    "song_name": "Moneylove (feat. Emis Killa)",
+    "artists": [
+        "Massimo Pericolo",
+        "Emis Killa"
+    ]
+}

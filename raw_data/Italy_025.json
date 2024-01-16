@@ -1,0 +1,24 @@
+{
+    "danceability": 0.756,
+    "energy": 0.631,
+    "key": 8,
+    "loudness": -5.297,
+    "mode": 0,
+    "speechiness": 0.0502,
+    "acousticness": 0.13,
+    "instrumentalness": 0,
+    "liveness": 0.0649,
+    "valence": 0.896,
+    "tempo": 130.052,
+    "type": "audio_features",
+    "id": "5x9LonDyHxGUO2VzfHJHLE",
+    "uri": "spotify:track:5x9LonDyHxGUO2VzfHJHLE",
+    "track_href": "https://api.spotify.com/v1/tracks/5x9LonDyHxGUO2VzfHJHLE",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5x9LonDyHxGUO2VzfHJHLE",
+    "duration_ms": 172615,
+    "time_signature": 4,
+    "song_name": "COME VUOI",
+    "artists": [
+        "Geolier"
+    ]
+}

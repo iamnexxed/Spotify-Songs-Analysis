@@ -1,0 +1,24 @@
+{
+    "danceability": 0.544,
+    "energy": 0.482,
+    "key": 2,
+    "loudness": -6.871,
+    "mode": 1,
+    "speechiness": 0.0346,
+    "acousticness": 0.679,
+    "instrumentalness": 0,
+    "liveness": 0.181,
+    "valence": 0.322,
+    "tempo": 134.98,
+    "type": "audio_features",
+    "id": "3G5VUAzCpvaaWEMk9NkHFT",
+    "uri": "spotify:track:3G5VUAzCpvaaWEMk9NkHFT",
+    "track_href": "https://api.spotify.com/v1/tracks/3G5VUAzCpvaaWEMk9NkHFT",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3G5VUAzCpvaaWEMk9NkHFT",
+    "duration_ms": 250895,
+    "time_signature": 4,
+    "song_name": "Tutti",
+    "artists": [
+        "Calcutta "
+    ]
+}

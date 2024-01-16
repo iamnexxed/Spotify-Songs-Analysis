@@ -1,0 +1,24 @@
+{
+    "danceability": 0.787,
+    "energy": 0.686,
+    "key": 6,
+    "loudness": -4.37,
+    "mode": 0,
+    "speechiness": 0.0339,
+    "acousticness": 0.0893,
+    "instrumentalness": 0,
+    "liveness": 0.0927,
+    "valence": 0.836,
+    "tempo": 123.51,
+    "type": "audio_features",
+    "id": "2Zo1PcszsT9WQ0ANntJbID",
+    "uri": "spotify:track:2Zo1PcszsT9WQ0ANntJbID",
+    "track_href": "https://api.spotify.com/v1/tracks/2Zo1PcszsT9WQ0ANntJbID",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Zo1PcszsT9WQ0ANntJbID",
+    "duration_ms": 185553,
+    "time_signature": 4,
+    "song_name": "Feather",
+    "artists": [
+        "Sabrina Carpenter"
+    ]
+}

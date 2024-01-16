@@ -1,0 +1,26 @@
+{
+    "danceability": 0.919,
+    "energy": 0.953,
+    "key": 9,
+    "loudness": -2.62,
+    "mode": 0,
+    "speechiness": 0.0443,
+    "acousticness": 0.47,
+    "instrumentalness": 2.38e-06,
+    "liveness": 0.113,
+    "valence": 0.874,
+    "tempo": 133.515,
+    "type": "audio_features",
+    "id": "1CtcgU1q0BgJN4Aottdscu",
+    "uri": "spotify:track:1CtcgU1q0BgJN4Aottdscu",
+    "track_href": "https://api.spotify.com/v1/tracks/1CtcgU1q0BgJN4Aottdscu",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1CtcgU1q0BgJN4Aottdscu",
+    "duration_ms": 125108,
+    "time_signature": 4,
+    "song_name": "Joga Pra Lua",
+    "artists": [
+        "Anitta",
+        "DENNIS",
+        "PEDRO SAMPAIO"
+    ]
+}

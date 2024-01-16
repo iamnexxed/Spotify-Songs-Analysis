@@ -1,0 +1,24 @@
+{
+    "danceability": 0.629,
+    "energy": 0.733,
+    "key": 7,
+    "loudness": -5.445,
+    "mode": 1,
+    "speechiness": 0.0419,
+    "acousticness": 0.0025,
+    "instrumentalness": 0,
+    "liveness": 0.357,
+    "valence": 0.362,
+    "tempo": 120.001,
+    "type": "audio_features",
+    "id": "3Ua0m0YmEjrMi9XErKcNiR",
+    "uri": "spotify:track:3Ua0m0YmEjrMi9XErKcNiR",
+    "track_href": "https://api.spotify.com/v1/tracks/3Ua0m0YmEjrMi9XErKcNiR",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Ua0m0YmEjrMi9XErKcNiR",
+    "duration_ms": 212241,
+    "time_signature": 4,
+    "song_name": "Like Crazy",
+    "artists": [
+        "Jimin"
+    ]
+}

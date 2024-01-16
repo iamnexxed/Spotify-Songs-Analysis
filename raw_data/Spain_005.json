@@ -1,0 +1,24 @@
+{
+    "danceability": 0.8,
+    "energy": 0.738,
+    "key": 7,
+    "loudness": -4.26,
+    "mode": 1,
+    "speechiness": 0.0691,
+    "acousticness": 0.372,
+    "instrumentalness": 0.00877,
+    "liveness": 0.19,
+    "valence": 0.267,
+    "tempo": 103.008,
+    "type": "audio_features",
+    "id": "7iUtQNMRB8ZkKC4AmEuCJC",
+    "uri": "spotify:track:7iUtQNMRB8ZkKC4AmEuCJC",
+    "track_href": "https://api.spotify.com/v1/tracks/7iUtQNMRB8ZkKC4AmEuCJC",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/7iUtQNMRB8ZkKC4AmEuCJC",
+    "duration_ms": 174230,
+    "time_signature": 4,
+    "song_name": "LA FALDA",
+    "artists": [
+        "Myke Towers"
+    ]
+}

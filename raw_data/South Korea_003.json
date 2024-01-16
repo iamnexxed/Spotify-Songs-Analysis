@@ -1,0 +1,24 @@
+{
+    "danceability": 0.716,
+    "energy": 0.54,
+    "key": 0,
+    "loudness": -5.951,
+    "mode": 1,
+    "speechiness": 0.0381,
+    "acousticness": 0.389,
+    "instrumentalness": 0,
+    "liveness": 0.0692,
+    "valence": 0.373,
+    "tempo": 87.963,
+    "type": "audio_features",
+    "id": "3k6q0O9JnO2GhvD6C8fs20",
+    "uri": "spotify:track:3k6q0O9JnO2GhvD6C8fs20",
+    "track_href": "https://api.spotify.com/v1/tracks/3k6q0O9JnO2GhvD6C8fs20",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3k6q0O9JnO2GhvD6C8fs20",
+    "duration_ms": 223302,
+    "time_signature": 4,
+    "song_name": "Closer Than This",
+    "artists": [
+        "Jimin"
+    ]
+}

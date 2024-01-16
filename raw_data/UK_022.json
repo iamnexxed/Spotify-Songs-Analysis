@@ -1,0 +1,25 @@
+{
+    "danceability": 0.68,
+    "energy": 0.881,
+    "key": 0,
+    "loudness": -4.503,
+    "mode": 1,
+    "speechiness": 0.0553,
+    "acousticness": 0.00499,
+    "instrumentalness": 0.0253,
+    "liveness": 0.574,
+    "valence": 0.105,
+    "tempo": 174.062,
+    "type": "audio_features",
+    "id": "7iUScoHKNJC5hqtA40vMlj",
+    "uri": "spotify:track:7iUScoHKNJC5hqtA40vMlj",
+    "track_href": "https://api.spotify.com/v1/tracks/7iUScoHKNJC5hqtA40vMlj",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/7iUScoHKNJC5hqtA40vMlj",
+    "duration_ms": 222784,
+    "time_signature": 4,
+    "song_name": "leavemealone",
+    "artists": [
+        "Fred again..",
+        "Baby Keem"
+    ]
+}

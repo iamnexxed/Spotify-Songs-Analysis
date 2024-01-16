@@ -1,0 +1,26 @@
+{
+    "danceability": 0.754,
+    "energy": 0.767,
+    "key": 6,
+    "loudness": -4.98,
+    "mode": 1,
+    "speechiness": 0.0594,
+    "acousticness": 0.0763,
+    "instrumentalness": 4.79e-05,
+    "liveness": 0.112,
+    "valence": 0.529,
+    "tempo": 134.084,
+    "type": "audio_features",
+    "id": "1K9qAxGT4cWUicf2OezSen",
+    "uri": "spotify:track:1K9qAxGT4cWUicf2OezSen",
+    "track_href": "https://api.spotify.com/v1/tracks/1K9qAxGT4cWUicf2OezSen",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1K9qAxGT4cWUicf2OezSen",
+    "duration_ms": 164776,
+    "time_signature": 4,
+    "song_name": "VETRI NERI",
+    "artists": [
+        "AVA",
+        "ANNA",
+        "Capo Plaza"
+    ]
+}

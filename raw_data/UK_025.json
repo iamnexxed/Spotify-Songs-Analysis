@@ -1,0 +1,24 @@
+{
+    "danceability": 0.744,
+    "energy": 0.789,
+    "key": 9,
+    "loudness": -4.876,
+    "mode": 0,
+    "speechiness": 0.059,
+    "acousticness": 0.0036,
+    "instrumentalness": 0.00144,
+    "liveness": 0.0947,
+    "valence": 0.866,
+    "tempo": 116.985,
+    "type": "audio_features",
+    "id": "4OMJGnvZfDvsePyCwRGO7X",
+    "uri": "spotify:track:4OMJGnvZfDvsePyCwRGO7X",
+    "track_href": "https://api.spotify.com/v1/tracks/4OMJGnvZfDvsePyCwRGO7X",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4OMJGnvZfDvsePyCwRGO7X",
+    "duration_ms": 185918,
+    "time_signature": 4,
+    "song_name": "Houdini",
+    "artists": [
+        "Dua Lipa"
+    ]
+}

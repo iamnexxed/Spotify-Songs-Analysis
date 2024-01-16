@@ -1,0 +1,26 @@
+{
+    "danceability": 0.86,
+    "energy": 0.497,
+    "key": 6,
+    "loudness": -6.968,
+    "mode": 0,
+    "speechiness": 0.0982,
+    "acousticness": 0.327,
+    "instrumentalness": 0.0491,
+    "liveness": 0.132,
+    "valence": 0.29,
+    "tempo": 123.047,
+    "type": "audio_features",
+    "id": "47yD0e9MCRIB8dgUXPfyW3",
+    "uri": "spotify:track:47yD0e9MCRIB8dgUXPfyW3",
+    "track_href": "https://api.spotify.com/v1/tracks/47yD0e9MCRIB8dgUXPfyW3",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/47yD0e9MCRIB8dgUXPfyW3",
+    "duration_ms": 193004,
+    "time_signature": 4,
+    "song_name": "pop ur shit",
+    "artists": [
+        "21 Savage",
+        "Young Thug",
+        "Metro Boomin"
+    ]
+}

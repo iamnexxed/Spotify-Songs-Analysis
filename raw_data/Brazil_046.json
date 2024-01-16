@@ -1,0 +1,24 @@
+{
+    "danceability": 0.743,
+    "energy": 0.865,
+    "key": 6,
+    "loudness": -3.897,
+    "mode": 1,
+    "speechiness": 0.0315,
+    "acousticness": 0.449,
+    "instrumentalness": 3.05e-06,
+    "liveness": 0.297,
+    "valence": 0.794,
+    "tempo": 129.999,
+    "type": "audio_features",
+    "id": "53PpijFATt35Zxfl6LTxoK",
+    "uri": "spotify:track:53PpijFATt35Zxfl6LTxoK",
+    "track_href": "https://api.spotify.com/v1/tracks/53PpijFATt35Zxfl6LTxoK",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/53PpijFATt35Zxfl6LTxoK",
+    "duration_ms": 166775,
+    "time_signature": 4,
+    "song_name": "Le\u00e3o",
+    "artists": [
+        "Mar\u00edlia Mendon\u00e7a"
+    ]
+}

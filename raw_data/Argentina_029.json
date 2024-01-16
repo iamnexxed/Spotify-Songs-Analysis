@@ -1,0 +1,25 @@
+{
+    "danceability": 0.577,
+    "energy": 0.513,
+    "key": 10,
+    "loudness": -7.653,
+    "mode": 0,
+    "speechiness": 0.0541,
+    "acousticness": 0.0613,
+    "instrumentalness": 0,
+    "liveness": 0.338,
+    "valence": 0.502,
+    "tempo": 177.939,
+    "type": "audio_features",
+    "id": "6PMapQ7YSxkhAgNOvvoiWs",
+    "uri": "spotify:track:6PMapQ7YSxkhAgNOvvoiWs",
+    "track_href": "https://api.spotify.com/v1/tracks/6PMapQ7YSxkhAgNOvvoiWs",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6PMapQ7YSxkhAgNOvvoiWs",
+    "duration_ms": 159101,
+    "time_signature": 4,
+    "song_name": "Bad Boy",
+    "artists": [
+        "Sayian Jimmy",
+        "Nysix Music"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "danceability": 0.705,
+    "energy": 0.526,
+    "key": 6,
+    "loudness": -6.359,
+    "mode": 1,
+    "speechiness": 0.327,
+    "acousticness": 0.509,
+    "instrumentalness": 0.000106,
+    "liveness": 0.0742,
+    "valence": 0.671,
+    "tempo": 200.031,
+    "type": "audio_features",
+    "id": "0TkIQ2I48rz4kpk1XpfyHq",
+    "uri": "spotify:track:0TkIQ2I48rz4kpk1XpfyHq",
+    "track_href": "https://api.spotify.com/v1/tracks/0TkIQ2I48rz4kpk1XpfyHq",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/0TkIQ2I48rz4kpk1XpfyHq",
+    "duration_ms": 168000,
+    "time_signature": 4,
+    "song_name": "Mi Luz (ft. Rels B)",
+    "artists": [
+        "Rvfv",
+        "Rels B"
+    ]
+}

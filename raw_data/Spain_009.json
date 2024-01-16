@@ -1,0 +1,24 @@
+{
+    "danceability": 0.845,
+    "energy": 0.795,
+    "key": 9,
+    "loudness": -3.502,
+    "mode": 0,
+    "speechiness": 0.0681,
+    "acousticness": 0.343,
+    "instrumentalness": 1.78e-05,
+    "liveness": 0.224,
+    "valence": 0.681,
+    "tempo": 94.969,
+    "type": "audio_features",
+    "id": "2kz1YOhJiNubjigR1gB1VX",
+    "uri": "spotify:track:2kz1YOhJiNubjigR1gB1VX",
+    "track_href": "https://api.spotify.com/v1/tracks/2kz1YOhJiNubjigR1gB1VX",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2kz1YOhJiNubjigR1gB1VX",
+    "duration_ms": 197053,
+    "time_signature": 4,
+    "song_name": "DILUVIO",
+    "artists": [
+        "Rauw Alejandro"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "danceability": 0.561,
+    "energy": 0.604,
+    "key": 9,
+    "loudness": -4.409,
+    "mode": 1,
+    "speechiness": 0.0337,
+    "acousticness": 0.199,
+    "instrumentalness": 1.9e-05,
+    "liveness": 0.104,
+    "valence": 0.242,
+    "tempo": 159.92,
+    "type": "audio_features",
+    "id": "17phhZDn6oGtzMe56NuWvj",
+    "uri": "spotify:track:17phhZDn6oGtzMe56NuWvj",
+    "track_href": "https://api.spotify.com/v1/tracks/17phhZDn6oGtzMe56NuWvj",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/17phhZDn6oGtzMe56NuWvj",
+    "duration_ms": 210689,
+    "time_signature": 3,
+    "song_name": "Lose Control",
+    "artists": [
+        "Teddy Swims"
+    ]
+}

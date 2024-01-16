@@ -1,0 +1,25 @@
+{
+    "danceability": 0.667,
+    "energy": 0.845,
+    "key": 6,
+    "loudness": -6.845,
+    "mode": 1,
+    "speechiness": 0.0812,
+    "acousticness": 0.0248,
+    "instrumentalness": 0.065,
+    "liveness": 0.466,
+    "valence": 0.681,
+    "tempo": 127.879,
+    "type": "audio_features",
+    "id": "0whmIaItqkT8e5PVuPyhvT",
+    "uri": "spotify:track:0whmIaItqkT8e5PVuPyhvT",
+    "track_href": "https://api.spotify.com/v1/tracks/0whmIaItqkT8e5PVuPyhvT",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/0whmIaItqkT8e5PVuPyhvT",
+    "duration_ms": 161250,
+    "time_signature": 4,
+    "song_name": "Perfect (Exceeder)",
+    "artists": [
+        "Mason",
+        "Princess Superstar"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "danceability": 0.761,
+    "energy": 0.827,
+    "key": 11,
+    "loudness": -4.189,
+    "mode": 0,
+    "speechiness": 0.0659,
+    "acousticness": 0.385,
+    "instrumentalness": 6.42e-05,
+    "liveness": 0.095,
+    "valence": 0.568,
+    "tempo": 97.021,
+    "type": "audio_features",
+    "id": "6q6aChVJ5LLXFUSfakwpxW",
+    "uri": "spotify:track:6q6aChVJ5LLXFUSfakwpxW",
+    "track_href": "https://api.spotify.com/v1/tracks/6q6aChVJ5LLXFUSfakwpxW",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6q6aChVJ5LLXFUSfakwpxW",
+    "duration_ms": 225661,
+    "time_signature": 4,
+    "song_name": "Piscina",
+    "artists": [
+        "Maria Becerra",
+        "Chencho Corleone",
+        "Ovy On The Drums"
+    ]
+}

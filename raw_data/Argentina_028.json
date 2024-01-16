@@ -1,0 +1,26 @@
+{
+    "danceability": 0.736,
+    "energy": 0.9,
+    "key": 1,
+    "loudness": -4.575,
+    "mode": 1,
+    "speechiness": 0.0825,
+    "acousticness": 0.224,
+    "instrumentalness": 0,
+    "liveness": 0.375,
+    "valence": 0.562,
+    "tempo": 149.947,
+    "type": "audio_features",
+    "id": "6jRZ33ifS5VOTMwmPxhPhN",
+    "uri": "spotify:track:6jRZ33ifS5VOTMwmPxhPhN",
+    "track_href": "https://api.spotify.com/v1/tracks/6jRZ33ifS5VOTMwmPxhPhN",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6jRZ33ifS5VOTMwmPxhPhN",
+    "duration_ms": 204000,
+    "time_signature": 4,
+    "song_name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
+    "artists": [
+        "Luck Ra",
+        "La K'onga",
+        "Ke Personajes"
+    ]
+}

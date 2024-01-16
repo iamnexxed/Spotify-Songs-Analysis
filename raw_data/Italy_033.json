@@ -1,0 +1,26 @@
+{
+    "danceability": 0.743,
+    "energy": 0.693,
+    "key": 10,
+    "loudness": -7.624,
+    "mode": 0,
+    "speechiness": 0.114,
+    "acousticness": 0.326,
+    "instrumentalness": 0,
+    "liveness": 0.205,
+    "valence": 0.567,
+    "tempo": 104.522,
+    "type": "audio_features",
+    "id": "5omIW7YOPhA6CULhkdz6jE",
+    "uri": "spotify:track:5omIW7YOPhA6CULhkdz6jE",
+    "track_href": "https://api.spotify.com/v1/tracks/5omIW7YOPhA6CULhkdz6jE",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5omIW7YOPhA6CULhkdz6jE",
+    "duration_ms": 162467,
+    "time_signature": 4,
+    "song_name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
+    "artists": [
+        "Tedua",
+        "Baby Gang",
+        "Kid Yugi"
+    ]
+}

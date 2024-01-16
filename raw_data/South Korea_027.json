@@ -1,0 +1,24 @@
+{
+    "danceability": 0.381,
+    "energy": 0.405,
+    "key": 1,
+    "loudness": -7.325,
+    "mode": 1,
+    "speechiness": 0.0325,
+    "acousticness": 0.629,
+    "instrumentalness": 0,
+    "liveness": 0.418,
+    "valence": 0.273,
+    "tempo": 130.94,
+    "type": "audio_features",
+    "id": "2jidjmWNeRmKgLjXhW52Gz",
+    "uri": "spotify:track:2jidjmWNeRmKgLjXhW52Gz",
+    "track_href": "https://api.spotify.com/v1/tracks/2jidjmWNeRmKgLjXhW52Gz",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2jidjmWNeRmKgLjXhW52Gz",
+    "duration_ms": 207387,
+    "time_signature": 4,
+    "song_name": "Our Blues, Our Life",
+    "artists": [
+        "Lim Young Woong"
+    ]
+}

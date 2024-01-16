@@ -1,0 +1,24 @@
+{
+    "danceability": 0.863,
+    "energy": 0.815,
+    "key": 5,
+    "loudness": -3.221,
+    "mode": 0,
+    "speechiness": 0.159,
+    "acousticness": 0.126,
+    "instrumentalness": 3.43e-06,
+    "liveness": 0.12,
+    "valence": 0.87,
+    "tempo": 134.957,
+    "type": "audio_features",
+    "id": "3OirlIOGwFgwcQgVru6IUG",
+    "uri": "spotify:track:3OirlIOGwFgwcQgVru6IUG",
+    "track_href": "https://api.spotify.com/v1/tracks/3OirlIOGwFgwcQgVru6IUG",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3OirlIOGwFgwcQgVru6IUG",
+    "duration_ms": 167445,
+    "time_signature": 4,
+    "song_name": "Sai Da Frente",
+    "artists": [
+        "Juliette"
+    ]
+}

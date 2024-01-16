@@ -1,0 +1,26 @@
+{
+    "danceability": 0.722,
+    "energy": 0.782,
+    "key": 5,
+    "loudness": -5.963,
+    "mode": 0,
+    "speechiness": 0.0524,
+    "acousticness": 0.598,
+    "instrumentalness": 0.00165,
+    "liveness": 0.124,
+    "valence": 0.762,
+    "tempo": 117.996,
+    "type": "audio_features",
+    "id": "5iilNoD56jD3FJ3bM9tMP0",
+    "uri": "spotify:track:5iilNoD56jD3FJ3bM9tMP0",
+    "track_href": "https://api.spotify.com/v1/tracks/5iilNoD56jD3FJ3bM9tMP0",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5iilNoD56jD3FJ3bM9tMP0",
+    "duration_ms": 174415,
+    "time_signature": 4,
+    "song_name": "Arena y Sal",
+    "artists": [
+        "Omar Montes",
+        "Saiko",
+        "Tunvao"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "danceability": 0.607,
+    "energy": 0.754,
+    "key": 7,
+    "loudness": -5.465,
+    "mode": 1,
+    "speechiness": 0.0714,
+    "acousticness": 0.041,
+    "instrumentalness": 1.32e-06,
+    "liveness": 0.344,
+    "valence": 0.419,
+    "tempo": 144.994,
+    "type": "audio_features",
+    "id": "4Xzq2WibDHR5Eufi21HlEZ",
+    "uri": "spotify:track:4Xzq2WibDHR5Eufi21HlEZ",
+    "track_href": "https://api.spotify.com/v1/tracks/4Xzq2WibDHR5Eufi21HlEZ",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Xzq2WibDHR5Eufi21HlEZ",
+    "duration_ms": 186771,
+    "time_signature": 4,
+    "song_name": "should've wore a bonnet",
+    "artists": [
+        "21 Savage",
+        "Brent Faiyaz"
+    ]
+}

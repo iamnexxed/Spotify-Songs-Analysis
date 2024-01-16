@@ -1,0 +1,24 @@
+{
+    "danceability": 0.359,
+    "energy": 0.76,
+    "key": 10,
+    "loudness": -4.632,
+    "mode": 1,
+    "speechiness": 0.0513,
+    "acousticness": 0.39,
+    "instrumentalness": 0,
+    "liveness": 0.247,
+    "valence": 0.496,
+    "tempo": 154.136,
+    "type": "audio_features",
+    "id": "3iam4WkRoqMoBBCwDFZNgd",
+    "uri": "spotify:track:3iam4WkRoqMoBBCwDFZNgd",
+    "track_href": "https://api.spotify.com/v1/tracks/3iam4WkRoqMoBBCwDFZNgd",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3iam4WkRoqMoBBCwDFZNgd",
+    "duration_ms": 178251,
+    "time_signature": 4,
+    "song_name": "Quase Algo - Ao Vivo Em Nova Iorque / 2022",
+    "artists": [
+        "Henrique & Juliano"
+    ]
+}

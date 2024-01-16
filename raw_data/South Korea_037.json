@@ -1,0 +1,24 @@
+{
+    "danceability": 0.279,
+    "energy": 0.515,
+    "key": 7,
+    "loudness": -4.511,
+    "mode": 1,
+    "speechiness": 0.0305,
+    "acousticness": 0.75,
+    "instrumentalness": 0.000114,
+    "liveness": 0.188,
+    "valence": 0.173,
+    "tempo": 139.694,
+    "type": "audio_features",
+    "id": "1E14FuM0BRaHAJSJ9YxMVu",
+    "uri": "spotify:track:1E14FuM0BRaHAJSJ9YxMVu",
+    "track_href": "https://api.spotify.com/v1/tracks/1E14FuM0BRaHAJSJ9YxMVu",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1E14FuM0BRaHAJSJ9YxMVu",
+    "duration_ms": 233360,
+    "time_signature": 4,
+    "song_name": "A Psalm of Life",
+    "artists": [
+        "Lim Young Woong"
+    ]
+}

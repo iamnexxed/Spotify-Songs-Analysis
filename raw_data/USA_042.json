@@ -1,0 +1,24 @@
+{
+    "danceability": 0.559,
+    "energy": 0.871,
+    "key": 5,
+    "loudness": -5.338,
+    "mode": 0,
+    "speechiness": 0.0397,
+    "acousticness": 7.53e-06,
+    "instrumentalness": 0.00545,
+    "liveness": 0.096,
+    "valence": 0.572,
+    "tempo": 104.97,
+    "type": "audio_features",
+    "id": "6dBUzqjtbnIa1TwYbyw5CM",
+    "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+    "track_href": "https://api.spotify.com/v1/tracks/6dBUzqjtbnIa1TwYbyw5CM",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6dBUzqjtbnIa1TwYbyw5CM",
+    "duration_ms": 213920,
+    "time_signature": 4,
+    "song_name": "Lovers Rock",
+    "artists": [
+        "TV Girl"
+    ]
+}

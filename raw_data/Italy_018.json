@@ -1,0 +1,24 @@
+{
+    "danceability": 0.774,
+    "energy": 0.755,
+    "key": 1,
+    "loudness": -3.994,
+    "mode": 0,
+    "speechiness": 0.243,
+    "acousticness": 0.284,
+    "instrumentalness": 0,
+    "liveness": 0.111,
+    "valence": 0.492,
+    "tempo": 81.993,
+    "type": "audio_features",
+    "id": "75Yzvfpj7uGrT9c39u4pvq",
+    "uri": "spotify:track:75Yzvfpj7uGrT9c39u4pvq",
+    "track_href": "https://api.spotify.com/v1/tracks/75Yzvfpj7uGrT9c39u4pvq",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/75Yzvfpj7uGrT9c39u4pvq",
+    "duration_ms": 198947,
+    "time_signature": 4,
+    "song_name": "Indelebili",
+    "artists": [
+        "Club Dogo"
+    ]
+}

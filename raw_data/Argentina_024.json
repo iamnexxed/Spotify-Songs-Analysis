@@ -1,0 +1,32 @@
+{
+    "danceability": 0.849,
+    "energy": 0.794,
+    "key": 1,
+    "loudness": -2.595,
+    "mode": 0,
+    "speechiness": 0.127,
+    "acousticness": 0.102,
+    "instrumentalness": 0,
+    "liveness": 0.0813,
+    "valence": 0.567,
+    "tempo": 105.002,
+    "type": "audio_features",
+    "id": "1dtFrIzrr4DJZOHHESVwbt",
+    "uri": "spotify:track:1dtFrIzrr4DJZOHHESVwbt",
+    "track_href": "https://api.spotify.com/v1/tracks/1dtFrIzrr4DJZOHHESVwbt",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1dtFrIzrr4DJZOHHESVwbt",
+    "duration_ms": 383369,
+    "time_signature": 4,
+    "song_name": "El Super Junte Rkt",
+    "artists": [
+        "Gusty dj",
+        "Salastkbron",
+        "Callejero Fino",
+        "Alejo Isakk",
+        "R Jota",
+        "L-Gante",
+        "Lolo OG",
+        "DobleP",
+        "Lauty Gram"
+    ]
+}

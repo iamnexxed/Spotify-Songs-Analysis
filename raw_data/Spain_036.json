@@ -1,0 +1,24 @@
+{
+    "danceability": 0.835,
+    "energy": 0.679,
+    "key": 7,
+    "loudness": -5.329,
+    "mode": 0,
+    "speechiness": 0.0364,
+    "acousticness": 0.583,
+    "instrumentalness": 1.98e-06,
+    "liveness": 0.218,
+    "valence": 0.85,
+    "tempo": 124.98,
+    "type": "audio_features",
+    "id": "3tt9i3Hhzq84dPS8H7iSiJ",
+    "uri": "spotify:track:3tt9i3Hhzq84dPS8H7iSiJ",
+    "track_href": "https://api.spotify.com/v1/tracks/3tt9i3Hhzq84dPS8H7iSiJ",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3tt9i3Hhzq84dPS8H7iSiJ",
+    "duration_ms": 162638,
+    "time_signature": 4,
+    "song_name": "La Bachata",
+    "artists": [
+        "Manuel Turizo"
+    ]
+}

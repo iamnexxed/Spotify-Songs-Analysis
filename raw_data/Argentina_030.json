@@ -1,0 +1,24 @@
+{
+    "danceability": 0.681,
+    "energy": 0.792,
+    "key": 1,
+    "loudness": -4.795,
+    "mode": 1,
+    "speechiness": 0.0587,
+    "acousticness": 0.334,
+    "instrumentalness": 2.05e-06,
+    "liveness": 0.295,
+    "valence": 0.4,
+    "tempo": 98.09,
+    "type": "audio_features",
+    "id": "3oNnzH6hmqIGIhJ1NcHlrh",
+    "uri": "spotify:track:3oNnzH6hmqIGIhJ1NcHlrh",
+    "track_href": "https://api.spotify.com/v1/tracks/3oNnzH6hmqIGIhJ1NcHlrh",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3oNnzH6hmqIGIhJ1NcHlrh",
+    "duration_ms": 160536,
+    "time_signature": 4,
+    "song_name": "CORAZ\u00d3N VAC\u00cdO",
+    "artists": [
+        "Maria Becerra"
+    ]
+}

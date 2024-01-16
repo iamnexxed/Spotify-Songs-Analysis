@@ -1,0 +1,24 @@
+{
+    "danceability": 0.77,
+    "energy": 0.907,
+    "key": 0,
+    "loudness": -4.679,
+    "mode": 0,
+    "speechiness": 0.215,
+    "acousticness": 0.427,
+    "instrumentalness": 4.34e-06,
+    "liveness": 0.132,
+    "valence": 0.696,
+    "tempo": 149.997,
+    "type": "audio_features",
+    "id": "68OXeY9CUQebrOAAh3b3Jw",
+    "uri": "spotify:track:68OXeY9CUQebrOAAh3b3Jw",
+    "track_href": "https://api.spotify.com/v1/tracks/68OXeY9CUQebrOAAh3b3Jw",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/68OXeY9CUQebrOAAh3b3Jw",
+    "duration_ms": 202361,
+    "time_signature": 4,
+    "song_name": "LA CAPI",
+    "artists": [
+        "Myke Towers"
+    ]
+}

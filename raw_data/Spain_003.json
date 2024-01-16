@@ -1,0 +1,26 @@
+{
+    "danceability": 0.76,
+    "energy": 0.646,
+    "key": 6,
+    "loudness": -5.009,
+    "mode": 1,
+    "speechiness": 0.068,
+    "acousticness": 0.361,
+    "instrumentalness": 0.000109,
+    "liveness": 0.254,
+    "valence": 0.576,
+    "tempo": 97.917,
+    "type": "audio_features",
+    "id": "3Cx4BsDd4q0GCVBJ5CAw2K",
+    "uri": "spotify:track:3Cx4BsDd4q0GCVBJ5CAw2K",
+    "track_href": "https://api.spotify.com/v1/tracks/3Cx4BsDd4q0GCVBJ5CAw2K",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Cx4BsDd4q0GCVBJ5CAw2K",
+    "duration_ms": 252040,
+    "time_signature": 4,
+    "song_name": "No Te Quieren Conmigo",
+    "artists": [
+        "Gaby Music",
+        "Lunay",
+        "Luar La L"
+    ]
+}

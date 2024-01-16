@@ -1,0 +1,25 @@
+{
+    "danceability": 0.704,
+    "energy": 0.571,
+    "key": 7,
+    "loudness": -8.212,
+    "mode": 0,
+    "speechiness": 0.156,
+    "acousticness": 0.588,
+    "instrumentalness": 0,
+    "liveness": 0.117,
+    "valence": 0.443,
+    "tempo": 96.016,
+    "type": "audio_features",
+    "id": "6VciS3dRMpZhJiDxT8ArFi",
+    "uri": "spotify:track:6VciS3dRMpZhJiDxT8ArFi",
+    "track_href": "https://api.spotify.com/v1/tracks/6VciS3dRMpZhJiDxT8ArFi",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6VciS3dRMpZhJiDxT8ArFi",
+    "duration_ms": 190000,
+    "time_signature": 4,
+    "song_name": "Young Miko: Bzrp Music Sessions, Vol. 58",
+    "artists": [
+        "Bizarrap",
+        "Young Miko"
+    ]
+}

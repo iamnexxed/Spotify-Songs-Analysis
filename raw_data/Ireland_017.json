@@ -1,0 +1,25 @@
+{
+    "danceability": 0.486,
+    "energy": 0.64,
+    "key": 3,
+    "loudness": -8.027,
+    "mode": 1,
+    "speechiness": 0.0551,
+    "acousticness": 0.136,
+    "instrumentalness": 7.58e-05,
+    "liveness": 0.105,
+    "valence": 0.289,
+    "tempo": 122.017,
+    "type": "audio_features",
+    "id": "4oEf84vBYVftf6KmZexhVo",
+    "uri": "spotify:track:4oEf84vBYVftf6KmZexhVo",
+    "track_href": "https://api.spotify.com/v1/tracks/4oEf84vBYVftf6KmZexhVo",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4oEf84vBYVftf6KmZexhVo",
+    "duration_ms": 267256,
+    "time_signature": 4,
+    "song_name": "Northern Attitude (with Hozier)",
+    "artists": [
+        "Noah Kahan",
+        "Hozier"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "danceability": 0.715,
+    "energy": 0.642,
+    "key": 10,
+    "loudness": -7.492,
+    "mode": 0,
+    "speechiness": 0.0515,
+    "acousticness": 0.0687,
+    "instrumentalness": 0,
+    "liveness": 0.0997,
+    "valence": 0.169,
+    "tempo": 105.964,
+    "type": "audio_features",
+    "id": "4PA1wK0leCjmRZlP5dQ8Lv",
+    "uri": "spotify:track:4PA1wK0leCjmRZlP5dQ8Lv",
+    "track_href": "https://api.spotify.com/v1/tracks/4PA1wK0leCjmRZlP5dQ8Lv",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4PA1wK0leCjmRZlP5dQ8Lv",
+    "duration_ms": 191321,
+    "time_signature": 4,
+    "song_name": "El Cielo",
+    "artists": [
+        "Sky Rompiendo",
+        "Feid",
+        "Myke Towers"
+    ]
+}

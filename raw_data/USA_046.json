@@ -1,0 +1,24 @@
+{
+    "danceability": 0.656,
+    "energy": 0.757,
+    "key": 3,
+    "loudness": -5.775,
+    "mode": 0,
+    "speechiness": 0.0308,
+    "acousticness": 0.492,
+    "instrumentalness": 0,
+    "liveness": 0.117,
+    "valence": 0.429,
+    "tempo": 139.971,
+    "type": "audio_features",
+    "id": "0PAcdVzhPO4gq1Iym9ESnK",
+    "uri": "spotify:track:0PAcdVzhPO4gq1Iym9ESnK",
+    "track_href": "https://api.spotify.com/v1/tracks/0PAcdVzhPO4gq1Iym9ESnK",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/0PAcdVzhPO4gq1Iym9ESnK",
+    "duration_ms": 177388,
+    "time_signature": 4,
+    "song_name": "Thinkin\u2019 Bout Me",
+    "artists": [
+        "Morgan Wallen"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "danceability": 0.711,
+    "energy": 0.809,
+    "key": 2,
+    "loudness": -4.389,
+    "mode": 0,
+    "speechiness": 0.0955,
+    "acousticness": 0.0447,
+    "instrumentalness": 0,
+    "liveness": 0.339,
+    "valence": 0.816,
+    "tempo": 106.017,
+    "type": "audio_features",
+    "id": "2KslE17cAJNHTsI2MI0jb2",
+    "uri": "spotify:track:2KslE17cAJNHTsI2MI0jb2",
+    "track_href": "https://api.spotify.com/v1/tracks/2KslE17cAJNHTsI2MI0jb2",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2KslE17cAJNHTsI2MI0jb2",
+    "duration_ms": 206020,
+    "time_signature": 4,
+    "song_name": "Standing Next to You",
+    "artists": [
+        "Jung Kook"
+    ]
+}

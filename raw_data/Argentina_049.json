@@ -1,0 +1,26 @@
+{
+    "danceability": 0.804,
+    "energy": 0.555,
+    "key": 1,
+    "loudness": -4.991,
+    "mode": 1,
+    "speechiness": 0.107,
+    "acousticness": 0.0924,
+    "instrumentalness": 0,
+    "liveness": 0.0699,
+    "valence": 0.64,
+    "tempo": 89.946,
+    "type": "audio_features",
+    "id": "7w7BrPbOjF5OxChs2dxFve",
+    "uri": "spotify:track:7w7BrPbOjF5OxChs2dxFve",
+    "track_href": "https://api.spotify.com/v1/tracks/7w7BrPbOjF5OxChs2dxFve",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/7w7BrPbOjF5OxChs2dxFve",
+    "duration_ms": 172118,
+    "time_signature": 4,
+    "song_name": "En La Intimidad | CROSSOVER #1",
+    "artists": [
+        "Big One",
+        "Emilia",
+        "Callejero Fino"
+    ]
+}

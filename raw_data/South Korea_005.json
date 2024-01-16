@@ -1,0 +1,25 @@
+{
+    "danceability": 0.853,
+    "energy": 0.824,
+    "key": 1,
+    "loudness": -3.287,
+    "mode": 1,
+    "speechiness": 0.103,
+    "acousticness": 0.0322,
+    "instrumentalness": 0,
+    "liveness": 0.0859,
+    "valence": 0.888,
+    "tempo": 108.044,
+    "type": "audio_features",
+    "id": "01qFKNWq73UfEslI0GvumE",
+    "uri": "spotify:track:01qFKNWq73UfEslI0GvumE",
+    "track_href": "https://api.spotify.com/v1/tracks/01qFKNWq73UfEslI0GvumE",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/01qFKNWq73UfEslI0GvumE",
+    "duration_ms": 201812,
+    "time_signature": 4,
+    "song_name": "3D (feat. Jack Harlow)",
+    "artists": [
+        "Jung Kook",
+        "Jack Harlow"
+    ]
+}

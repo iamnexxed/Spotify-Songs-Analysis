@@ -1,0 +1,26 @@
+{
+    "danceability": 0.881,
+    "energy": 0.592,
+    "key": 2,
+    "loudness": -4.898,
+    "mode": 1,
+    "speechiness": 0.0324,
+    "acousticness": 0.619,
+    "instrumentalness": 1.32e-05,
+    "liveness": 0.0901,
+    "valence": 0.719,
+    "tempo": 101.058,
+    "type": "audio_features",
+    "id": "5Odq8ohlgIbQKMZivbWkEo",
+    "uri": "spotify:track:5Odq8ohlgIbQKMZivbWkEo",
+    "track_href": "https://api.spotify.com/v1/tracks/5Odq8ohlgIbQKMZivbWkEo",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Odq8ohlgIbQKMZivbWkEo",
+    "duration_ms": 154487,
+    "time_signature": 4,
+    "song_name": "Left and Right (Feat. Jung Kook of BTS)",
+    "artists": [
+        "Charlie Puth",
+        "Jung Kook",
+        "BTS"
+    ]
+}

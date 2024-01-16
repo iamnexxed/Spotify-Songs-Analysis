@@ -1,0 +1,24 @@
+{
+    "danceability": 0.742,
+    "energy": 0.686,
+    "key": 9,
+    "loudness": -7.527,
+    "mode": 1,
+    "speechiness": 0.149,
+    "acousticness": 0.000375,
+    "instrumentalness": 0.00459,
+    "liveness": 0.147,
+    "valence": 0.312,
+    "tempo": 155.036,
+    "type": "audio_features",
+    "id": "2K7sv1mno9PvbXVBpqvSKn",
+    "uri": "spotify:track:2K7sv1mno9PvbXVBpqvSKn",
+    "track_href": "https://api.spotify.com/v1/tracks/2K7sv1mno9PvbXVBpqvSKn",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2K7sv1mno9PvbXVBpqvSKn",
+    "duration_ms": 201672,
+    "time_signature": 4,
+    "song_name": "sneaky",
+    "artists": [
+        "21 Savage"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "danceability": 0.685,
+    "energy": 0.61,
+    "key": 5,
+    "loudness": -5.36,
+    "mode": 0,
+    "speechiness": 0.0343,
+    "acousticness": 0.00348,
+    "instrumentalness": 0.00054,
+    "liveness": 0.183,
+    "valence": 0.464,
+    "tempo": 107.999,
+    "type": "audio_features",
+    "id": "6XaJfhwof7qIgbbXO5tIQI",
+    "uri": "spotify:track:6XaJfhwof7qIgbbXO5tIQI",
+    "track_href": "https://api.spotify.com/v1/tracks/6XaJfhwof7qIgbbXO5tIQI",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6XaJfhwof7qIgbbXO5tIQI",
+    "duration_ms": 260371,
+    "time_signature": 4,
+    "song_name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+    "artists": [
+        "Kali Uchis",
+        "Peso Pluma"
+    ]
+}

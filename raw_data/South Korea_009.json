@@ -1,0 +1,24 @@
+{
+    "danceability": 0.6,
+    "energy": 0.819,
+    "key": 1,
+    "loudness": -5.019,
+    "mode": 1,
+    "speechiness": 0.0451,
+    "acousticness": 0.0287,
+    "instrumentalness": 0,
+    "liveness": 0.308,
+    "valence": 0.645,
+    "tempo": 124.908,
+    "type": "audio_features",
+    "id": "21ewxM3YvcdTj7cC0XwznO",
+    "uri": "spotify:track:21ewxM3YvcdTj7cC0XwznO",
+    "track_href": "https://api.spotify.com/v1/tracks/21ewxM3YvcdTj7cC0XwznO",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/21ewxM3YvcdTj7cC0XwznO",
+    "duration_ms": 205479,
+    "time_signature": 4,
+    "song_name": "Do or Die",
+    "artists": [
+        "Lim Young Woong"
+    ]
+}

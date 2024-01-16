@@ -1,0 +1,24 @@
+{
+    "danceability": 0.73,
+    "energy": 0.849,
+    "key": 1,
+    "loudness": -5.281,
+    "mode": 0,
+    "speechiness": 0.0299,
+    "acousticness": 0.00234,
+    "instrumentalness": 2.6e-05,
+    "liveness": 0.312,
+    "valence": 0.887,
+    "tempo": 117.31,
+    "type": "audio_features",
+    "id": "4tKGFmENO69tZR9ahgZu48",
+    "uri": "spotify:track:4tKGFmENO69tZR9ahgZu48",
+    "track_href": "https://api.spotify.com/v1/tracks/4tKGFmENO69tZR9ahgZu48",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4tKGFmENO69tZR9ahgZu48",
+    "duration_ms": 230013,
+    "time_signature": 4,
+    "song_name": "Murder On The Dancefloor",
+    "artists": [
+        "Sophie Ellis-Bextor"
+    ]
+}

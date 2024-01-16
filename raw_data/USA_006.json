@@ -1,0 +1,25 @@
+{
+    "danceability": 0.429,
+    "energy": 0.453,
+    "key": 0,
+    "loudness": -7.746,
+    "mode": 1,
+    "speechiness": 0.0459,
+    "acousticness": 0.554,
+    "instrumentalness": 2e-06,
+    "liveness": 0.102,
+    "valence": 0.155,
+    "tempo": 77.639,
+    "type": "audio_features",
+    "id": "4KULAymBBJcPRpk1yO4dOG",
+    "uri": "spotify:track:4KULAymBBJcPRpk1yO4dOG",
+    "track_href": "https://api.spotify.com/v1/tracks/4KULAymBBJcPRpk1yO4dOG",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4KULAymBBJcPRpk1yO4dOG",
+    "duration_ms": 227196,
+    "time_signature": 4,
+    "song_name": "I Remember Everything (feat. Kacey Musgraves)",
+    "artists": [
+        "Zach Bryan",
+        "Kacey Musgraves"
+    ]
+}

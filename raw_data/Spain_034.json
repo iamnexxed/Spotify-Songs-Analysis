@@ -1,0 +1,26 @@
+{
+    "danceability": 0.817,
+    "energy": 0.851,
+    "key": 11,
+    "loudness": -3.309,
+    "mode": 0,
+    "speechiness": 0.0627,
+    "acousticness": 0.0351,
+    "instrumentalness": 0,
+    "liveness": 0.232,
+    "valence": 0.886,
+    "tempo": 127.019,
+    "type": "audio_features",
+    "id": "1MB8kTH7VKvAMfL9SHgJmG",
+    "uri": "spotify:track:1MB8kTH7VKvAMfL9SHgJmG",
+    "track_href": "https://api.spotify.com/v1/tracks/1MB8kTH7VKvAMfL9SHgJmG",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1MB8kTH7VKvAMfL9SHgJmG",
+    "duration_ms": 215600,
+    "time_signature": 4,
+    "song_name": "VAGABUNDO",
+    "artists": [
+        "Sebastian Yatra",
+        "Manuel Turizo",
+        "Be\u00e9le"
+    ]
+}

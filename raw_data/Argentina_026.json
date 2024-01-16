@@ -1,0 +1,25 @@
+{
+    "danceability": 0.73,
+    "energy": 0.697,
+    "key": 9,
+    "loudness": -3.067,
+    "mode": 1,
+    "speechiness": 0.0658,
+    "acousticness": 0.079,
+    "instrumentalness": 0,
+    "liveness": 0.0494,
+    "valence": 0.42,
+    "tempo": 94.944,
+    "type": "audio_features",
+    "id": "1smRP4zRit7A6ZDQXkFJWC",
+    "uri": "spotify:track:1smRP4zRit7A6ZDQXkFJWC",
+    "track_href": "https://api.spotify.com/v1/tracks/1smRP4zRit7A6ZDQXkFJWC",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1smRP4zRit7A6ZDQXkFJWC",
+    "duration_ms": 183329,
+    "time_signature": 4,
+    "song_name": "Le Gustan lo' Flaites",
+    "artists": [
+        "El Joan",
+        "Celso El Potente"
+    ]
+}

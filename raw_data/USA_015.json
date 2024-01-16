@@ -1,0 +1,24 @@
+{
+    "danceability": 0.653,
+    "energy": 0.805,
+    "key": 5,
+    "loudness": -5.708,
+    "mode": 0,
+    "speechiness": 0.304,
+    "acousticness": 0.12,
+    "instrumentalness": 1.17e-05,
+    "liveness": 0.842,
+    "valence": 0.791,
+    "tempo": 159.947,
+    "type": "audio_features",
+    "id": "2FoahzOSxJnalPA8aBUme3",
+    "uri": "spotify:track:2FoahzOSxJnalPA8aBUme3",
+    "track_href": "https://api.spotify.com/v1/tracks/2FoahzOSxJnalPA8aBUme3",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2FoahzOSxJnalPA8aBUme3",
+    "duration_ms": 198293,
+    "time_signature": 4,
+    "song_name": "all of me",
+    "artists": [
+        "21 Savage"
+    ]
+}

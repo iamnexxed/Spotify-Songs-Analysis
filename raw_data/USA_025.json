@@ -1,0 +1,24 @@
+{
+    "danceability": 0.511,
+    "energy": 0.532,
+    "key": 5,
+    "loudness": -5.745,
+    "mode": 1,
+    "speechiness": 0.0578,
+    "acousticness": 0.177,
+    "instrumentalness": 0,
+    "liveness": 0.291,
+    "valence": 0.35,
+    "tempo": 138.005,
+    "type": "audio_features",
+    "id": "1kuGVB7EU95pJObxwvfwKS",
+    "uri": "spotify:track:1kuGVB7EU95pJObxwvfwKS",
+    "track_href": "https://api.spotify.com/v1/tracks/1kuGVB7EU95pJObxwvfwKS",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1kuGVB7EU95pJObxwvfwKS",
+    "duration_ms": 219724,
+    "time_signature": 4,
+    "song_name": "vampire",
+    "artists": [
+        "Olivia Rodrigo"
+    ]
+}

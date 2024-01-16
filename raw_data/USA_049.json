@@ -1,0 +1,25 @@
+{
+    "danceability": 0.569,
+    "energy": 0.882,
+    "key": 3,
+    "loudness": -2.777,
+    "mode": 0,
+    "speechiness": 0.06,
+    "acousticness": 0.0316,
+    "instrumentalness": 0,
+    "liveness": 0.142,
+    "valence": 0.201,
+    "tempo": 148.038,
+    "type": "audio_features",
+    "id": "42VsgItocQwOQC3XWZ8JNA",
+    "uri": "spotify:track:42VsgItocQwOQC3XWZ8JNA",
+    "track_href": "https://api.spotify.com/v1/tracks/42VsgItocQwOQC3XWZ8JNA",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/42VsgItocQwOQC3XWZ8JNA",
+    "duration_ms": 191701,
+    "time_signature": 4,
+    "song_name": "FE!N (feat. Playboi Carti)",
+    "artists": [
+        "Travis Scott",
+        "Playboi Carti"
+    ]
+}

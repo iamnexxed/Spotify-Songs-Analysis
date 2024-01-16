@@ -1,0 +1,24 @@
+{
+    "danceability": 0.703,
+    "energy": 0.768,
+    "key": 0,
+    "loudness": -3.357,
+    "mode": 1,
+    "speechiness": 0.0289,
+    "acousticness": 0.532,
+    "instrumentalness": 0,
+    "liveness": 0.117,
+    "valence": 0.534,
+    "tempo": 102.966,
+    "type": "audio_features",
+    "id": "2tA3NP12r4niSRhb9Y6AoY",
+    "uri": "spotify:track:2tA3NP12r4niSRhb9Y6AoY",
+    "track_href": "https://api.spotify.com/v1/tracks/2tA3NP12r4niSRhb9Y6AoY",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2tA3NP12r4niSRhb9Y6AoY",
+    "duration_ms": 206400,
+    "time_signature": 4,
+    "song_name": "Polaroid",
+    "artists": [
+        "Lim Young Woong"
+    ]
+}

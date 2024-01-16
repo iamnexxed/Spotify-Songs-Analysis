@@ -1,0 +1,24 @@
+{
+    "danceability": 0.663,
+    "energy": 0.83,
+    "key": 8,
+    "loudness": -4.799,
+    "mode": 1,
+    "speechiness": 0.311,
+    "acousticness": 0.166,
+    "instrumentalness": 0.00054,
+    "liveness": 0.303,
+    "valence": 0.665,
+    "tempo": 172.118,
+    "type": "audio_features",
+    "id": "4KePlRbM1bdY6LIKH8kURb",
+    "uri": "spotify:track:4KePlRbM1bdY6LIKH8kURb",
+    "track_href": "https://api.spotify.com/v1/tracks/4KePlRbM1bdY6LIKH8kURb",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4KePlRbM1bdY6LIKH8kURb",
+    "duration_ms": 179879,
+    "time_signature": 4,
+    "song_name": "Tu Non Sei Lei",
+    "artists": [
+        "Club Dogo"
+    ]
+}

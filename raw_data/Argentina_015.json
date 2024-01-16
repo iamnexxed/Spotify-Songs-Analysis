@@ -1,0 +1,24 @@
+{
+    "danceability": 0.781,
+    "energy": 0.601,
+    "key": 7,
+    "loudness": -5.817,
+    "mode": 1,
+    "speechiness": 0.0459,
+    "acousticness": 0.513,
+    "instrumentalness": 0,
+    "liveness": 0.268,
+    "valence": 0.853,
+    "tempo": 88.06,
+    "type": "audio_features",
+    "id": "0H9WU0OIXPpbOVgzzOanXb",
+    "uri": "spotify:track:0H9WU0OIXPpbOVgzzOanXb",
+    "track_href": "https://api.spotify.com/v1/tracks/0H9WU0OIXPpbOVgzzOanXb",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/0H9WU0OIXPpbOVgzzOanXb",
+    "duration_ms": 161591,
+    "time_signature": 4,
+    "song_name": "Ni Una Ni Dos",
+    "artists": [
+        "BM"
+    ]
+}

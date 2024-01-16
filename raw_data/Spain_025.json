@@ -1,0 +1,24 @@
+{
+    "danceability": 0.768,
+    "energy": 0.295,
+    "key": 5,
+    "loudness": -10.467,
+    "mode": 1,
+    "speechiness": 0.0735,
+    "acousticness": 0.489,
+    "instrumentalness": 0.000358,
+    "liveness": 0.0993,
+    "valence": 0.791,
+    "tempo": 98.084,
+    "type": "audio_features",
+    "id": "3CqTTiYyJRJNmuxZcww8BP",
+    "uri": "spotify:track:3CqTTiYyJRJNmuxZcww8BP",
+    "track_href": "https://api.spotify.com/v1/tracks/3CqTTiYyJRJNmuxZcww8BP",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3CqTTiYyJRJNmuxZcww8BP",
+    "duration_ms": 131020,
+    "time_signature": 4,
+    "song_name": "lady madrizZz",
+    "artists": [
+        "c\u00e9ro"
+    ]
+}

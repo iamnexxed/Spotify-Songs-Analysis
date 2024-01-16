@@ -1,0 +1,24 @@
+{
+    "danceability": 0.811,
+    "energy": 0.649,
+    "key": 6,
+    "loudness": -5.089,
+    "mode": 1,
+    "speechiness": 0.111,
+    "acousticness": 0.343,
+    "instrumentalness": 0,
+    "liveness": 0.121,
+    "valence": 0.756,
+    "tempo": 96.076,
+    "type": "audio_features",
+    "id": "4sl3IoHskl2Kbdy27gZ4yn",
+    "uri": "spotify:track:4sl3IoHskl2Kbdy27gZ4yn",
+    "track_href": "https://api.spotify.com/v1/tracks/4sl3IoHskl2Kbdy27gZ4yn",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4sl3IoHskl2Kbdy27gZ4yn",
+    "duration_ms": 122500,
+    "time_signature": 4,
+    "song_name": "Una Foto",
+    "artists": [
+        "Mesita"
+    ]
+}

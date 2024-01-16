@@ -1,0 +1,25 @@
+{
+    "danceability": 0.869,
+    "energy": 0.568,
+    "key": 8,
+    "loudness": -8.648,
+    "mode": 0,
+    "speechiness": 0.0729,
+    "acousticness": 0.0023,
+    "instrumentalness": 0.00177,
+    "liveness": 0.0778,
+    "valence": 0.35,
+    "tempo": 98.015,
+    "type": "audio_features",
+    "id": "4GvEuYAfJlICR2SpMDaBxQ",
+    "uri": "spotify:track:4GvEuYAfJlICR2SpMDaBxQ",
+    "track_href": "https://api.spotify.com/v1/tracks/4GvEuYAfJlICR2SpMDaBxQ",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4GvEuYAfJlICR2SpMDaBxQ",
+    "duration_ms": 172768,
+    "time_signature": 4,
+    "song_name": "ANDO",
+    "artists": [
+        "Jere Klein",
+        "Gittobeatz"
+    ]
+}

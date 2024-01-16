@@ -1,0 +1,25 @@
+{
+    "danceability": 0.35,
+    "energy": 0.711,
+    "key": 0,
+    "loudness": -5.203,
+    "mode": 1,
+    "speechiness": 0.0497,
+    "acousticness": 0.495,
+    "instrumentalness": 0,
+    "liveness": 0.751,
+    "valence": 0.409,
+    "tempo": 163.677,
+    "type": "audio_features",
+    "id": "4Lqjw0EejvxhI3hKROpTC9",
+    "uri": "spotify:track:4Lqjw0EejvxhI3hKROpTC9",
+    "track_href": "https://api.spotify.com/v1/tracks/4Lqjw0EejvxhI3hKROpTC9",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Lqjw0EejvxhI3hKROpTC9",
+    "duration_ms": 273136,
+    "time_signature": 4,
+    "song_name": "Me Esque\u00e7a / Volta Pra Mim - Ao Vivo",
+    "artists": [
+        "Clayton & Rom\u00e1rio",
+        "Hugo & Guilherme"
+    ]
+}

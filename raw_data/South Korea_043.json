@@ -1,0 +1,24 @@
+{
+    "danceability": 0.645,
+    "energy": 0.83,
+    "key": 5,
+    "loudness": -1.92,
+    "mode": 0,
+    "speechiness": 0.138,
+    "acousticness": 0.0843,
+    "instrumentalness": 0,
+    "liveness": 0.0605,
+    "valence": 0.725,
+    "tempo": 179.977,
+    "type": "audio_features",
+    "id": "2RoYgkPzUY0vY7lhUuyus1",
+    "uri": "spotify:track:2RoYgkPzUY0vY7lhUuyus1",
+    "track_href": "https://api.spotify.com/v1/tracks/2RoYgkPzUY0vY7lhUuyus1",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2RoYgkPzUY0vY7lhUuyus1",
+    "duration_ms": 166979,
+    "time_signature": 4,
+    "song_name": "DASH",
+    "artists": [
+        "NMIXX"
+    ]
+}

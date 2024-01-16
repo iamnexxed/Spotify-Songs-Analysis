@@ -1,0 +1,26 @@
+{
+    "danceability": 0.798,
+    "energy": 0.681,
+    "key": 10,
+    "loudness": -4.818,
+    "mode": 0,
+    "speechiness": 0.0722,
+    "acousticness": 0.219,
+    "instrumentalness": 0.00197,
+    "liveness": 0.137,
+    "valence": 0.434,
+    "tempo": 101.005,
+    "type": "audio_features",
+    "id": "6JI15EdgbGuhUjm4tWyIco",
+    "uri": "spotify:track:6JI15EdgbGuhUjm4tWyIco",
+    "track_href": "https://api.spotify.com/v1/tracks/6JI15EdgbGuhUjm4tWyIco",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6JI15EdgbGuhUjm4tWyIco",
+    "duration_ms": 188485,
+    "time_signature": 4,
+    "song_name": "SEYA",
+    "artists": [
+        "GIMS",
+        "Morad",
+        "SativaMusic"
+    ]
+}

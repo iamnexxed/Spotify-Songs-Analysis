@@ -1,0 +1,26 @@
+{
+    "danceability": 0.724,
+    "energy": 0.537,
+    "key": 4,
+    "loudness": -8.955,
+    "mode": 0,
+    "speechiness": 0.0703,
+    "acousticness": 0.667,
+    "instrumentalness": 0.000122,
+    "liveness": 0.109,
+    "valence": 0.219,
+    "tempo": 125.142,
+    "type": "audio_features",
+    "id": "5hyKw9bjqXCcIxAoDmAxMJ",
+    "uri": "spotify:track:5hyKw9bjqXCcIxAoDmAxMJ",
+    "track_href": "https://api.spotify.com/v1/tracks/5hyKw9bjqXCcIxAoDmAxMJ",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5hyKw9bjqXCcIxAoDmAxMJ",
+    "duration_ms": 268320,
+    "time_signature": 4,
+    "song_name": "No Estuviste En Lo Malo - REMIX",
+    "artists": [
+        "Morad",
+        "Beny Jr",
+        "DELLAFUENTE"
+    ]
+}

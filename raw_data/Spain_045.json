@@ -1,0 +1,25 @@
+{
+    "danceability": 0.777,
+    "energy": 0.774,
+    "key": 8,
+    "loudness": -3.079,
+    "mode": 0,
+    "speechiness": 0.0553,
+    "acousticness": 0.0895,
+    "instrumentalness": 0.000401,
+    "liveness": 0.0909,
+    "valence": 0.661,
+    "tempo": 123.982,
+    "type": "audio_features",
+    "id": "5KbBVSj6AJZ5662fO8EYFh",
+    "uri": "spotify:track:5KbBVSj6AJZ5662fO8EYFh",
+    "track_href": "https://api.spotify.com/v1/tracks/5KbBVSj6AJZ5662fO8EYFh",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5KbBVSj6AJZ5662fO8EYFh",
+    "duration_ms": 189669,
+    "time_signature": 4,
+    "song_name": "El Merengue",
+    "artists": [
+        "Marshmello",
+        "Manuel Turizo"
+    ]
+}

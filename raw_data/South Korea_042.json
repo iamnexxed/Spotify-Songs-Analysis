@@ -1,0 +1,24 @@
+{
+    "danceability": 0.404,
+    "energy": 0.443,
+    "key": 8,
+    "loudness": -6.799,
+    "mode": 1,
+    "speechiness": 0.0333,
+    "acousticness": 0.651,
+    "instrumentalness": 0,
+    "liveness": 0.12,
+    "valence": 0.36,
+    "tempo": 131.298,
+    "type": "audio_features",
+    "id": "4rMEoXVYww6Xy7q9wSj4gy",
+    "uri": "spotify:track:4rMEoXVYww6Xy7q9wSj4gy",
+    "track_href": "https://api.spotify.com/v1/tracks/4rMEoXVYww6Xy7q9wSj4gy",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4rMEoXVYww6Xy7q9wSj4gy",
+    "duration_ms": 242760,
+    "time_signature": 4,
+    "song_name": "Love Always Run Away",
+    "artists": [
+        "Lim Young Woong"
+    ]
+}

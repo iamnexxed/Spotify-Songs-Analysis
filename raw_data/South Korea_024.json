@@ -1,0 +1,24 @@
+{
+    "danceability": 0.641,
+    "energy": 0.889,
+    "key": 8,
+    "loudness": -3.534,
+    "mode": 1,
+    "speechiness": 0.0541,
+    "acousticness": 0.0394,
+    "instrumentalness": 0,
+    "liveness": 0.181,
+    "valence": 0.616,
+    "tempo": 96.033,
+    "type": "audio_features",
+    "id": "50xSycnGMDy0Wg5jJcOv3S",
+    "uri": "spotify:track:50xSycnGMDy0Wg5jJcOv3S",
+    "track_href": "https://api.spotify.com/v1/tracks/50xSycnGMDy0Wg5jJcOv3S",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/50xSycnGMDy0Wg5jJcOv3S",
+    "duration_ms": 196400,
+    "time_signature": 4,
+    "song_name": "Rainbow",
+    "artists": [
+        "Lim Young Woong"
+    ]
+}
